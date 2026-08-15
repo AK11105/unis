@@ -366,7 +366,7 @@ Since **Winter Semester 2024/25**, TUM charges tuition fees for newly enrolled n
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Official tuition fees: https://www.tum.de/en/studies/fees/tuition

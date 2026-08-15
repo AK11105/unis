@@ -337,7 +337,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - KIT study programmes list: https://www.sle.kit.edu/vorstudium/studiengaenge.php

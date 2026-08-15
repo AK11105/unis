@@ -1,6 +1,7 @@
 site_name: Masters Research — Europe 2027
 site_description: A curated research portfolio for AI/ML Master's programmes in Europe
 site_author: Atharva Kulkarni
+site_url: https://ak11105.github.io/unis/
 
 theme:
   name: material
@@ -22,13 +23,19 @@ theme:
     code: JetBrains Mono
   features:
     - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - navigation.top
     - navigation.indexes
+    - navigation.top
+    - navigation.footer
     - search.highlight
     - search.suggest
+    - search.share
     - content.tabs.link
+    - content.tooltips
     - toc.follow
   icon:
     repo: fontawesome/brands/github
@@ -36,6 +43,9 @@ theme:
 extra:
   social: []
   generator: false
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - tables
@@ -47,8 +57,17 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.mark
+  - pymdownx.keys
   - attr_list
   - md_in_html
+  - def_list
+  - footnotes
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/abbreviations.md
   - toc:
       permalink: true
 

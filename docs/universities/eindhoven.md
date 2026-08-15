@@ -179,7 +179,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - TU/e Education: https://www.tue.nl/en/education

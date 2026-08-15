@@ -1,35 +1,61 @@
-# Masters Research — Europe 2027
-
-A curated research portfolio documenting my shortlisted Master's programmes in AI, Machine Learning, and Computer Science across Europe — prepared for advisor review and discussion.
-
+---
+hide:
+  - toc
 ---
 
-## What's here
+# Masters Research — Europe 2027
 
-| Section | Description |
-|---------|-------------|
-| **[Profile](profile.md)** | My research interests, academic goals, and selection criteria |
-| **[Shortlist](shortlist.md)** | Tiered overview with a side-by-side comparison table |
-| **[Documents](documents.md)** | What's needed per university — tests, recs, fees, timeline |
-| **[Faculty](faculty.md)** | Research group & advisor matching *(in progress)* |
-| **[Universities](universities/index.md)** | Detailed pages per university — programmes, deadlines, costs, research strengths |
+A curated research portfolio for AI/ML Master's programmes in Europe — prepared for advisor review.
+
+<div class="grid cards" markdown>
+
+-   **[Profile](profile.md)**
+
+    ---
+
+    Research interests, academic goals, selection criteria
+
+-   **[Shortlist](shortlist.md)**
+
+    ---
+
+    Tiered overview with side-by-side comparison tables
+
+-   **[Documents](documents.md)**
+
+    ---
+
+    Tests, recs, fees, timelines — what's needed per university
+
+-   **[Faculty](faculty.md)**
+
+    ---
+
+    Research group and advisor matching *(in progress)*
+
+-   **[Universities](universities/index.md)**
+
+    ---
+
+    16 detailed profiles — programmes, deadlines, costs, research
+
+</div>
 
 ---
 
 ## At a glance
 
-- **16 universities** across 6 countries (Germany, Switzerland, Netherlands, Sweden, Finland, France)
-- **3 tiers:** Dream (6) · Target (6) · Moderate (4)
-- **Focus:** Research-oriented programmes leading toward a PhD in AI/ML/Systems
-- **Intake:** Winter Semester 2027/28
+| | |
+|---|---|
+| **Universities** | 16 across 6 countries |
+| **Tiers** | Dream (6) · Target (6) · Moderate (4) |
+| **Focus** | Research-oriented programmes leading toward a PhD in AI/ML/Systems |
+| **Intake** | Winter Semester 2027/28 |
+| **Earliest deadline** | ETH Zurich — 30 November 2026 |
 
 ---
 
-## How to use this
-
-This site is meant to give you a fast, structured overview of my application strategy. The [shortlist](shortlist.md) page has a comparison table covering tuition, deadlines, and research strengths at a glance. Individual university pages go deeper into programme details, admission requirements, and fit.
-
-I'd appreciate your feedback on:
+## Feedback requested
 
 - Whether the tier assignments make sense given my profile
 - Any programmes I should prioritise or reconsider

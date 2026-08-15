@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Documents & Requirements
 
 > Indian national, CS background · Autumn 2027 intake

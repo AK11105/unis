@@ -183,7 +183,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - CS Master programme: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science

@@ -150,7 +150,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Technische Fakultät: https://www.tf.uni-freiburg.de/de/studium

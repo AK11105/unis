@@ -277,7 +277,7 @@ Preferred GPA: India: **8.0/10 (≈75%)**
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Aalto University admissions: https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes

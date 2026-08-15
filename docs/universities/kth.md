@@ -268,7 +268,7 @@ Equivalent to Swedish English 6 / English Level 2:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - KTH Master's programmes: https://www.kth.se/en/studies/master

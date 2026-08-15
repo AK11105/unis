@@ -181,7 +181,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - AI & ML M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/

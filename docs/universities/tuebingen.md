@@ -195,7 +195,7 @@ Tübingen is arguably the single strongest location for ML research in continent
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Machine Learning M.Sc.: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/studium/satzungen/machine-learning-msc/

@@ -358,7 +358,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Data Science admission: https://sc.informatik.rwth-aachen.de/de/studium/master/master-data-science/application-for-admission/

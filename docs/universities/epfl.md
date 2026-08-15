@@ -296,7 +296,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Master admission criteria: http://master.epfl.ch/entryrequirements

@@ -156,7 +156,7 @@ Funding categories:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - IP Paris official: https://www.ip-paris.fr/en

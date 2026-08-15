@@ -241,7 +241,7 @@ Paris-Saclay collaborates closely with CNRS, INRIA, CEA, LISN, CentraleSupélec,
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - AI Master's programme: https://ai-master.lisn.fr/

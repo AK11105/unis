@@ -308,7 +308,7 @@ tags:
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Master Computer Science: https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html

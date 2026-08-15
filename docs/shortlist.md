@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Shortlist Overview
 
 ## Tier Distribution

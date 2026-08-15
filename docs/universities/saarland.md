@@ -283,7 +283,7 @@ The Saarland Informatics Campus is one of the most concentrated CS research clus
 
 ---
 
-<details>
+<details markdown>
 <summary>Sources</summary>
 
 - Saarland Informatics Campus: https://saarland-informatics-campus.de/en/studium-studies/
