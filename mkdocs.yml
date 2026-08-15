@@ -31,7 +31,6 @@ theme:
     - content.tabs.link
     - toc.follow
   icon:
-    logo: material/school
     repo: fontawesome/brands/github
 
 extra:

@@ -159,8 +159,8 @@ TUM · RWTH Aachen · KIT · TU Delft
 
 ## Full Matrix
 
-<details>
-<summary>Expand full document × university matrix</summary>
+<details markdown>
+<summary>Expand full document x university matrix</summary>
 
 | Document | TUM | RWTH | KIT | ETH | EPFL | Delft | KTH | Aalto | Saclay | IP Paris | Saar | Tüb | Bonn | Darm | Eind | Frei |
 |----------|:---:|:----:|:---:|:---:|:----:|:-----:|:---:|:-----:|:------:|:--------:|:----:|:---:|:----:|:----:|:----:|:----:|
