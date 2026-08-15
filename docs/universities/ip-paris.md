@@ -4,11 +4,10 @@ tags:
   - Moderate
 ---
 
-# Institut Polytechnique de Paris (IP Paris)
+# [Institut Polytechnique de Paris (IP Paris)](https://www.ip-paris.fr/en)
 
 > **Country:** France | **Tier:** Moderate
 
-[Go to site :material-open-in-new:](https://www.ip-paris.fr/en){ .md-button target="_blank" }
 
 ---
 
@@ -71,9 +70,8 @@ Applications generally open in **late autumn** and close between **January–Mar
 
 ### Application Platform
 
-- **IP Paris Application Portal**
+- **[IP Paris Application Portal](https://www.ip-paris.fr/en/education/masters/how-to-apply)**
 
-[Apply on IP Paris :material-open-in-new:](https://www.ip-paris.fr/en/education/masters/how-to-apply){ .md-button .md-button--primary target="_blank" }
 
 ### Academic Requirements
 
@@ -166,8 +164,8 @@ Funding categories:
 
 === "Sources"
 
-    - IP Paris official: https://www.ip-paris.fr/en
-    - Master's programmes: https://www.ip-paris.fr/en/education/masters
-    - AI programme: https://www.ip-paris.fr/en/education/masters/artificial-intelligence
-    - Admissions: https://www.ip-paris.fr/en/education/masters/admissions
-    - PhD Track: https://www.ip-paris.fr/en/education/phd-track
+    - [IP Paris official](https://www.ip-paris.fr/en)
+    - [Master's programmes](https://www.ip-paris.fr/en/education/masters)
+    - [AI programme](https://www.ip-paris.fr/en/education/masters/artificial-intelligence)
+    - [Admissions](https://www.ip-paris.fr/en/education/masters/admissions)
+    - [PhD Track](https://www.ip-paris.fr/en/education/phd-track)

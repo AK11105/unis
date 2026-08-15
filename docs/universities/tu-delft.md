@@ -4,11 +4,10 @@ tags:
   - Dream
 ---
 
-# Delft University of Technology (TU Delft)
+# [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/)
 
 > **Country:** Netherlands | **Tier:** Dream
 
-[Go to site :material-open-in-new:](https://www.tudelft.nl/en/){ .md-button target="_blank" }
 
 ---
 
@@ -181,9 +180,8 @@ tags:
 
 ### Application Platform
 
-- **TU Delft Application Portal**
+- **[TU Delft Application Portal](https://www.tudelft.nl/onderwijs/opleidingen/masters)**
 
-[Apply on TU Delft Portal :material-open-in-new:](https://www.tudelft.nl/onderwijs/opleidingen/masters){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -314,7 +312,7 @@ tags:
 
 === "Sources"
 
-    - Tuition fees: https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment/tuition-and-fees
-    - Master's admissions: https://www.tudelft.nl/onderwijs/opleidingen/masters
-    - Computer Science MSc: https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science
-    - DSAI MSc: https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait
+    - [Tuition fees](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment/tuition-and-fees)
+    - [Master's admissions](https://www.tudelft.nl/onderwijs/opleidingen/masters)
+    - [Computer Science MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science)
+    - [DSAI MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait)

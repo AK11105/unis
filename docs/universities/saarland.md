@@ -4,11 +4,10 @@ tags:
   - Target
 ---
 
-# Saarland University
+# [Saarland University](https://www.uni-saarland.de/en/home.html)
 
 > **Country:** Germany | **Tier:** Target
 
-[Go to site :material-open-in-new:](https://www.uni-saarland.de/en/home.html){ .md-button target="_blank" }
 
 ---
 
@@ -163,9 +162,8 @@ tags:
 
 ### Application Platform
 
-- **Saarland Informatics Campus Portal**
+- **[Saarland Informatics Campus Portal](https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/)**
 
-[Apply on Saarland Informatics Campus :material-open-in-new:](https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -289,8 +287,8 @@ The Saarland Informatics Campus is one of the most concentrated CS research clus
 
 === "Sources"
 
-    - Saarland Informatics Campus: https://saarland-informatics-campus.de/en/studium-studies/
-    - Application guide: https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/
-    - Semester fees: https://www.uni-saarland.de/studium/organisation/beitraege/semesterbeitrag.html
-    - Data Science & AI programme: https://www.uni-saarland.de/fileadmin/upload/verwaltung/uebersetzungen/english/master/data-science_so.pdf
-    - FAQ: https://saarland-informatics-campus.de/en/computerscience-course/faq/
+    - [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/studium-studies/)
+    - [Application guide](https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/)
+    - [Semester fees](https://www.uni-saarland.de/studium/organisation/beitraege/semesterbeitrag.html)
+    - [Data Science & AI programme](https://www.uni-saarland.de/fileadmin/upload/verwaltung/uebersetzungen/english/master/data-science_so.pdf)
+    - [FAQ](https://saarland-informatics-campus.de/en/computerscience-course/faq/)

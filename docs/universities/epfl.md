@@ -4,11 +4,10 @@ tags:
   - Dream
 ---
 
-# École Polytechnique Fédérale de Lausanne (EPFL)
+# [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/)
 
 > **Country:** Switzerland | **Tier:** Dream
 
-[Go to site :material-open-in-new:](https://www.epfl.ch/en/){ .md-button target="_blank" }
 
 ---
 
@@ -172,9 +171,8 @@ tags:
 
 ### Application Platform
 
-- **EPFL IS-Academia**
+- **[EPFL IS-Academia](https://master.epfl.ch/application)**
 
-[Apply on EPFL IS-Academia :material-open-in-new:](https://master.epfl.ch/application){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -302,8 +300,8 @@ tags:
 
 === "Sources"
 
-    - Master admission criteria: http://master.epfl.ch/entryrequirements
-    - Online application: https://master.epfl.ch/application
-    - Computer Science Master: http://master.epfl.ch/computerscience
-    - CS study plan (reform 2026-27): https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Study-Plan-reform-2026-2027.pdf
-    - Key points reform: https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Key-Points-Master-Studies-072026-5.pdf
+    - [Master admission criteria](http://master.epfl.ch/entryrequirements)
+    - [Online application](https://master.epfl.ch/application)
+    - [Computer Science Master](http://master.epfl.ch/computerscience)
+    - [CS study plan (reform 2026-27)](https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Study-Plan-reform-2026-2027.pdf)
+    - [Key points reform](https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Key-Points-Master-Studies-072026-5.pdf)

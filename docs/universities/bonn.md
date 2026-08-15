@@ -4,11 +4,10 @@ tags:
   - Target
 ---
 
-# University of Bonn
+# [University of Bonn](https://www.uni-bonn.de/en)
 
 > **Country:** Germany | **Tier:** Target
 
-[Go to site :material-open-in-new:](https://www.uni-bonn.de/en){ .md-button target="_blank" }
 
 ---
 
@@ -132,9 +131,8 @@ tags:
 
 ### Application Platform
 
-- **Bonn Application Portal**
+- **[Bonn Application Portal](https://www.uni-bonn.de/en/studying/application-admission-and-enrollment)**
 
-[Apply on Bonn Portal :material-open-in-new:](https://www.uni-bonn.de/en/studying/application-admission-and-enrollment){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -189,7 +187,7 @@ tags:
 
 === "Sources"
 
-    - CS Master programme: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science
-    - Application info: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application
-    - Application deadlines: https://www.uni-bonn.de/en/studying/application-admission-and-enrollment/application-deadlines
-    - FAQ: https://www.informatik.uni-bonn.de/en/studies/faqs/faq-admission
+    - [CS Master programme](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science)
+    - [Application info](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application)
+    - [Application deadlines](https://www.uni-bonn.de/en/studying/application-admission-and-enrollment/application-deadlines)
+    - [FAQ](https://www.informatik.uni-bonn.de/en/studies/faqs/faq-admission)

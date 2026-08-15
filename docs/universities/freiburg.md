@@ -4,11 +4,10 @@ tags:
   - Moderate
 ---
 
-# University of Freiburg
+# [University of Freiburg](https://uni-freiburg.de/en/)
 
 > **Country:** Germany | **Tier:** Moderate
 
-[Go to site :material-open-in-new:](https://uni-freiburg.de/en/){ .md-button target="_blank" }
 
 ---
 
@@ -106,9 +105,8 @@ tags:
 
 ### Application Platform
 
-- **Freiburg Application Portal**
+- **[Freiburg Application Portal](https://www.studium.uni-freiburg.de/en/application)**
 
-[Apply on Freiburg Portal :material-open-in-new:](https://www.studium.uni-freiburg.de/en/application){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -160,7 +158,7 @@ tags:
 
 === "Sources"
 
-    - Technische Fakultät: https://www.tf.uni-freiburg.de/de/studium
-    - Tuition fees: https://www.studium.uni-freiburg.de/en/student-services/study-fees
-    - Dates and deadlines: https://www.tf.uni-freiburg.de/de/lehre/termine
-    - CS department: https://www.informatik.uni-freiburg.de/
+    - [Technische Fakultät](https://www.tf.uni-freiburg.de/de/studium)
+    - [Tuition fees](https://www.studium.uni-freiburg.de/en/student-services/study-fees)
+    - [Dates and deadlines](https://www.tf.uni-freiburg.de/de/lehre/termine)
+    - [CS department](https://www.informatik.uni-freiburg.de/)

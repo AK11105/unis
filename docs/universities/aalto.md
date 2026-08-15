@@ -4,11 +4,10 @@ tags:
   - Moderate
 ---
 
-# Aalto University
+# [Aalto University](https://www.aalto.fi/en)
 
 > **Country:** Finland | **Tier:** Moderate
 
-[Go to site :material-open-in-new:](https://www.aalto.fi/en){ .md-button target="_blank" }
 
 ---
 
@@ -184,9 +183,8 @@ Preferred GPA: India: **8.0/10 (≈75%)**
 
 ### Application Platform
 
-- **Studyinfo.fi**
+- **[Studyinfo.fi](https://studyinfo.fi/)**
 
-[Apply on Studyinfo.fi :material-open-in-new:](https://studyinfo.fi/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -287,9 +285,9 @@ Preferred GPA: India: **8.0/10 (≈75%)**
 
 === "Sources"
 
-    - Aalto University admissions: https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes
-    - Studyinfo.fi: https://studyinfo.fi/
-    - Computer Science programme: https://www.aalto.fi/en/study-options/computer-communication-and-information-sciences-master-of-science-technology
-    - Macadamia (ML/DS/AI): https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology
-    - Tuition fees: https://www.aalto.fi/en/study-at-aalto/tuition-fees-and-scholarships
-    - FCAI: https://fcai.fi/
+    - [Aalto University admissions](https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes)
+    - [Studyinfo.fi](https://studyinfo.fi/)
+    - [Computer Science programme](https://www.aalto.fi/en/study-options/computer-communication-and-information-sciences-master-of-science-technology)
+    - [Macadamia (ML/DS/AI)](https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology)
+    - [Tuition fees](https://www.aalto.fi/en/study-at-aalto/tuition-fees-and-scholarships)
+    - [FCAI](https://fcai.fi/)

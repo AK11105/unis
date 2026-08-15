@@ -4,11 +4,10 @@ tags:
   - Moderate
 ---
 
-# Université Paris-Saclay
+# [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
 
 > **Country:** France | **Tier:** Moderate
 
-[Go to site :material-open-in-new:](https://www.universite-paris-saclay.fr/en){ .md-button target="_blank" }
 
 ---
 
@@ -161,9 +160,8 @@ Expected (based on previous cycle):
 
 ### Application Platform
 
-- **INCEPTION Platform**
+- **[INCEPTION Platform](https://inception.universite-paris-saclay.fr/)**
 
-[Apply on INCEPTION Platform :material-open-in-new:](https://inception.universite-paris-saclay.fr/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -251,7 +249,7 @@ Paris-Saclay collaborates closely with CNRS, INRIA, CEA, LISN, CentraleSupélec,
 
 === "Sources"
 
-    - AI Master's programme: https://ai-master.lisn.fr/
-    - Paris-Saclay Master's admissions: https://www.universite-paris-saclay.fr/en/admission
-    - INCEPTION platform: https://inception.universite-paris-saclay.fr/
-    - International scholarships: https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/international-masters-scholarship-programme
+    - [AI Master's programme](https://ai-master.lisn.fr/)
+    - [Paris-Saclay Master's admissions](https://www.universite-paris-saclay.fr/en/admission)
+    - [INCEPTION platform](https://inception.universite-paris-saclay.fr/)
+    - [International scholarships](https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/international-masters-scholarship-programme)

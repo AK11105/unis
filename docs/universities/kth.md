@@ -4,11 +4,10 @@ tags:
   - Target
 ---
 
-# KTH Royal Institute of Technology
+# [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 > **Country:** Sweden | **Tier:** Target
 
-[Go to site :material-open-in-new:](https://www.kth.se/en){ .md-button target="_blank" }
 
 ---
 
@@ -199,9 +198,8 @@ Equivalent to Swedish English 6 / English Level 2:
 
 ### Application Platform
 
-- **UniversityAdmissions.se**
+- **[UniversityAdmissions.se](https://www.universityadmissions.se/)**
 
-[Apply on UniversityAdmissions.se :material-open-in-new:](https://www.universityadmissions.se/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -278,8 +276,8 @@ Equivalent to Swedish English 6 / English Level 2:
 
 === "Sources"
 
-    - KTH Master's programmes: https://www.kth.se/en/studies/master
-    - Application via UniversityAdmissions.se: https://www.universityadmissions.se/
-    - KTH Scholarships: https://www.kth.se/en/studies/master/scholarships
-    - Computer Science programme: https://www.kth.se/en/studies/master/computer-science
-    - Machine Learning programme: https://www.kth.se/en/studies/master/machine-learning
+    - [KTH Master's programmes](https://www.kth.se/en/studies/master)
+    - [Application via UniversityAdmissions.se](https://www.universityadmissions.se/)
+    - [KTH Scholarships](https://www.kth.se/en/studies/master/scholarships)
+    - [Computer Science programme](https://www.kth.se/en/studies/master/computer-science)
+    - [Machine Learning programme](https://www.kth.se/en/studies/master/machine-learning)

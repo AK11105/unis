@@ -4,11 +4,10 @@ tags:
   - Target
 ---
 
-# University of Tübingen
+# [University of Tübingen](https://uni-tuebingen.de/en/)
 
 > **Country:** Germany | **Tier:** Target
 
-[Go to site :material-open-in-new:](https://uni-tuebingen.de/en/){ .md-button target="_blank" }
 
 ---
 
@@ -141,9 +140,8 @@ tags:
 
 ### Application Platform
 
-- **Tübingen Online Portal**
+- **[Tübingen Online Portal](https://uni-tuebingen.de/en/study/application/)**
 
-[Apply on Tübingen Online Portal :material-open-in-new:](https://uni-tuebingen.de/en/study/application/){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -201,8 +199,8 @@ Tübingen is arguably the single strongest location for ML research in continent
 
 === "Sources"
 
-    - Machine Learning M.Sc.: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/studium/satzungen/machine-learning-msc/
-    - Computer Science M.Sc.: https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/informatik-computer-science-master/
-    - Cluster of Excellence ML: https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/
-    - Cyber Valley: https://cyber-valley.de/en
-    - International programmes: https://uni-tuebingen.de/international/studierende-aus-dem-ausland/degree-seeking-students/studienangebot-fuer-internationale-studierende/internationale-studiengaenge/
+    - [Machine Learning M.Sc.](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/studium/satzungen/machine-learning-msc/)
+    - [Computer Science M.Sc.](https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/informatik-computer-science-master/)
+    - [Cluster of Excellence ML](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/)
+    - [Cyber Valley](https://cyber-valley.de/en)
+    - [International programmes](https://uni-tuebingen.de/international/studierende-aus-dem-ausland/degree-seeking-students/studienangebot-fuer-internationale-studierende/internationale-studiengaenge/)

@@ -4,11 +4,10 @@ tags:
   - Target
 ---
 
-# Technical University Darmstadt (TU Darmstadt)
+# [Technical University Darmstadt (TU Darmstadt)](https://www.tu-darmstadt.de/index.en.jsp)
 
 > **Country:** Germany | **Tier:** Target
 
-[Go to site :material-open-in-new:](https://www.tu-darmstadt.de/index.en.jsp){ .md-button target="_blank" }
 
 ---
 
@@ -134,9 +133,8 @@ tags:
 
 ### Application Platform
 
-- **TU Darmstadt TUCaN**
+- **[TU Darmstadt TUCaN](https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_international/index.en.jsp)**
 
-[Apply on TU Darmstadt TUCaN :material-open-in-new:](https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_international/index.en.jsp){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -187,7 +185,7 @@ tags:
 
 === "Sources"
 
-    - AI & ML M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/
-    - Computer Science M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp
-    - TU Darmstadt: https://www.tu-darmstadt.de/
-    - UKP Lab: https://www.informatik.tu-darmstadt.de/ukp/
+    - [AI & ML M.Sc.](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/)
+    - [Computer Science M.Sc.](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp)
+    - [TU Darmstadt](https://www.tu-darmstadt.de/)
+    - [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/)

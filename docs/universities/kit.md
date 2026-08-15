@@ -4,11 +4,10 @@ tags:
   - Dream
 ---
 
-# Karlsruhe Institute of Technology (KIT)
+# [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/)
 
 > **Country:** Germany | **Tier:** Dream
 
-[Go to site :material-open-in-new:](https://www.kit.edu/english/){ .md-button target="_blank" }
 
 ---
 
@@ -216,9 +215,8 @@ tags:
 
 ### Application Platform
 
-- **KIT Application Portal**
+- **[KIT Application Portal](https://www.sle.kit.edu/vorstudium/studiengaenge.php)**
 
-[Apply on KIT Portal :material-open-in-new:](https://www.sle.kit.edu/vorstudium/studiengaenge.php){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -343,9 +341,9 @@ tags:
 
 === "Sources"
 
-    - KIT study programmes list: https://www.sle.kit.edu/vorstudium/studiengaenge.php
-    - Computer Science M.Sc.: https://www.sle.kit.edu/vorstudium/master-computer-science.php
-    - Computational and Data Science: https://www.sle.kit.edu/vorstudium/master-computational-data-science.php
-    - Informatik M.Sc.: https://www.sle.kit.edu/vorstudium/master-informatik.php
-    - KIT International: https://www.intl.kit.edu/
-    - Faculty of Computer Science: https://www.informatik.kit.edu/
+    - [KIT study programmes list](https://www.sle.kit.edu/vorstudium/studiengaenge.php)
+    - [Computer Science M.Sc.](https://www.sle.kit.edu/vorstudium/master-computer-science.php)
+    - [Computational and Data Science](https://www.sle.kit.edu/vorstudium/master-computational-data-science.php)
+    - [Informatik M.Sc.](https://www.sle.kit.edu/vorstudium/master-informatik.php)
+    - [KIT International](https://www.intl.kit.edu/)
+    - [Faculty of Computer Science](https://www.informatik.kit.edu/)

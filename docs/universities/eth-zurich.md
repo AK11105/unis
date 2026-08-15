@@ -4,11 +4,10 @@ tags:
   - Dream
 ---
 
-# ETH Zurich
+# [ETH Zurich](https://ethz.ch/en.html)
 
 > **Country:** Switzerland | **Tier:** Dream
 
-[Go to site :material-open-in-new:](https://ethz.ch/en.html){ .md-button target="_blank" }
 
 ---
 
@@ -167,9 +166,8 @@ tags:
 
 ### Application Platform
 
-- **ETH eApply**
+- **[ETH eApply](https://www.lehrbetrieb.ethz.ch/eApply/)**
 
-[Apply on ETH eApply :material-open-in-new:](https://www.lehrbetrieb.ethz.ch/eApply/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -314,10 +312,10 @@ tags:
 
 === "Sources"
 
-    - Master Computer Science: https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html
-    - CS admission: https://ethz.ch/en/studies/master/application/master-informatik.html
-    - Data Science profile: https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-DataScience-Appendix.pdf
-    - Tuition fees: https://ethz.ch/students/en/studies/financial/tuition-fees.html
-    - Financial information: https://ethz.ch/en/studies/financial.html
-    - Profile requirements: https://ethz.ch/en/studies/master/application/profile-requirements.html
-    - ESOP: https://ethz.ch/en/studies/master/application/international-bachelor/application-documents/programme-specific-documents.html
+    - [Master Computer Science](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html)
+    - [CS admission](https://ethz.ch/en/studies/master/application/master-informatik.html)
+    - [Data Science profile](https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-DataScience-Appendix.pdf)
+    - [Tuition fees](https://ethz.ch/students/en/studies/financial/tuition-fees.html)
+    - [Financial information](https://ethz.ch/en/studies/financial.html)
+    - [Profile requirements](https://ethz.ch/en/studies/master/application/profile-requirements.html)
+    - [ESOP](https://ethz.ch/en/studies/master/application/international-bachelor/application-documents/programme-specific-documents.html)

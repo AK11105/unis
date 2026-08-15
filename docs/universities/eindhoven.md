@@ -4,11 +4,10 @@ tags:
   - Target
 ---
 
-# Eindhoven University of Technology (TU/e)
+# [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/)
 
 > **Country:** Netherlands | **Tier:** Target
 
-[Go to site :material-open-in-new:](https://www.tue.nl/en/){ .md-button target="_blank" }
 
 ---
 
@@ -131,10 +130,8 @@ tags:
 
 ### Application Platform
 
-- **Studielink** (national Dutch platform, step 1) + **TU/e portal** (step 2)
+- **[Studielink](https://www.studielink.nl/)** (national Dutch platform, step 1) + **[TU/e portal](https://www.tue.nl/en/education/become-a-tue-student/application)** (step 2)
 
-[Apply on Studielink :material-open-in-new:](https://www.studielink.nl/){ .md-button .md-button--primary target="_blank" }
-[Apply on TU/e Portal :material-open-in-new:](https://www.tue.nl/en/education/become-a-tue-student/application){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -186,7 +183,7 @@ tags:
 
 === "Sources"
 
-    - TU/e Education: https://www.tue.nl/en/education
-    - Data Science & AI: https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence
-    - Computer Science: https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering
-    - EAISI: https://www.tue.nl/en/research/institutes/eaisi
+    - [TU/e Education](https://www.tue.nl/en/education)
+    - [Data Science & AI](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence)
+    - [Computer Science](https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering)
+    - [EAISI](https://www.tue.nl/en/research/institutes/eaisi)
