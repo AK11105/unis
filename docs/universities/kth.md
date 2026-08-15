@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Sweden | **Tier:** Target
 
+[Go to site :material-open-in-new:](https://www.kth.se/en){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -195,9 +197,15 @@ Equivalent to Swedish English 6 / English Level 2:
 | 1 February | Documents & Application Fee Deadline |
 | 1 April | Admission Results |
 
+### Application Platform
+
+- **UniversityAdmissions.se**
+
+[Apply on UniversityAdmissions.se :material-open-in-new:](https://www.universityadmissions.se/){ .md-button .md-button--primary target="_blank" }
+
 ### Application Process
 
-1. Apply through UniversityAdmissions.se
+1. Apply through [UniversityAdmissions.se](https://www.universityadmissions.se/)
 2. Rank up to four Master's programmes
 3. Submit all required documents
 4. Pay application fee (if applicable)
@@ -255,26 +263,23 @@ Equivalent to Swedish English 6 / English Level 2:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- KTH uses the Swedish central application system (UniversityAdmissions.se) — can rank up to 4 programmes.
-- SEK 360,000 for 2 years (~€31,000) is expensive but slightly less than TU Delft.
-- Both CS (8% acceptance) and ML (6% acceptance) are highly competitive.
-- KTH India Scholarship is specifically for Indian citizens — full tuition + living allowance.
-- 15 January deadline is the same as TU Delft — both require early planning.
-- Stockholm has a strong tech ecosystem (Spotify, Ericsson, Saab, King).
-- Application fee SEK 900 (~€80).
-- English requirement is relatively modest (IELTS 6.5) compared to TU Delft (7.0) or ETH (7.0).
+=== "Notes"
 
----
+    - KTH uses the Swedish central application system (UniversityAdmissions.se) — can rank up to 4 programmes.
+    - SEK 360,000 for 2 years (~€31,000) is expensive but slightly less than TU Delft.
+    - Both CS (8% acceptance) and ML (6% acceptance) are highly competitive.
+    - KTH India Scholarship is specifically for Indian citizens — full tuition + living allowance.
+    - 15 January deadline is the same as TU Delft — both require early planning.
+    - Stockholm has a strong tech ecosystem (Spotify, Ericsson, Saab, King).
+    - Application fee SEK 900 (~€80).
+    - English requirement is relatively modest (IELTS 6.5) compared to TU Delft (7.0) or ETH (7.0).
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- KTH Master's programmes: https://www.kth.se/en/studies/master
-- Application via UniversityAdmissions.se: https://www.universityadmissions.se/
-- KTH Scholarships: https://www.kth.se/en/studies/master/scholarships
-- Computer Science programme: https://www.kth.se/en/studies/master/computer-science
-- Machine Learning programme: https://www.kth.se/en/studies/master/machine-learning
-
-</details>
+    - KTH Master's programmes: https://www.kth.se/en/studies/master
+    - Application via UniversityAdmissions.se: https://www.universityadmissions.se/
+    - KTH Scholarships: https://www.kth.se/en/studies/master/scholarships
+    - Computer Science programme: https://www.kth.se/en/studies/master/computer-science
+    - Machine Learning programme: https://www.kth.se/en/studies/master/machine-learning

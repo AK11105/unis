@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Dream
 
+[Go to site :material-open-in-new:](https://www.rwth-aachen.de/go/id/a/?lidx=1){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -226,7 +228,9 @@ tags:
 
 ### Application Platform
 
-- **RWTHonline** (https://online.rwth-aachen.de)
+- **RWTHonline**
+
+[Apply on RWTHonline :material-open-in-new:](https://online.rwth-aachen.de){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -346,27 +350,24 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- RWTH is tuition-free — major advantage over TUM for non-EU students.
-- GRE requirements are strict for Data Science (75th percentile quantitative).
-- Aachen is significantly cheaper than Munich for living costs.
-- Semester contribution includes the Deutschlandticket (nationwide public transport).
-- Data Science programme is "open admission" — not restricted by NC.
-- Strong partnership with Forschungszentrum Jülich for HPC/AI research.
-- Multiple relevant Master's programmes: Data Science, SSE, HCIS, and Informatik.
+=== "Notes"
 
----
+    - RWTH is tuition-free — major advantage over TUM for non-EU students.
+    - GRE requirements are strict for Data Science (75th percentile quantitative).
+    - Aachen is significantly cheaper than Munich for living costs.
+    - Semester contribution includes the Deutschlandticket (nationwide public transport).
+    - Data Science programme is "open admission" — not restricted by NC.
+    - Strong partnership with Forschungszentrum Jülich for HPC/AI research.
+    - Multiple relevant Master's programmes: Data Science, SSE, HCIS, and Informatik.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Data Science admission: https://sc.informatik.rwth-aachen.de/de/studium/master/master-data-science/application-for-admission/
-- Data Science programme structure: https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/program-structure/
-- Data Science FAQ: https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/faq/
-- SSE programme: https://sc.informatik.rwth-aachen.de/en/studium/master/sse/
-- HCIS programme: https://sc.informatik.rwth-aachen.de/en/studium/master/master-hcis/
-- Master Computer Science: https://sc.informatik.rwth-aachen.de/en/studium/master/informatik/
-- International applications: https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Bewerbung-um-einen-Studienplatz/Master-Bewerbung/~dqml/Bewerbung-Master-Internationale/?lidx=1
-
-</details>
+    - Data Science admission: https://sc.informatik.rwth-aachen.de/de/studium/master/master-data-science/application-for-admission/
+    - Data Science programme structure: https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/program-structure/
+    - Data Science FAQ: https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/faq/
+    - SSE programme: https://sc.informatik.rwth-aachen.de/en/studium/master/sse/
+    - HCIS programme: https://sc.informatik.rwth-aachen.de/en/studium/master/master-hcis/
+    - Master Computer Science: https://sc.informatik.rwth-aachen.de/en/studium/master/informatik/
+    - International applications: https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Bewerbung-um-einen-Studienplatz/Master-Bewerbung/~dqml/Bewerbung-Master-Internationale/?lidx=1

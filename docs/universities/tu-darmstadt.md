@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Target
 
+[Go to site :material-open-in-new:](https://www.tu-darmstadt.de/index.en.jsp){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -132,7 +134,9 @@ tags:
 
 ### Application Platform
 
-- TU Darmstadt TUCaN portal
+- **TU Darmstadt TUCaN**
+
+[Apply on TU Darmstadt TUCaN :material-open-in-new:](https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_international/index.en.jsp){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -169,24 +173,21 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- TU Darmstadt is tuition-free (Hessen) — same advantage as RWTH and Bonn.
-- Has a DEDICATED AI & ML Master's programme (separate from CS) — rare in Germany.
-- Computer Science M.Sc. has three clear English-taught specialisations.
-- UKP Lab is one of Europe's strongest NLP research groups.
-- Cybersecurity is a flagship area (CYSEC, CRISP) — if cybersecurity/AI safety interests you.
-- Location near Frankfurt means good industry access (finance, tech).
-- Both CS and AIML programmes can be started in WS or SS — flexible.
+=== "Notes"
 
----
+    - TU Darmstadt is tuition-free (Hessen) — same advantage as RWTH and Bonn.
+    - Has a DEDICATED AI & ML Master's programme (separate from CS) — rare in Germany.
+    - Computer Science M.Sc. has three clear English-taught specialisations.
+    - UKP Lab is one of Europe's strongest NLP research groups.
+    - Cybersecurity is a flagship area (CYSEC, CRISP) — if cybersecurity/AI safety interests you.
+    - Location near Frankfurt means good industry access (finance, tech).
+    - Both CS and AIML programmes can be started in WS or SS — flexible.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- AI & ML M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/
-- Computer Science M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp
-- TU Darmstadt: https://www.tu-darmstadt.de/
-- UKP Lab: https://www.informatik.tu-darmstadt.de/ukp/
-
-</details>
+    - AI & ML M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/
+    - Computer Science M.Sc.: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp
+    - TU Darmstadt: https://www.tu-darmstadt.de/
+    - UKP Lab: https://www.informatik.tu-darmstadt.de/ukp/

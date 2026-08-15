@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Switzerland | **Tier:** Dream
 
+[Go to site :material-open-in-new:](https://www.epfl.ch/en/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -170,7 +172,9 @@ tags:
 
 ### Application Platform
 
-- EPFL Online Application Portal (IS-Academia)
+- **EPFL IS-Academia**
+
+[Apply on EPFL IS-Academia :material-open-in-new:](https://master.epfl.ch/application){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -283,26 +287,23 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- EPFL is among the most competitive universities in Europe for CS.
-- Round 1 (December 15) strongly recommended for visa applicants — gives early decision + time for visa.
-- 3 recommendation letters required (not 2 like ETH) — start arranging early.
-- Only ONE programme application per year — choose carefully.
-- EPFL Excellence Fellowships are highly competitive but generous.
-- Lausanne is expensive but slightly cheaper than Zurich.
-- The CS curriculum was reformed in Autumn 2025 — new specialisation structure.
-- Strong AI/ML focus with top faculty (Flammarion, Jaggi, etc. visible in curriculum).
+=== "Notes"
 
----
+    - EPFL is among the most competitive universities in Europe for CS.
+    - Round 1 (December 15) strongly recommended for visa applicants — gives early decision + time for visa.
+    - 3 recommendation letters required (not 2 like ETH) — start arranging early.
+    - Only ONE programme application per year — choose carefully.
+    - EPFL Excellence Fellowships are highly competitive but generous.
+    - Lausanne is expensive but slightly cheaper than Zurich.
+    - The CS curriculum was reformed in Autumn 2025 — new specialisation structure.
+    - Strong AI/ML focus with top faculty (Flammarion, Jaggi, etc. visible in curriculum).
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Master admission criteria: http://master.epfl.ch/entryrequirements
-- Online application: https://master.epfl.ch/application
-- Computer Science Master: http://master.epfl.ch/computerscience
-- CS study plan (reform 2026-27): https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Study-Plan-reform-2026-2027.pdf
-- Key points reform: https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Key-Points-Master-Studies-072026-5.pdf
-
-</details>
+    - Master admission criteria: http://master.epfl.ch/entryrequirements
+    - Online application: https://master.epfl.ch/application
+    - Computer Science Master: http://master.epfl.ch/computerscience
+    - CS study plan (reform 2026-27): https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Study-Plan-reform-2026-2027.pdf
+    - Key points reform: https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Key-Points-Master-Studies-072026-5.pdf

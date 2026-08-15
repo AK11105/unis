@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Moderate
 
+[Go to site :material-open-in-new:](https://uni-freiburg.de/en/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -102,6 +104,12 @@ tags:
 - **Non-EU: 31 May** for Winter Semester
 - EU: 15 July for Winter Semester
 
+### Application Platform
+
+- **Freiburg Application Portal**
+
+[Apply on Freiburg Portal :material-open-in-new:](https://www.studium.uni-freiburg.de/en/application){ .md-button .md-button--primary target="_blank" }
+
 ---
 
 ## Tuition & Costs
@@ -139,23 +147,20 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Freiburg is famous for Autonomous Intelligent Systems and Robotics (verify current faculty status).
-- Strong in Reinforcement Learning and AutoML — if these are priorities, Freiburg is excellent.
-- Baden-Württemberg tuition (€1,500/semester) applies — same as KIT and Tübingen.
-- Freiburg is a beautiful, liveable small city (Black Forest region). High quality of life.
-- Less globally famous than TUM/ETH but very strong in its specialties (robotics, RL, autonomous systems).
-- Good choice as a "Moderate/Safe" tier application — less competitive than Dream tier but strong research.
+=== "Notes"
 
----
+    - Freiburg is famous for Autonomous Intelligent Systems and Robotics (verify current faculty status).
+    - Strong in Reinforcement Learning and AutoML — if these are priorities, Freiburg is excellent.
+    - Baden-Württemberg tuition (€1,500/semester) applies — same as KIT and Tübingen.
+    - Freiburg is a beautiful, liveable small city (Black Forest region). High quality of life.
+    - Less globally famous than TUM/ETH but very strong in its specialties (robotics, RL, autonomous systems).
+    - Good choice as a "Moderate/Safe" tier application — less competitive than Dream tier but strong research.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Technische Fakultät: https://www.tf.uni-freiburg.de/de/studium
-- Tuition fees: https://www.studium.uni-freiburg.de/en/student-services/study-fees
-- Dates and deadlines: https://www.tf.uni-freiburg.de/de/lehre/termine
-- CS department: https://www.informatik.uni-freiburg.de/
-
-</details>
+    - Technische Fakultät: https://www.tf.uni-freiburg.de/de/studium
+    - Tuition fees: https://www.studium.uni-freiburg.de/en/student-services/study-fees
+    - Dates and deadlines: https://www.tf.uni-freiburg.de/de/lehre/termine
+    - CS department: https://www.informatik.uni-freiburg.de/

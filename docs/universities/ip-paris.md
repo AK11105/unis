@@ -8,6 +8,8 @@ tags:
 
 > **Country:** France | **Tier:** Moderate
 
+[Go to site :material-open-in-new:](https://www.ip-paris.fr/en){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -66,6 +68,12 @@ tags:
 ### Timeline
 
 Applications generally open in **late autumn** and close between **January–March** depending on the programme. Monitor the programme page for exact deadlines.
+
+### Application Platform
+
+- **IP Paris Application Portal**
+
+[Apply on IP Paris :material-open-in-new:](https://www.ip-paris.fr/en/education/masters/how-to-apply){ .md-button .md-button--primary target="_blank" }
 
 ### Academic Requirements
 
@@ -143,26 +151,23 @@ Funding categories:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Tuition ~€254/year (French national rate) — same as Paris-Saclay, incredibly affordable.
-- IP Paris includes École Polytechnique, Télécom Paris, ENSTA Paris, ENSAE Paris — all elite French schools.
-- PhD Track is a unique option: guaranteed doctoral funding after Master's.
-- Research strength in optimization, mathematics for AI, probabilistic modelling.
-- Internship (4-6 months) is mandatory — good industry exposure.
-- Application typically late autumn to January-March depending on programme.
-- Key advantage: world-class mathematics + AI at minimal cost. Access to PhD Track funding.
-- Key risk: information somewhat fragmented across constituent schools.
+=== "Notes"
 
----
+    - Tuition ~€254/year (French national rate) — same as Paris-Saclay, incredibly affordable.
+    - IP Paris includes École Polytechnique, Télécom Paris, ENSTA Paris, ENSAE Paris — all elite French schools.
+    - PhD Track is a unique option: guaranteed doctoral funding after Master's.
+    - Research strength in optimization, mathematics for AI, probabilistic modelling.
+    - Internship (4-6 months) is mandatory — good industry exposure.
+    - Application typically late autumn to January-March depending on programme.
+    - Key advantage: world-class mathematics + AI at minimal cost. Access to PhD Track funding.
+    - Key risk: information somewhat fragmented across constituent schools.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- IP Paris official: https://www.ip-paris.fr/en
-- Master's programmes: https://www.ip-paris.fr/en/education/masters
-- AI programme: https://www.ip-paris.fr/en/education/masters/artificial-intelligence
-- Admissions: https://www.ip-paris.fr/en/education/masters/admissions
-- PhD Track: https://www.ip-paris.fr/en/education/phd-track
-
-</details>
+    - IP Paris official: https://www.ip-paris.fr/en
+    - Master's programmes: https://www.ip-paris.fr/en/education/masters
+    - AI programme: https://www.ip-paris.fr/en/education/masters/artificial-intelligence
+    - Admissions: https://www.ip-paris.fr/en/education/masters/admissions
+    - PhD Track: https://www.ip-paris.fr/en/education/phd-track

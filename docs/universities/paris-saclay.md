@@ -8,6 +8,8 @@ tags:
 
 > **Country:** France | **Tier:** Moderate
 
+[Go to site :material-open-in-new:](https://www.universite-paris-saclay.fr/en){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -157,9 +159,15 @@ Expected (based on previous cycle):
 - Publications
 - Extra certificates
 
+### Application Platform
+
+- **INCEPTION Platform**
+
+[Apply on INCEPTION Platform :material-open-in-new:](https://inception.universite-paris-saclay.fr/){ .md-button .md-button--primary target="_blank" }
+
 ### Application Process
 
-1. Apply through the INCEPTION platform
+1. Apply through the [INCEPTION platform](https://inception.universite-paris-saclay.fr/)
 2. Upload all required documents
 3. Programme evaluation
 4. Admission decision
@@ -226,27 +234,24 @@ Paris-Saclay collaborates closely with CNRS, INRIA, CEA, LISN, CentraleSupélec,
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Tuition is extremely low (~€254/year) — best value of all target universities for non-EU students.
-- Only 25 students per cohort for the AI programme — highly selective despite being "Moderate" tier.
-- The Paris-Saclay International Master's Scholarship (€10,000/year + €900 travel) targets future PhD candidates.
-- Application platform is INCEPTION (not Campus France for the admission itself, though EEF process follows).
-- Indian applicants go through Études en France (EEF) procedure after receiving admission letter.
-- CNRS, INRIA, CEA, LISN collaboration = world-class research infrastructure.
-- Living costs in Paris region are moderate (€900-1,300/month), much cheaper than Switzerland.
-- English B2 minimum — relatively lenient language requirement.
-- Applications expected Jan-March based on previous cycle (15 Jan - 16 March).
-- Key advantage: exceptional research at almost zero cost. Key risk: small cohort, high selectivity.
+=== "Notes"
 
----
+    - Tuition is extremely low (~€254/year) — best value of all target universities for non-EU students.
+    - Only 25 students per cohort for the AI programme — highly selective despite being "Moderate" tier.
+    - The Paris-Saclay International Master's Scholarship (€10,000/year + €900 travel) targets future PhD candidates.
+    - Application platform is INCEPTION (not Campus France for the admission itself, though EEF process follows).
+    - Indian applicants go through Études en France (EEF) procedure after receiving admission letter.
+    - CNRS, INRIA, CEA, LISN collaboration = world-class research infrastructure.
+    - Living costs in Paris region are moderate (€900-1,300/month), much cheaper than Switzerland.
+    - English B2 minimum — relatively lenient language requirement.
+    - Applications expected Jan-March based on previous cycle (15 Jan - 16 March).
+    - Key advantage: exceptional research at almost zero cost. Key risk: small cohort, high selectivity.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- AI Master's programme: https://ai-master.lisn.fr/
-- Paris-Saclay Master's admissions: https://www.universite-paris-saclay.fr/en/admission
-- INCEPTION platform: https://inception.universite-paris-saclay.fr/
-- International scholarships: https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/international-masters-scholarship-programme
-
-</details>
+    - AI Master's programme: https://ai-master.lisn.fr/
+    - Paris-Saclay Master's admissions: https://www.universite-paris-saclay.fr/en/admission
+    - INCEPTION platform: https://inception.universite-paris-saclay.fr/
+    - International scholarships: https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/international-masters-scholarship-programme

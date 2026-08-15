@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Finland | **Tier:** Moderate
 
+[Go to site :material-open-in-new:](https://www.aalto.fi/en){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -180,9 +182,15 @@ Preferred GPA: India: **8.0/10 (≈75%)**
 - **7 December 2026** – Application Opens
 - **5 January 2027** – Application Closes
 
+### Application Platform
+
+- **Studyinfo.fi**
+
+[Apply on Studyinfo.fi :material-open-in-new:](https://studyinfo.fi/){ .md-button .md-button--primary target="_blank" }
+
 ### Application Process
 
-1. Apply through Studyinfo.fi
+1. Apply through [Studyinfo.fi](https://studyinfo.fi/)
 2. Select up to **two** study options
 3. Pay the €100 application fee (if applicable)
 4. Upload all required documents
@@ -262,29 +270,26 @@ Preferred GPA: India: **8.0/10 (≈75%)**
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Aalto application period is very short: 7 December – 5 January (less than one month!).
-- €17,000/year for non-EU technology programmes = €34,000 total. Same range as TU Delft.
-- Macadamia (ML/DS/AI) requires GRE for Admission Group 2 (non-EU).
-- FCAI (Finnish Center for AI) is a world-class research hub — direct collaboration with Aalto.
-- ELLIS collaboration strengthens research connections.
-- Preferred GPA: 8.0/10 (≈75%) for Indian students.
-- €100 application fee via Studyinfo.fi.
-- Only 2 study options can be selected per application round.
-- Excellence Scholarship covers tuition but NOT living expenses.
-- Finland residence permit requires proof of **€9,600/year** (€800/month) financial resources.
+=== "Notes"
 
----
+    - Aalto application period is very short: 7 December – 5 January (less than one month!).
+    - €17,000/year for non-EU technology programmes = €34,000 total. Same range as TU Delft.
+    - Macadamia (ML/DS/AI) requires GRE for Admission Group 2 (non-EU).
+    - FCAI (Finnish Center for AI) is a world-class research hub — direct collaboration with Aalto.
+    - ELLIS collaboration strengthens research connections.
+    - Preferred GPA: 8.0/10 (≈75%) for Indian students.
+    - €100 application fee via Studyinfo.fi.
+    - Only 2 study options can be selected per application round.
+    - Excellence Scholarship covers tuition but NOT living expenses.
+    - Finland residence permit requires proof of **€9,600/year** (€800/month) financial resources.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Aalto University admissions: https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes
-- Studyinfo.fi: https://studyinfo.fi/
-- Computer Science programme: https://www.aalto.fi/en/study-options/computer-communication-and-information-sciences-master-of-science-technology
-- Macadamia (ML/DS/AI): https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology
-- Tuition fees: https://www.aalto.fi/en/study-at-aalto/tuition-fees-and-scholarships
-- FCAI: https://fcai.fi/
-
-</details>
+    - Aalto University admissions: https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes
+    - Studyinfo.fi: https://studyinfo.fi/
+    - Computer Science programme: https://www.aalto.fi/en/study-options/computer-communication-and-information-sciences-master-of-science-technology
+    - Macadamia (ML/DS/AI): https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology
+    - Tuition fees: https://www.aalto.fi/en/study-at-aalto/tuition-fees-and-scholarships
+    - FCAI: https://fcai.fi/

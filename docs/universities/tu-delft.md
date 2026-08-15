@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Netherlands | **Tier:** Dream
 
+[Go to site :material-open-in-new:](https://www.tudelft.nl/en/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -179,7 +181,9 @@ tags:
 
 ### Application Platform
 
-- TU Delft Online Application Portal
+- **TU Delft Application Portal**
+
+[Apply on TU Delft Portal :material-open-in-new:](https://www.tudelft.nl/onderwijs/opleidingen/masters){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -295,25 +299,22 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- TU Delft is very expensive for non-EU students (€25,633/year for 2026-2027 — ~€50,000+ total).
-- GRE is required and competitive scores expected (Q163+, V154+, AW4.0+) — these are benchmarks, not hard minimums.
-- 15 January deadline is early — same window as KTH and Aalto.
-- IELTS requirement is high (7.0 overall, 6.5 per section).
-- The 75% CGPA minimum is explicitly stated — below this, application will be rejected.
-- Van Effen Scholarship is the key full-ride option but extremely competitive.
-- Strong Systems + AI programmes. Good if you want ML Engineering / Software Engineering for AI.
-- Delft is affordable compared to Amsterdam but less lively.
+=== "Notes"
 
----
+    - TU Delft is very expensive for non-EU students (€25,633/year for 2026-2027 — ~€50,000+ total).
+    - GRE is required and competitive scores expected (Q163+, V154+, AW4.0+) — these are benchmarks, not hard minimums.
+    - 15 January deadline is early — same window as KTH and Aalto.
+    - IELTS requirement is high (7.0 overall, 6.5 per section).
+    - The 75% CGPA minimum is explicitly stated — below this, application will be rejected.
+    - Van Effen Scholarship is the key full-ride option but extremely competitive.
+    - Strong Systems + AI programmes. Good if you want ML Engineering / Software Engineering for AI.
+    - Delft is affordable compared to Amsterdam but less lively.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Tuition fees: https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment/tuition-and-fees
-- Master's admissions: https://www.tudelft.nl/onderwijs/opleidingen/masters
-- Computer Science MSc: https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science
-- DSAI MSc: https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait
-
-</details>
+    - Tuition fees: https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment/tuition-and-fees
+    - Master's admissions: https://www.tudelft.nl/onderwijs/opleidingen/masters
+    - Computer Science MSc: https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science
+    - DSAI MSc: https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait

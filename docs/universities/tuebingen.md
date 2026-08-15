@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Target
 
+[Go to site :material-open-in-new:](https://uni-tuebingen.de/en/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -139,7 +141,9 @@ tags:
 
 ### Application Platform
 
-- University of Tübingen online portal
+- **Tübingen Online Portal**
+
+[Apply on Tübingen Online Portal :material-open-in-new:](https://uni-tuebingen.de/en/study/application/){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -182,26 +186,23 @@ Tübingen is arguably the single strongest location for ML research in continent
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Tübingen's ML M.Sc. is one of the most research-oriented ML programmes in Europe.
-- The ML ecosystem (Cluster of Excellence + Max Planck + Cyber Valley + ELLIS) is unmatched in Germany.
-- The city is small and charming but not a metropolis. Ideal for focused research.
-- Baden-Württemberg tuition (€1,500/semester) applies — same as KIT.
-- Application deadline (~April) is much later than most other universities on this list.
-- Ideal for students specifically targeting ML/AI research careers and PhD pathways.
-- Amazon Research and Bosch Center for AI provide industry thesis/internship opportunities.
-- The Informatik M.Sc. is primarily German-taught; ML M.Sc. is the English-taught option.
+=== "Notes"
 
----
+    - Tübingen's ML M.Sc. is one of the most research-oriented ML programmes in Europe.
+    - The ML ecosystem (Cluster of Excellence + Max Planck + Cyber Valley + ELLIS) is unmatched in Germany.
+    - The city is small and charming but not a metropolis. Ideal for focused research.
+    - Baden-Württemberg tuition (€1,500/semester) applies — same as KIT.
+    - Application deadline (~April) is much later than most other universities on this list.
+    - Ideal for students specifically targeting ML/AI research careers and PhD pathways.
+    - Amazon Research and Bosch Center for AI provide industry thesis/internship opportunities.
+    - The Informatik M.Sc. is primarily German-taught; ML M.Sc. is the English-taught option.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Machine Learning M.Sc.: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/studium/satzungen/machine-learning-msc/
-- Computer Science M.Sc.: https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/informatik-computer-science-master/
-- Cluster of Excellence ML: https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/
-- Cyber Valley: https://cyber-valley.de/en
-- International programmes: https://uni-tuebingen.de/international/studierende-aus-dem-ausland/degree-seeking-students/studienangebot-fuer-internationale-studierende/internationale-studiengaenge/
-
-</details>
+    - Machine Learning M.Sc.: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/studium/satzungen/machine-learning-msc/
+    - Computer Science M.Sc.: https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/informatik-computer-science-master/
+    - Cluster of Excellence ML: https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/
+    - Cyber Valley: https://cyber-valley.de/en
+    - International programmes: https://uni-tuebingen.de/international/studierende-aus-dem-ausland/degree-seeking-students/studienangebot-fuer-internationale-studierende/internationale-studiengaenge/

@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Target
 
+[Go to site :material-open-in-new:](https://www.uni-bonn.de/en){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -130,7 +132,9 @@ tags:
 
 ### Application Platform
 
-- University of Bonn online application portal
+- **Bonn Application Portal**
+
+[Apply on Bonn Portal :material-open-in-new:](https://www.uni-bonn.de/en/studying/application-admission-and-enrollment){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -170,25 +174,22 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Bonn is tuition-free (NRW) — same financial advantage as RWTH.
-- Strong in Computer Vision — if CV is a priority, Bonn is excellent.
-- Lamarr Institute is a major NRW state AI initiative with significant funding.
-- The programme is described as consecutive (building on German CS bachelor) — verify language of instruction and whether all courses are available in English.
-- Bonn is the former capital of Germany — pleasant city with reasonable cost of living.
-- Mathematics department is world-class (Hausdorff Center, Cluster of Excellence).
-- Non-EU deadline appears earlier than EU deadline — verify exact dates for 2027.
-- Bachelor must be completed BEFORE semester starts — hard requirement, no exceptions.
+=== "Notes"
 
----
+    - Bonn is tuition-free (NRW) — same financial advantage as RWTH.
+    - Strong in Computer Vision — if CV is a priority, Bonn is excellent.
+    - Lamarr Institute is a major NRW state AI initiative with significant funding.
+    - The programme is described as consecutive (building on German CS bachelor) — verify language of instruction and whether all courses are available in English.
+    - Bonn is the former capital of Germany — pleasant city with reasonable cost of living.
+    - Mathematics department is world-class (Hausdorff Center, Cluster of Excellence).
+    - Non-EU deadline appears earlier than EU deadline — verify exact dates for 2027.
+    - Bachelor must be completed BEFORE semester starts — hard requirement, no exceptions.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- CS Master programme: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science
-- Application info: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application
-- Application deadlines: https://www.uni-bonn.de/en/studying/application-admission-and-enrollment/application-deadlines
-- FAQ: https://www.informatik.uni-bonn.de/en/studies/faqs/faq-admission
-
-</details>
+    - CS Master programme: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science
+    - Application info: https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application
+    - Application deadlines: https://www.uni-bonn.de/en/studying/application-admission-and-enrollment/application-deadlines
+    - FAQ: https://www.informatik.uni-bonn.de/en/studies/faqs/faq-admission

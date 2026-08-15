@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Dream
 
+[Go to site :material-open-in-new:](https://www.kit.edu/english/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -214,7 +216,9 @@ tags:
 
 ### Application Platform
 
-- KIT Online Application Portal
+- **KIT Application Portal**
+
+[Apply on KIT Portal :material-open-in-new:](https://www.sle.kit.edu/vorstudium/studiengaenge.php){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -326,25 +330,22 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- KIT has TWO relevant Computer Science Master's: the English-taught "Computer Science" and the German-taught "Informatik." Same faculty, different language.
-- Computer Science M.Sc. has NC (restricted admission) — competitive. **100 places per year**, selection via ranked list. Deadline is 15 June.
-- Computational and Data Science is open admission (no NC) but **non-EU deadline is 15 July** (not 30 September which is EU-only).
-- Baden-Württemberg charges €1,500/semester for non-EU students. Cheaper than TUM but not free like RWTH.
-- KIT is in Helmholtz Association — one of the strongest research infrastructures in Germany.
-- Karlsruhe is more affordable than Munich and has a strong tech/startup scene (especially SAP ecosystem).
+=== "Notes"
 
----
+    - KIT has TWO relevant Computer Science Master's: the English-taught "Computer Science" and the German-taught "Informatik." Same faculty, different language.
+    - Computer Science M.Sc. has NC (restricted admission) — competitive. **100 places per year**, selection via ranked list. Deadline is 15 June.
+    - Computational and Data Science is open admission (no NC) but **non-EU deadline is 15 July** (not 30 September which is EU-only).
+    - Baden-Württemberg charges €1,500/semester for non-EU students. Cheaper than TUM but not free like RWTH.
+    - KIT is in Helmholtz Association — one of the strongest research infrastructures in Germany.
+    - Karlsruhe is more affordable than Munich and has a strong tech/startup scene (especially SAP ecosystem).
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- KIT study programmes list: https://www.sle.kit.edu/vorstudium/studiengaenge.php
-- Computer Science M.Sc.: https://www.sle.kit.edu/vorstudium/master-computer-science.php
-- Computational and Data Science: https://www.sle.kit.edu/vorstudium/master-computational-data-science.php
-- Informatik M.Sc.: https://www.sle.kit.edu/vorstudium/master-informatik.php
-- KIT International: https://www.intl.kit.edu/
-- Faculty of Computer Science: https://www.informatik.kit.edu/
-
-</details>
+    - KIT study programmes list: https://www.sle.kit.edu/vorstudium/studiengaenge.php
+    - Computer Science M.Sc.: https://www.sle.kit.edu/vorstudium/master-computer-science.php
+    - Computational and Data Science: https://www.sle.kit.edu/vorstudium/master-computational-data-science.php
+    - Informatik M.Sc.: https://www.sle.kit.edu/vorstudium/master-informatik.php
+    - KIT International: https://www.intl.kit.edu/
+    - Faculty of Computer Science: https://www.informatik.kit.edu/

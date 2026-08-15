@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Dream
 
+[Go to site :material-open-in-new:](https://www.tum.de/en/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -221,7 +223,9 @@ Since **Winter Semester 2024/25**, TUM charges tuition fees for newly enrolled n
 
 ### Application Platform
 
-- **TUMonline** (https://www.tum.de/en/studies/application)
+- **TUMonline**
+
+[Apply on TUMonline :material-open-in-new:](https://www.tum.de/en/studies/application){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -357,23 +361,20 @@ Since **Winter Semester 2024/25**, TUM charges tuition fees for newly enrolled n
 
 ---
 
-## Notes
+## Notes & Sources
 
-- TUM introduced tuition fees for non-EU students starting WS 2024/25. This is a significant cost factor.
-- The exact tuition amount varies by programme — check the specific programme page on TUMonline.
-- Munich is expensive. Budget €1,500+/month minimum.
-- GRE/GATE is mandatory for Indian applicants to most CIT programmes.
+=== "Notes"
 
----
+    - TUM introduced tuition fees for non-EU students starting WS 2024/25. This is a significant cost factor.
+    - The exact tuition amount varies by programme — check the specific programme page on TUMonline.
+    - Munich is expensive. Budget €1,500+/month minimum.
+    - GRE/GATE is mandatory for Indian applicants to most CIT programmes.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Official tuition fees: https://www.tum.de/en/studies/fees/tuition
-- Official fees & financial aid: https://www.tum.de/en/studies/fees-and-financial-aid
-- Master Informatics curriculum: https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/curriculum/
-- International applicants: https://www.tum.de/en/studies/application/application-info-portal/application-international
-- CSE checklist: https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Master_Computational_Science_and_Engineering/checklist.pdf
-- TUM Scholarships: https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/scholarship-for-international-students-of-tum/
-
-</details>
+    - Official tuition fees: https://www.tum.de/en/studies/fees/tuition
+    - Official fees & financial aid: https://www.tum.de/en/studies/fees-and-financial-aid
+    - Master Informatics curriculum: https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/curriculum/
+    - International applicants: https://www.tum.de/en/studies/application/application-info-portal/application-international
+    - CSE checklist: https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Master_Computational_Science_and_Engineering/checklist.pdf
+    - TUM Scholarships: https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/scholarship-for-international-students-of-tum/

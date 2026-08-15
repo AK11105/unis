@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Switzerland | **Tier:** Dream
 
+[Go to site :material-open-in-new:](https://ethz.ch/en.html){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -165,7 +167,9 @@ tags:
 
 ### Application Platform
 
-- **ETH eApply Portal** (https://www.lehrbetrieb.ethz.ch/eApply/)
+- **ETH eApply**
+
+[Apply on ETH eApply :material-open-in-new:](https://www.lehrbetrieb.ethz.ch/eApply/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -296,27 +300,24 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- ETH Zurich is one of the most competitive universities in the world for CS. Admission rate is very low.
-- The November deadline is extremely early — plan accordingly (GRE, IELTS, transcripts all needed by then).
-- From HS2025, international students pay CHF 2,190/semester (tripled from CHF 730). Still reasonable for a top-10 global university.
-- ESOP is the key scholarship — very competitive but covers everything. Requires thesis pre-proposal.
-- Switzerland living costs are high (CHF 2,000+/month). Factor this into financial planning.
-- Strong Google/Microsoft/NVIDIA presence in Zurich = excellent industry thesis and job opportunities.
-- ETH AI Center is one of Europe's premier AI research hubs.
+=== "Notes"
 
----
+    - ETH Zurich is one of the most competitive universities in the world for CS. Admission rate is very low.
+    - The November deadline is extremely early — plan accordingly (GRE, IELTS, transcripts all needed by then).
+    - From HS2025, international students pay CHF 2,190/semester (tripled from CHF 730). Still reasonable for a top-10 global university.
+    - ESOP is the key scholarship — very competitive but covers everything. Requires thesis pre-proposal.
+    - Switzerland living costs are high (CHF 2,000+/month). Factor this into financial planning.
+    - Strong Google/Microsoft/NVIDIA presence in Zurich = excellent industry thesis and job opportunities.
+    - ETH AI Center is one of Europe's premier AI research hubs.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Master Computer Science: https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html
-- CS admission: https://ethz.ch/en/studies/master/application/master-informatik.html
-- Data Science profile: https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-DataScience-Appendix.pdf
-- Tuition fees: https://ethz.ch/students/en/studies/financial/tuition-fees.html
-- Financial information: https://ethz.ch/en/studies/financial.html
-- Profile requirements: https://ethz.ch/en/studies/master/application/profile-requirements.html
-- ESOP: https://ethz.ch/en/studies/master/application/international-bachelor/application-documents/programme-specific-documents.html
-
-</details>
+    - Master Computer Science: https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html
+    - CS admission: https://ethz.ch/en/studies/master/application/master-informatik.html
+    - Data Science profile: https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-DataScience-Appendix.pdf
+    - Tuition fees: https://ethz.ch/students/en/studies/financial/tuition-fees.html
+    - Financial information: https://ethz.ch/en/studies/financial.html
+    - Profile requirements: https://ethz.ch/en/studies/master/application/profile-requirements.html
+    - ESOP: https://ethz.ch/en/studies/master/application/international-bachelor/application-documents/programme-specific-documents.html

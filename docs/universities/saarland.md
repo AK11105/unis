@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Germany | **Tier:** Target
 
+[Go to site :material-open-in-new:](https://www.uni-saarland.de/en/home.html){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -161,7 +163,9 @@ tags:
 
 ### Application Platform
 
-- Saarland Informatics Campus online portal
+- **Saarland Informatics Campus Portal**
+
+[Apply on Saarland Informatics Campus :material-open-in-new:](https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/){ .md-button .md-button--primary target="_blank" }
 
 ### Application Process
 
@@ -271,25 +275,22 @@ The Saarland Informatics Campus is one of the most concentrated CS research clus
 
 ---
 
-## Notes
+## Notes & Sources
 
-- Saarland is arguably the best value-for-money in this entire shortlist: world-class research (Max Planck + CISPA + DFKI), no tuition, cheapest living costs.
-- The 15 November early deadline is one of the earliest among German universities.
-- CGPA 75% + top 10% requirement is strict — competitive admission despite being "Target" tier.
-- Saarbrücken is a small city. Limited nightlife/social scene compared to Munich or Berlin.
-- The research infrastructure is disproportionately strong for the university's overall ranking.
-- Ideal for students prioritizing research career / PhD pathway over city life or brand prestige.
-- 2027 application schedule will be published December 2026 — monitor the Saarland Informatics Campus website.
+=== "Notes"
 
----
+    - Saarland is arguably the best value-for-money in this entire shortlist: world-class research (Max Planck + CISPA + DFKI), no tuition, cheapest living costs.
+    - The 15 November early deadline is one of the earliest among German universities.
+    - CGPA 75% + top 10% requirement is strict — competitive admission despite being "Target" tier.
+    - Saarbrücken is a small city. Limited nightlife/social scene compared to Munich or Berlin.
+    - The research infrastructure is disproportionately strong for the university's overall ranking.
+    - Ideal for students prioritizing research career / PhD pathway over city life or brand prestige.
+    - 2027 application schedule will be published December 2026 — monitor the Saarland Informatics Campus website.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- Saarland Informatics Campus: https://saarland-informatics-campus.de/en/studium-studies/
-- Application guide: https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/
-- Semester fees: https://www.uni-saarland.de/studium/organisation/beitraege/semesterbeitrag.html
-- Data Science & AI programme: https://www.uni-saarland.de/fileadmin/upload/verwaltung/uebersetzungen/english/master/data-science_so.pdf
-- FAQ: https://saarland-informatics-campus.de/en/computerscience-course/faq/
-
-</details>
+    - Saarland Informatics Campus: https://saarland-informatics-campus.de/en/studium-studies/
+    - Application guide: https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/
+    - Semester fees: https://www.uni-saarland.de/studium/organisation/beitraege/semesterbeitrag.html
+    - Data Science & AI programme: https://www.uni-saarland.de/fileadmin/upload/verwaltung/uebersetzungen/english/master/data-science_so.pdf
+    - FAQ: https://saarland-informatics-campus.de/en/computerscience-course/faq/

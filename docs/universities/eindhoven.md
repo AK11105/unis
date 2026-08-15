@@ -8,6 +8,8 @@ tags:
 
 > **Country:** Netherlands | **Tier:** Target
 
+[Go to site :material-open-in-new:](https://www.tue.nl/en/){ .md-button target="_blank" }
+
 ---
 
 ## Overview
@@ -129,7 +131,10 @@ tags:
 
 ### Application Platform
 
-- **Studielink** (national Dutch platform) + TU/e's own portal (two-step process)
+- **Studielink** (national Dutch platform, step 1) + **TU/e portal** (step 2)
+
+[Apply on Studielink :material-open-in-new:](https://www.studielink.nl/){ .md-button .md-button--primary target="_blank" }
+[Apply on TU/e Portal :material-open-in-new:](https://www.tue.nl/en/education/become-a-tue-student/application){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -167,24 +172,21 @@ tags:
 
 ---
 
-## Notes
+## Notes & Sources
 
-- TU/e is expensive for non-EU (~€21,700/year, ~€44K total for 2 years — similar to TU Delft).
-- ASML connection is unique — one of the world's most valuable companies, HQ nearby.
-- Process Mining is TU/e's flagship contribution to Data Science — if interested, nowhere better.
-- Brainport Eindhoven is Europe's #1 tech region by patent density — excellent industry access.
-- Eindhoven is more affordable and less crowded than Amsterdam/Delft.
-- EAISI (AI Systems Institute) provides structured AI research collaboration.
-- Less globally famous than TU Delft but strong in its specialties.
+=== "Notes"
 
----
+    - TU/e is expensive for non-EU (~€21,700/year, ~€44K total for 2 years — similar to TU Delft).
+    - ASML connection is unique — one of the world's most valuable companies, HQ nearby.
+    - Process Mining is TU/e's flagship contribution to Data Science — if interested, nowhere better.
+    - Brainport Eindhoven is Europe's #1 tech region by patent density — excellent industry access.
+    - Eindhoven is more affordable and less crowded than Amsterdam/Delft.
+    - EAISI (AI Systems Institute) provides structured AI research collaboration.
+    - Less globally famous than TU Delft but strong in its specialties.
 
-<details markdown>
-<summary>Sources</summary>
+=== "Sources"
 
-- TU/e Education: https://www.tue.nl/en/education
-- Data Science & AI: https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence
-- Computer Science: https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering
-- EAISI: https://www.tue.nl/en/research/institutes/eaisi
-
-</details>
+    - TU/e Education: https://www.tue.nl/en/education
+    - Data Science & AI: https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence
+    - Computer Science: https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering
+    - EAISI: https://www.tue.nl/en/research/institutes/eaisi
