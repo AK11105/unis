@@ -1,0 +1,85 @@
+site_name: Masters Research — Europe 2027
+site_description: A curated research portfolio for AI/ML Master's programmes in Europe
+site_author: Atharva Kulkarni
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - toc.follow
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
+
+extra:
+  social: []
+  generator: false
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Profile: profile.md
+  - Shortlist: shortlist.md
+  - Documents: documents.md
+  - Faculty: faculty.md
+  - Universities:
+    - universities/index.md
+    - Dream:
+      - TUM: universities/tum.md
+      - RWTH Aachen: universities/rwth-aachen.md
+      - KIT: universities/kit.md
+      - ETH Zurich: universities/eth-zurich.md
+      - EPFL: universities/epfl.md
+      - TU Delft: universities/tu-delft.md
+    - Target:
+      - KTH: universities/kth.md
+      - Saarland: universities/saarland.md
+      - Tübingen: universities/tuebingen.md
+      - Bonn: universities/bonn.md
+      - TU Darmstadt: universities/tu-darmstadt.md
+      - Eindhoven: universities/eindhoven.md
+    - Moderate:
+      - Aalto: universities/aalto.md
+      - Paris-Saclay: universities/paris-saclay.md
+      - IP Paris: universities/ip-paris.md
+      - Freiburg: universities/freiburg.md

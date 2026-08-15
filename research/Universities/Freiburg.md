@@ -1,0 +1,191 @@
+# University of Freiburg
+
+> **Country:** Germany
+> **University:** Albert-Ludwigs-Universität Freiburg
+> **Tier:** Moderate ⭐⭐⭐
+
+---
+
+## 00. Overview
+
+### Rankings
+
+- One of Germany's leading research universities (University of Excellence)
+- Strong in Autonomous Intelligent Systems, Robotics, and Machine Learning
+- Home to BrainLinks-BrainTools (Cluster of Excellence in neurotechnology)
+
+### Tuition (Non-EU International Students)
+
+- **€1,500/semester** (Baden-Württemberg regulation)
+- **Semester contribution:** additional ~€190/semester
+- **Total estimated cost (4 semesters):** ~€6,760
+
+> Source: https://www.studium.uni-freiburg.de/en/student-services/study-fees
+
+### Estimated Living Cost
+
+- €800–1,100/month (Freiburg is moderate, pleasant small city)
+
+### Scholarships
+
+- DAAD
+- Deutschlandstipendium (€300/month)
+- Baden-Württemberg Scholarship
+- Research assistantships
+
+### Research Strengths
+
+- Autonomous Intelligent Systems / Robotics
+- Machine Learning
+- Reinforcement Learning
+- Computer Vision
+- AI Planning
+- Embedded Systems
+- Microsystems Technology (IMTEK — Cluster of Excellence)
+
+### Industry Connections
+
+- Fraunhofer institutes in Freiburg
+- Solar Energy (Fraunhofer ISE — largest solar research institute)
+- Medical technology
+- Automotive (Baden-Württemberg corridor)
+
+---
+
+## 01. Target Programs
+
+### Computer Science / Informatik (M.Sc.)
+
+| Field | Detail |
+|-------|--------|
+| Duration | 4 semesters |
+| Credits | 120 ECTS |
+| Language | **English** (German NOT required) |
+| Start | Winter Semester |
+| Thesis | Mandatory |
+
+#### Key Research Focus Areas
+
+- Autonomous Intelligent Systems
+- Machine Learning
+- Reinforcement Learning
+- Robotics
+- Computer Vision
+- AI Planning
+- Algorithms
+
+#### Highlights
+
+- Strong robotics and autonomous systems research
+- Flexible curriculum
+- Research-oriented
+- Access to excellent labs
+
+---
+
+## 02. Admission Requirements
+
+### Academic Requirements
+
+- Bachelor's in Computer Science or equivalent
+- Strong mathematical background
+- Programming proficiency
+
+### English Language
+
+- English proficiency required for English-taught modules
+- [Unverified] Exact minimum requirements — verify on programme page
+
+### Application Deadline
+
+- **Non-EU: 31 May** for Winter Semester
+- EU: 15 July for Winter Semester
+
+> Source: https://www.tf.uni-freiburg.de/de/lehre/termine
+
+---
+
+## 03. Tuition & Costs
+
+| Item | Amount |
+|------|--------|
+| Tuition (Non-EU) | €1,500/semester |
+| Semester contribution | ~€190/semester (€103 Studierendenwerk + €80 admin + €7 student union) |
+| Living costs | €800–1,100/month |
+| Total tuition (4 semesters) | €6,000 |
+| Total fees (4 semesters) | ~€6,760 |
+
+---
+
+## 04. Research
+
+### Key Labs and Groups
+
+- **Autonomous Intelligent Systems Lab** (Prof. Wolfram Burgard — one of the world's top robotics researchers)
+- **Machine Learning Lab** — RL, AutoML
+- **AI Planning Group**
+- **Computer Vision Group**
+- **BrainLinks-BrainTools** — Cluster of Excellence (neurotechnology + AI)
+- **Fraunhofer IPA** (nearby Stuttgart — Production Technology)
+
+### Major Research Areas
+
+- Robotics & Autonomous Systems
+- Reinforcement Learning (world-class — AutoML, neural architecture search)
+- Machine Learning
+- Computer Vision
+- AI Planning & Scheduling
+- Embedded Systems
+- Microsystems (IMTEK)
+
+---
+
+## 05. Application Checklist
+
+- [ ] Bachelor's degree (CS or equivalent)
+- [ ] Official transcript
+- [ ] English certificate
+- [ ] APS certificate (Indian applicants)
+- [ ] CV
+- [ ] Motivation letter
+- [ ] Passport copy
+
+---
+
+## 06. Personal Evaluation
+
+### Pros
+
+(To be filled)
+
+### Cons
+
+(To be filled)
+
+### Overall Rating
+
+(To be filled)
+
+### Final Verdict
+
+(To be filled)
+
+---
+
+## 07. Sources
+
+- Technische Fakultät: https://www.tf.uni-freiburg.de/de/studium
+- Tuition fees: https://www.studium.uni-freiburg.de/en/student-services/study-fees
+- Dates and deadlines: https://www.tf.uni-freiburg.de/de/lehre/termine
+- CS department: https://www.informatik.uni-freiburg.de/
+
+---
+
+## 08. Notes
+
+- Freiburg is famous for Autonomous Intelligent Systems and Robotics (Prof. Burgard was world-leading before moving — verify current faculty).
+- Strong in Reinforcement Learning and AutoML — if these are priorities, Freiburg is excellent.
+- Baden-Württemberg tuition (€1,500/semester) applies — same as KIT and Tübingen.
+- Freiburg is a beautiful, liveable small city (Black Forest region). High quality of life.
+- Less globally famous than TUM/ETH but very strong in its specialties (robotics, RL, autonomous systems).
+- Good choice as a "Moderate/Safe" tier application — less competitive than Dream tier but strong research.

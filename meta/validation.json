@@ -1,0 +1,987 @@
+{
+  "validation_metadata": {
+    "validation_date": "2026-08-15T09:48:04Z",
+    "target_intake": "Autumn 2027",
+    "applicant_nationality": "India",
+    "total_universities_validated": 16,
+    "critical_errors_found": 12,
+    "files_modified": 13,
+    "protocol": "VALIDATION.md"
+  },
+  "universities": [
+    {
+      "name": "Technical University of Munich (TUM)",
+      "file": "Universities/TUM.md",
+      "tier": "Dream",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "TUM-001",
+          "section": "Application Period",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "Application period: 01 January – 31 May",
+          "corrected": "Application period: 01 February – 31 May",
+          "reason": "Incorrect start date",
+          "source": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "TUM-002",
+          "section": "English Language Requirement",
+          "type": "incomplete",
+          "priority": "MEDIUM",
+          "existing": "[Unverified] TOEFL iBT 88+ / IELTS 6.5+",
+          "corrected": "TOEFL iBT 88, IELTS 6.5, PTE 65+, Cambridge CAE/CPE C+. MyBest Score NOT accepted.",
+          "reason": "Confirmed scores and removed [Unverified] tag; added additional accepted tests",
+          "source": "https://www.tum.de/en/studies/application/application-info-portal/admission-requirements/language-certificates",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "TUM-003",
+          "section": "GRE / GATE",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "GRE or GATE required for India/China/Bangladesh/Iran/Pakistan",
+          "corrected": "GRE or GATE required. Minimum scores: QR 164, AW 4.0. IIT graduates exempt from separate GATE. GRE at Home accepted.",
+          "reason": "Missing minimum scores and exemption details",
+          "source": "https://www.tum.de/en/studies/support-and-advice/faq",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "TUM-004",
+          "section": "Application Fee",
+          "type": "ambiguous",
+          "priority": "LOW",
+          "existing": "[Unverified] No application fee",
+          "corrected": "No TUM application fee. Note: uni-assist VPD processing fee ~€75 applies separately.",
+          "reason": "Confirmed no fee; clarified uni-assist charge",
+          "source": "https://www.tum.de/en/studies/fees",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Tuition €4,000–6,000/semester for non-EU Master's",
+        "Tuition introduced WS 2024/25",
+        "Semester contribution €97 (Garching campus)",
+        "GRE/GATE required for India/China/Bangladesh/Iran/Pakistan",
+        "APS certificate required for Indian applicants",
+        "Application platform: TUMonline",
+        "Tuition exemption for German bachelor graduates"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "RWTH Aachen University",
+      "file": "Universities/RWTH-Aachen.md",
+      "tier": "Dream",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "RWTH-001",
+          "section": "Semester Contribution",
+          "type": "outdated",
+          "priority": "LOW",
+          "existing": "~€320/semester",
+          "corrected": "~€340/semester (mobility component €234.57 from WS 26/27)",
+          "reason": "Mobility contribution increased",
+          "source": "https://www.asta.rwth-aachen.de/erstattung/",
+          "source_date": "2026-08-15",
+          "confidence": "MEDIUM"
+        },
+        {
+          "id": "RWTH-002",
+          "section": "Application Period",
+          "type": "incomplete",
+          "priority": "LOW",
+          "existing": "December – 1 March (WS)",
+          "corrected": "Opens December, deadline 1 March (WS). SSE also 1 March, WS-only intake for 1st semester.",
+          "reason": "Clarified opening month and SSE-specific info",
+          "source": "https://sc.informatik.rwth-aachen.de/de/studium/master/sse/application-for-admission/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "No tuition fees (NRW state policy)",
+        "GRE required for Data Science non-EU: Q>75th percentile, V>15th percentile, AW≥3.5",
+        "ETS code 8504",
+        "MOI certificates generally NOT accepted",
+        "Data Science is open admission (no NC)",
+        "Application platform: RWTHonline",
+        "No application fee",
+        "Non-EU deadline WS: 1 March",
+        "Non-EU deadline SS: 1 September"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "Karlsruhe Institute of Technology (KIT)",
+      "file": "Universities/KIT.md",
+      "tier": "Dream",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "KIT-001",
+          "section": "Semester Contribution",
+          "type": "outdated",
+          "priority": "LOW",
+          "existing": "~€154/semester",
+          "corrected": "~€184/semester (€80 admin + €92 Studierendenwerk + €12 student body)",
+          "reason": "Admin fee raised from €70 to €80 starting SS 2025",
+          "source": "https://www.sle.kit.edu/imstudium/gebuehren.php",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "KIT-002",
+          "section": "CDS Non-EU Deadline",
+          "type": "factually_incorrect",
+          "priority": "CRITICAL",
+          "existing": "Computational and Data Science deadline WS: 30 September",
+          "corrected": "Non-EU deadline WS: 15 July (30 September is EU-only)",
+          "reason": "Document showed EU deadline; non-EU is much earlier",
+          "source": "https://www.sle.kit.edu/vorstudium/master-computational-data-science.php",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "KIT-003",
+          "section": "GRE Requirements",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "GRE or eligible GATE required (depending on applicant background)",
+          "corrected": "GRE required for non-EHEA/non-Lisbon graduates (includes India). Minimums: V≥151, Q≥164, AW≥4. GATE (CS&IT or DSAI) accepted as alternative.",
+          "reason": "Missing minimum scores and specific applicability",
+          "source": "https://www.sle.kit.edu/vorstudium/master-computer-science.php",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "KIT-004",
+          "section": "Programme Capacity",
+          "type": "incomplete",
+          "priority": "LOW",
+          "existing": "No capacity information",
+          "corrected": "CS M.Sc. has 100 places per year, competitive selection via ranked list",
+          "reason": "Useful context for competitiveness assessment",
+          "source": "https://www.sle.kit.edu/vorstudium/master-computer-science.php",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Tuition €1,500/semester (BW regulation)",
+        "CS M.Sc. deadline WS: 15 June",
+        "CS M.Sc. has NC (restricted admission)",
+        "CDS is open admission (no NC)",
+        "English requirement B2",
+        "No application fee"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "ETH Zurich",
+      "file": "Universities/ETH-Zurich.md",
+      "tier": "Dream",
+      "country": "Switzerland",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "ETH-001",
+          "section": "English Language - TOEFL",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "TOEFL iBT: 100",
+          "corrected": "TOEFL iBT: 94",
+          "reason": "Overstated minimum score",
+          "source": "https://ethz.ch/en/studies/master/application/language-requirements.html",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "ETH-002",
+          "section": "Application Fee",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "[Unverified] No application fee",
+          "corrected": "CHF 150 per programme (non-refundable, credit card or PostFinance card)",
+          "reason": "Fee exists and was omitted",
+          "source": "https://ethz.ch/en/studies/master/application/international-bachelor/how-to-apply.html",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "ETH-003",
+          "section": "English Language - IELTS",
+          "type": "unsupported",
+          "priority": "MEDIUM",
+          "existing": "IELTS 7.0 overall (minimum 6.0 each section)",
+          "corrected": "IELTS 7.0 overall (per-band minimums not officially published by ETH)",
+          "reason": "ETH does not publish per-skill IELTS minimums",
+          "source": "https://ethz.ch/en/studies/master/application/language-requirements.html",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "ETH-004",
+          "section": "Deadline Specificity",
+          "type": "incomplete",
+          "priority": "MEDIUM",
+          "existing": "1 November - 30 November (general)",
+          "corrected": "For HS2027: Nov 1-30, 2026, 11:59 AM CET",
+          "reason": "Added exact time and year-specific dates from ESOP page",
+          "source": "https://ethz.ch/en/studies/master/application/dates.html",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Tuition CHF 2,190/semester (from HS2025, international)",
+        "CHF 730/semester for Swiss/eligible residents",
+        "2 recommendation letters required",
+        "ESOP: tuition + CHF 12,000/semester living grant",
+        "GRE not required but considered",
+        "eApply platform",
+        "IELTS 7.0 overall",
+        "C1 level required"
+      ],
+      "not_verified": [
+        "Living costs CHF 20,000-26,000/year (PDF not fetchable)"
+      ],
+      "2027_status": {
+        "published": true,
+        "deadline_confirmed": "Nov 1-30, 2026 for HS2027",
+        "planning_assumption": false
+      }
+    },
+    {
+      "name": "EPFL",
+      "file": "Universities/EPFL.md",
+      "tier": "Dream",
+      "country": "Switzerland",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "EPFL-001",
+          "section": "Tuition",
+          "type": "outdated",
+          "priority": "CRITICAL",
+          "existing": "CHF 780/semester (may increase for international from HS2025)",
+          "corrected": "CHF 2,240/semester for international students (from HS2025). CHF 780 remains for Swiss/residents.",
+          "reason": "Increase formally adopted Dec 2024, in effect from HS2025. Document said 'may increase' but it already did.",
+          "source": "https://www.epfl.ch/education/studies/en/rules-and-procedures/tuition-fees/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "EPFL-002",
+          "section": "GRE",
+          "type": "ambiguous",
+          "priority": "LOW",
+          "existing": "Optional but recommended",
+          "corrected": "Optional (welcome but not compulsory)",
+          "reason": "EPFL uses 'welcome but not compulsory', not 'recommended'",
+          "source": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Application fee CHF 150",
+        "Round 1 deadline: 15 December",
+        "Round 2 deadline: 31 March",
+        "3 academic referees required",
+        "Only 1 programme application per year",
+        "English proficiency required (no specific score mandated)"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2025-2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "TU Delft",
+      "file": "Universities/TU-Delft.md",
+      "tier": "Dream",
+      "country": "Netherlands",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "DELFT-001",
+          "section": "Tuition",
+          "type": "factually_incorrect",
+          "priority": "CRITICAL",
+          "existing": "Non-EU 2025-2026: €17,310/year; Total: €34,620",
+          "corrected": "MSc Non-EU 2025-2026: €22,290/year; 2026-2027: €25,633/year; Total ~€48,000-51,000",
+          "reason": "Document used BSc fee (€17,310) instead of MSc fee (€22,290). MSc institutional fee is much higher.",
+          "source": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "DELFT-002",
+          "section": "GRE Scores",
+          "type": "ambiguous",
+          "priority": "MEDIUM",
+          "existing": "Competitive scores: V154+, Q163+, AW4.0+",
+          "corrected": "Competitive benchmarks (not strict minimums for CS/DSAI): V154+, Q163+, AW4.0+. Applicants below may be rejected.",
+          "reason": "For Aerospace these are hard minimums; for CS/DSAI they are competitive benchmarks",
+          "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/required-documents",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Application fee €100",
+        "Non-EU deadline 15 January",
+        "IELTS 7.0 overall, min 6.5 per section",
+        "GRE required for CS and DSAI",
+        "Minimum CGPA 75%"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2025-2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "KTH Royal Institute of Technology",
+      "file": "Universities/KTH.md",
+      "tier": "Target",
+      "country": "Sweden",
+      "status": "VALIDATED",
+      "changes": [],
+      "confirmed": [
+        "Tuition SEK 360,000 for 2-year programme",
+        "Application deadline 15 January",
+        "Documents/fee deadline 1 February",
+        "Application fee SEK 900",
+        "Platform: UniversityAdmissions.se",
+        "English IELTS 6.5 equivalent",
+        "Can rank up to 4 programmes",
+        "KTH India Scholarship: full tuition + monthly living allowance"
+      ],
+      "not_verified": [
+        "CS acceptance rate 8% (KTH does not publish officially)",
+        "ML acceptance rate 6% (KTH does not publish officially)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "Aalto University",
+      "file": "Universities/Aalto.md",
+      "tier": "Moderate",
+      "country": "Finland",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "AALTO-001",
+          "section": "Tuition",
+          "type": "ambiguous",
+          "priority": "MEDIUM",
+          "existing": "Technology: €17,000/year",
+          "corrected": "Technology: €17,000–€20,000/year (verify for 2027 intake; range per Aalto 2026 docs)",
+          "reason": "Aalto 2026 certificate of funds shows range €15,000-€20,000 depending on programme/year",
+          "source": "Aalto Certificate of Required Funds 2026",
+          "source_date": "2026-03",
+          "confidence": "MEDIUM"
+        },
+        {
+          "id": "AALTO-002",
+          "section": "Finland Residence Permit",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "Finland residence permit requires proof of €6,720/year",
+          "corrected": "Finland residence permit requires proof of €9,600/year (€800/month)",
+          "reason": "Migri requirement is €800/month = €9,600/year, not €6,720",
+          "source": "https://migri.fi/en/residence-permit-application-for-studies",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Application fee €100",
+        "Platform: Studyinfo.fi",
+        "Up to 2 study options",
+        "Excellence Scholarship: tuition waiver only (not living)"
+      ],
+      "not_verified": [
+        "GRE required for Macadamia Admission Group 2 (criteria PDF not accessible)",
+        "Preferred GPA India: 8.0/10 (not independently confirmed)",
+        "Application period 2027: 7 Dec 2026 - 5 Jan 2027 (not yet posted on studyinfo.fi)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "Université Paris-Saclay",
+      "file": "Universities/Paris-Saclay.md",
+      "tier": "Moderate",
+      "country": "France",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "SACLAY-001",
+          "section": "Programme Name",
+          "type": "factually_incorrect",
+          "priority": "MEDIUM",
+          "existing": "M.Sc. Artificial Intelligence",
+          "corrected": "M.Sc. Computer Science (AI Track / Parcours Intelligence Artificielle). Diploma is in Computer Science.",
+          "reason": "The diploma awarded is in Computer Science; AI is a track within it",
+          "source": "https://ai-master.lisn.fr/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "SACLAY-002",
+          "section": "Tuition Exemption",
+          "type": "ambiguous",
+          "priority": "LOW",
+          "existing": "partially exempts most international students",
+          "corrected": "fully exempts most international students from differentiated fees (brings fees to €254)",
+          "reason": "Exemption brings fees in line with domestic rate — it's a full exemption from the surcharge",
+          "source": "https://www.universite-paris-saclay.fr/en/admission/tuition-fees",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Tuition €254/year (national rate)",
+        "Platform: Inception",
+        "Scholarship: €10,000/year + up to €900 travel",
+        "~25 students for M1 cohort",
+        "English B2 minimum",
+        "EEF procedure for Indian applicants after admission",
+        "Application period: Jan-March (previous cycle: 15 Jan - 16 Mar)"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "Institut Polytechnique de Paris (IP Paris)",
+      "file": "Universities/IP-Paris.md",
+      "tier": "Moderate",
+      "country": "France",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "IPPARIS-001",
+          "section": "Constituent Schools",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "4 schools: École Polytechnique, Télécom Paris, ENSTA Paris, ENSAE Paris",
+          "corrected": "6 founding schools: + École des Ponts ParisTech (ENPC) + Télécom SudParis",
+          "reason": "IP Paris has 6 founding schools, not 4",
+          "source": "https://www.ip-paris.fr/en/about/about-us",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "Tuition ~€254/year (national rate)",
+        "PhD Track available with funding",
+        "Internship mandatory (4-6 months)"
+      ],
+      "not_verified": [
+        "Exact application deadlines for 2027 (programme-dependent)",
+        "Specific AI programme admission requirements"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2025-2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "Saarland University",
+      "file": "Universities/Saarland.md",
+      "tier": "Target",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "SAAR-001",
+          "section": "GRE Requirement",
+          "type": "factually_incorrect",
+          "priority": "CRITICAL",
+          "existing": "Not explicitly required",
+          "corrected": "REQUIRED for non-EHEA/non-Switzerland/non-UK degree holders (includes India). GRE General or GATE accepted. No minimum score. Home edition accepted.",
+          "reason": "GRE is mandatory for Indian applicants — document stated it was not required",
+          "source": "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "SAAR-002",
+          "section": "Deadlines",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "Early deadline: 15 November; Normal deadline: [Unverified] Likely March/April",
+          "corrected": "Main WS deadline: 15 May. Nov 15 is for early decision (WS) AND is the SS deadline.",
+          "reason": "Misrepresented deadline structure — May 15 is the main WS deadline",
+          "source": "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "SAAR-003",
+          "section": "English Language",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "English proficiency required. [Unverified] Exact minimum scores should be verified",
+          "corrected": "C1 required: IELTS 7.0, TOEFL iBT 95, PTE 76. MOI certificates NOT accepted.",
+          "reason": "Specific scores were missing and are now confirmed",
+          "source": "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "SAAR-004",
+          "section": "Recommendation Letters",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "Recommendation Letters listed as 'Recommended'",
+          "corrected": "Two recommendation letters are MANDATORY (review forms provided)",
+          "reason": "Letters are required, not optional",
+          "source": "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "No tuition fees",
+        "Semester contribution ~€412",
+        "CGPA 75% + top 10% of class",
+        "Application platform: Saarland Informatics Campus portal",
+        "APS certificate required"
+      ],
+      "not_verified": [],
+      "2027_status": {
+        "published": false,
+        "portal_opens": "December 2026",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "University of Tübingen",
+      "file": "Universities/Tuebingen.md",
+      "tier": "Target",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "TUE-001",
+          "section": "ML Deadline",
+          "type": "ambiguous",
+          "priority": "MEDIUM",
+          "existing": "~April 1–30 (varies by year)",
+          "corrected": "30 April (verify annually on official portal)",
+          "reason": "Pinpointed to April 30 from multiple sources",
+          "source": "GlobalAdmissions aggregator + university patterns",
+          "source_date": "2026-08-15",
+          "confidence": "MEDIUM"
+        },
+        {
+          "id": "TUE-002",
+          "section": "Semester Contribution",
+          "type": "outdated",
+          "priority": "LOW",
+          "existing": "~€150/semester",
+          "corrected": "~€150–200/semester [flagged — may have changed with Deutschlandticket]",
+          "reason": "Could not confirm exact current amount; likely increased",
+          "source": "https://www.my-stuwe.de/unternehmen/studierendenwerksbeitrag/",
+          "source_date": "2026-08-15",
+          "confidence": "LOW"
+        }
+      ],
+      "confirmed": [
+        "Tuition €1,500/semester (BW regulation)",
+        "No GRE required"
+      ],
+      "not_verified": [
+        "Exact semester contribution amount",
+        "Exact English proficiency requirements for ML M.Sc. (likely TOEFL 95 / IELTS 7.0)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "University of Bonn",
+      "file": "Universities/Bonn.md",
+      "tier": "Target",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "BONN-001",
+          "section": "Programme Language",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "English/German (mixed — check programme specifics)",
+          "corrected": "English (German NOT required)",
+          "reason": "Programme is fully English-taught per official page",
+          "source": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "BONN-002",
+          "section": "English Requirement",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "[Unverified] Exact minimum IELTS/TOEFL score should be verified",
+          "corrected": "C1 required: IELTS 7.0 or TOEFL iBT 95. MOI NOT accepted for non-European applicants.",
+          "reason": "Scores confirmed from official application page",
+          "source": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "BONN-003",
+          "section": "Selectivity",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "No selectivity information",
+          "corrected": ">99% rejection rate for applicants from Bangladesh, India, Nepal, Pakistan, Afghanistan",
+          "reason": "Critical for strategy — Bonn explicitly states this on their application page",
+          "source": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "BONN-004",
+          "section": "Semester Contribution",
+          "type": "outdated",
+          "priority": "LOW",
+          "existing": "~€300–330/semester",
+          "corrected": "~€345–363/semester (WS 2026/27: €363.07)",
+          "reason": "Increased due to Deutschlandsemesterticket",
+          "source": "https://www.uni-bonn.de/en/studying/application-admission-and-enrollment/costs",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "BONN-005",
+          "section": "Application Deadlines",
+          "type": "outdated",
+          "priority": "HIGH",
+          "existing": "Non-EU: possibly 15 March for WS",
+          "corrected": "New selection procedure (from WS 2026/27). Window is approximately April-May for WS. Verify annually.",
+          "reason": "Bonn changed their admission process; old deadlines no longer apply",
+          "source": "https://www.informatik.uni-bonn.de/en/studies/examination-office/deadlines-at-a-glance",
+          "source_date": "2026-08-15",
+          "confidence": "MEDIUM"
+        },
+        {
+          "id": "BONN-006",
+          "section": "Admission Requirements",
+          "type": "incomplete",
+          "priority": "HIGH",
+          "existing": "Sound knowledge of compulsory CS bachelor subjects",
+          "corrected": "Scientific bachelor's thesis required (min 12 ECTS, 750+ lines of text). Strong theoretical CS background (Algorithms & Complexity mandatory).",
+          "reason": "Critical prerequisites were missing",
+          "source": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "No tuition fees (NRW)",
+        "No GRE required",
+        "APS certificate required"
+      ],
+      "not_verified": [
+        "Exact WS 2027/28 application window dates (new procedure, verify when published)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true,
+        "note": "New selection procedure introduced WS 2026/27 — monitor for 2027/28 dates"
+      }
+    },
+    {
+      "name": "TU Darmstadt",
+      "file": "Universities/TU-Darmstadt.md",
+      "tier": "Target",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "DARM-001",
+          "section": "Application Deadline",
+          "type": "factually_incorrect",
+          "priority": "CRITICAL",
+          "existing": "Likely 1 March for non-EU (WS start)",
+          "corrected": "WS: 1 June – 15 July. SS: 1 December – 15 January.",
+          "reason": "Completely wrong deadline — March 1 would cause premature application attempt",
+          "source": "https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "No tuition fees (Hessen)",
+        "AI & ML M.Sc. English-taught",
+        "CS M.Sc. English-taught",
+        "Can start WS or SS",
+        "No GRE required"
+      ],
+      "not_verified": [
+        "Exact semester contribution amount",
+        "Exact English requirements (programme-specific)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "Eindhoven University of Technology (TU/e)",
+      "file": "Universities/Eindhoven.md",
+      "tier": "Target",
+      "country": "Netherlands",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "TUE-001",
+          "section": "Tuition",
+          "type": "factually_incorrect",
+          "priority": "CRITICAL",
+          "existing": "Non-EU: ~€17,000–18,000/year; Total: ~€34,000–36,000",
+          "corrected": "Non-EU 2026-2027: €21,700/year; 2027-2028: €22,400/year; Total: ~€43,400–44,100",
+          "reason": "Tuition significantly underestimated — actual fee is €21,700+ per year",
+          "source": "https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/tuition-fee",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "TUE-002",
+          "section": "Application Deadline",
+          "type": "factually_incorrect",
+          "priority": "HIGH",
+          "existing": "Non-EU: likely 1 April or earlier",
+          "corrected": "Non-EU: 1 May for most Master's programmes (final deadline, 23:59 CET). Scholarship deadlines may be earlier.",
+          "reason": "Deadline corrected from original estimate. Note: initial validation incorrectly cited 1 February from non-authoritative source; audit corrected to 1 May per official TU/e roadmap.",
+          "source": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment",
+          "source_date": "2026-08-15",
+          "confidence": "MEDIUM"
+        },
+        {
+          "id": "TUE-003",
+          "section": "Application Platform",
+          "type": "incomplete",
+          "priority": "MEDIUM",
+          "existing": "TU/e online application system",
+          "corrected": "Studielink (national Dutch platform) + TU/e's own portal (two-step process)",
+          "reason": "All Dutch universities require Studielink registration",
+          "source": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "TUE-004",
+          "section": "Process Mining / van der Aalst",
+          "type": "outdated",
+          "priority": "MEDIUM",
+          "existing": "Process Mining (Prof. van der Aalst) — world-leading at TU/e",
+          "corrected": "Process Mining: invented at TU/e, research group remains strong. Prof. van der Aalst's primary affiliation is now RWTH Aachen (since 2018).",
+          "reason": "Faculty affiliation changed",
+          "source": "https://www.vdaalst.com",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        }
+      ],
+      "confirmed": [
+        "GRE not required",
+        "IELTS 6.5-7.0 range",
+        "EAISI institute exists"
+      ],
+      "not_verified": [
+        "Holland Scholarship participation (not confirmed on TU/e website currently)",
+        "Exact programme-specific deadlines (dynamic roadmap tool)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "2026-2027",
+        "planning_assumption": true
+      }
+    },
+    {
+      "name": "University of Freiburg",
+      "file": "Universities/Freiburg.md",
+      "tier": "Moderate",
+      "country": "Germany",
+      "status": "VALIDATED_WITH_CHANGES",
+      "changes": [
+        {
+          "id": "FREI-001",
+          "section": "Application Deadline",
+          "type": "factually_incorrect",
+          "priority": "CRITICAL",
+          "existing": "15 June – 15 September for WS",
+          "corrected": "Non-EU: 31 May for WS. EU: 15 July.",
+          "reason": "Non-EU deadline is much earlier than stated",
+          "source": "https://www.tf.uni-freiburg.de/de/lehre/termine (Zulassungsordnung)",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "FREI-002",
+          "section": "Semester Contribution",
+          "type": "outdated",
+          "priority": "LOW",
+          "existing": "~€155/semester",
+          "corrected": "€190/semester (€103 Studierendenwerk + €80 admin + €7 student union)",
+          "reason": "Fee increased (admin component raised)",
+          "source": "https://www.studium.uni-freiburg.de/en/student-services/study-fees",
+          "source_date": "2026-08-15",
+          "confidence": "HIGH"
+        },
+        {
+          "id": "FREI-003",
+          "section": "Programme Language",
+          "type": "ambiguous",
+          "priority": "MEDIUM",
+          "existing": "English/German (many courses in English)",
+          "corrected": "English (German NOT required)",
+          "reason": "Programme is English-taught per official sources",
+          "source": "https://www.mygermanuniversity.com/master/computer-science/273",
+          "source_date": "2026-08-15",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "confirmed": [
+        "Tuition €1,500/semester (BW regulation)"
+      ],
+      "not_verified": [
+        "Exact English proficiency scores (likely TOEFL 95 / IELTS 7.0 based on BW patterns)"
+      ],
+      "2027_status": {
+        "published": false,
+        "latest_cycle": "WS 2026/27",
+        "planning_assumption": true
+      }
+    }
+  ],
+  "financial_summary": {
+    "tuition_corrections": [
+      {
+        "university": "EPFL",
+        "previous_total_4sem": "CHF 3,120",
+        "corrected_total_4sem": "CHF 8,960",
+        "difference": "+CHF 5,840"
+      },
+      {
+        "university": "TU Delft",
+        "previous_total_2yr": "€34,620",
+        "corrected_total_2yr": "~€50,000",
+        "difference": "+€15,000+"
+      },
+      {
+        "university": "TU Eindhoven",
+        "previous_total_2yr": "€34,000–36,000",
+        "corrected_total_2yr": "~€44,000",
+        "difference": "+€8,000+"
+      }
+    ],
+    "no_tuition_universities": [
+      "RWTH Aachen",
+      "Saarland University",
+      "University of Bonn",
+      "TU Darmstadt"
+    ],
+    "low_tuition_universities": [
+      {"name": "Paris-Saclay", "total": "~€508 (2 years)"},
+      {"name": "IP Paris", "total": "~€508 (2 years)"},
+      {"name": "KIT", "total": "~€6,736 (4 semesters)"},
+      {"name": "Tübingen", "total": "~€6,600–6,800 (4 semesters)"},
+      {"name": "Freiburg", "total": "~€6,760 (4 semesters)"}
+    ]
+  },
+  "deadline_calendar_autumn_2027": [
+    {"university": "ETH Zurich", "deadline": "2026-11-30", "note": "11:59 AM CET"},
+    {"university": "Saarland (early decision)", "deadline": "2026-11-15", "note": "For WS early decision"},
+    {"university": "EPFL Round 1", "deadline": "2026-12-15", "note": "Recommended for visa applicants"},
+    {"university": "Aalto", "deadline": "2027-01-05", "note": "Approximate based on pattern"},
+    {"university": "KTH", "deadline": "2027-01-15", "note": "Via UniversityAdmissions.se"},
+    {"university": "TU Delft", "deadline": "2027-01-15", "note": "CS, DSAI programmes"},
+    {"university": "TU Eindhoven", "deadline": "2027-05-01", "note": "Most non-EU programmes (verify via roadmap)"},
+    {"university": "RWTH Aachen", "deadline": "2027-03-01", "note": "All CS programmes non-EU"},
+    {"university": "Paris-Saclay", "deadline": "2027-03-16", "note": "Based on previous cycle"},
+    {"university": "EPFL Round 2", "deadline": "2027-03-31", "note": null},
+    {"university": "Tübingen ML", "deadline": "2027-04-30", "note": "Verify annually"},
+    {"university": "Bonn", "deadline": "2027-05-15", "note": "Approximate — new procedure, verify"},
+    {"university": "Saarland (main WS)", "deadline": "2027-05-15", "note": null},
+    {"university": "TUM", "deadline": "2027-05-31", "note": "Opens Feb 1"},
+    {"university": "Freiburg (non-EU)", "deadline": "2027-05-31", "note": null},
+    {"university": "KIT CS", "deadline": "2027-06-15", "note": null},
+    {"university": "TU Darmstadt", "deadline": "2027-07-15", "note": "Opens Jun 1"},
+    {"university": "KIT CDS (non-EU)", "deadline": "2027-07-15", "note": null}
+  ],
+  "gre_requirements": {
+    "required": [
+      {"university": "TUM", "programmes": ["Informatics", "CSE", "DEA", "MiDS"], "min_scores": {"QR": 164, "AW": 4.0}, "notes": "For India/China/Bangladesh/Iran/Pakistan. GATE accepted."},
+      {"university": "RWTH Aachen", "programmes": ["Data Science"], "min_scores": {"QR": "75th percentile", "VR": "15th percentile", "AW": 3.5}, "notes": "Non-EU/EEA only. ETS code 8504."},
+      {"university": "KIT", "programmes": ["Computer Science M.Sc."], "min_scores": {"VR": 151, "QR": 164, "AW": 4.0}, "notes": "Non-EHEA/non-Lisbon graduates. GATE CS&IT or DSAI accepted."},
+      {"university": "TU Delft", "programmes": ["CS", "DSAI", "CES"], "min_scores": {"VR": "154 (benchmark)", "QR": "163 (benchmark)", "AW": "4.0 (benchmark)"}, "notes": "Competitive benchmarks, not hard minimums for CS/DSAI."},
+      {"university": "Saarland", "programmes": ["CS", "DSAI", "Cybersecurity", "Embedded Systems", "Visual Computing"], "min_scores": "none", "notes": "Non-EHEA only. No minimum score. GATE accepted. Home edition ok."},
+      {"university": "Aalto", "programmes": ["Macadamia (Group 2)"], "min_scores": "unverified", "notes": "Needs verification from 2027 criteria."}
+    ],
+    "not_required": [
+      "RWTH Aachen (SSE, HCIS, Informatik)",
+      "KIT (Computational and Data Science)",
+      "ETH Zurich (optional, considered)",
+      "EPFL (optional, welcome but not compulsory)",
+      "KTH",
+      "Paris-Saclay",
+      "IP Paris",
+      "Tübingen",
+      "Bonn",
+      "TU Darmstadt",
+      "TU Eindhoven",
+      "Freiburg"
+    ]
+  }
+}
