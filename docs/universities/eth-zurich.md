@@ -1,6 +1,12 @@
+---
+tags:
+  - Switzerland
+  - Dream
+---
+
 # ETH Zurich
 
-> **Country:** Switzerland | **Tier:** Dream ⭐⭐⭐⭐⭐
+> **Country:** Switzerland | **Tier:** Dream
 
 ---
 

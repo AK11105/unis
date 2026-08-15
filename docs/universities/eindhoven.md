@@ -1,6 +1,12 @@
+---
+tags:
+  - Netherlands
+  - Target
+---
+
 # Eindhoven University of Technology (TU/e)
 
-> **Country:** Netherlands | **Tier:** Target ⭐⭐⭐⭐
+> **Country:** Netherlands | **Tier:** Target
 
 ---
 

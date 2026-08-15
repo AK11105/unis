@@ -1,6 +1,12 @@
+---
+tags:
+  - Netherlands
+  - Dream
+---
+
 # Delft University of Technology (TU Delft)
 
-> **Country:** Netherlands | **Tier:** Dream ⭐⭐⭐⭐⭐
+> **Country:** Netherlands | **Tier:** Dream
 
 ---
 

@@ -1,6 +1,12 @@
+---
+tags:
+  - France
+  - Moderate
+---
+
 # Université Paris-Saclay
 
-> **Country:** France | **Tier:** Moderate ⭐⭐⭐
+> **Country:** France | **Tier:** Moderate
 
 ---
 

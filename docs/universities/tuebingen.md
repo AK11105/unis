@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Target
+---
+
 # University of Tübingen
 
-> **Country:** Germany | **Tier:** Target ⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Target
 
 ---
 

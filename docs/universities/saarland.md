@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Target
+---
+
 # Saarland University
 
-> **Country:** Germany | **Tier:** Target ⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Target
 
 ---
 

@@ -20,9 +20,9 @@ Pursue a strong **Master's as preparation for a future PhD/research career** in 
 
 | Priority | Criteria |
 |----------|----------|
-| :material-star: Primary | Curriculum depth, research strength, faculty fit, PhD potential |
-| :material-star-half-full: Secondary | Thesis/research opportunities, strong theoretical foundations |
-| :material-star-outline: Tertiary | Cost, scholarships, admission feasibility |
+| Primary | Curriculum depth, research strength, faculty fit, PhD potential |
+| Secondary | Thesis/research opportunities, strong theoretical foundations |
+| Tertiary | Cost, scholarships, admission feasibility |
 
 ---
 

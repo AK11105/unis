@@ -1,6 +1,12 @@
+---
+tags:
+  - Sweden
+  - Target
+---
+
 # KTH Royal Institute of Technology
 
-> **Country:** Sweden | **Tier:** Target ⭐⭐⭐⭐
+> **Country:** Sweden | **Tier:** Target
 
 ---
 

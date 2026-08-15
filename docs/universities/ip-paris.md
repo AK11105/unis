@@ -1,6 +1,12 @@
+---
+tags:
+  - France
+  - Moderate
+---
+
 # Institut Polytechnique de Paris (IP Paris)
 
-> **Country:** France | **Tier:** Moderate ⭐⭐⭐
+> **Country:** France | **Tier:** Moderate
 
 ---
 

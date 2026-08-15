@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Moderate
+---
+
 # University of Freiburg
 
-> **Country:** Germany | **Tier:** Moderate ⭐⭐⭐
+> **Country:** Germany | **Tier:** Moderate
 
 ---
 

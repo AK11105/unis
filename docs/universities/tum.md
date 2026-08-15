@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Dream
+---
+
 # Technical University of Munich (TUM)
 
-> **Country:** Germany | **Tier:** Dream ⭐⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Dream
 
 ---
 

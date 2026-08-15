@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Target
+---
+
 # University of Bonn
 
-> **Country:** Germany | **Tier:** Target ⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Target
 
 ---
 

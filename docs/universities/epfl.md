@@ -1,6 +1,12 @@
+---
+tags:
+  - Switzerland
+  - Dream
+---
+
 # École Polytechnique Fédérale de Lausanne (EPFL)
 
-> **Country:** Switzerland | **Tier:** Dream ⭐⭐⭐⭐⭐
+> **Country:** Switzerland | **Tier:** Dream
 
 ---
 

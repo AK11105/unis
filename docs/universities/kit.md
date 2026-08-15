@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Dream
+---
+
 # Karlsruhe Institute of Technology (KIT)
 
-> **Country:** Germany | **Tier:** Dream ⭐⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Dream
 
 ---
 

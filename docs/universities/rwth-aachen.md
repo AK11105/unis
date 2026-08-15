@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Dream
+---
+
 # RWTH Aachen University
 
-> **Country:** Germany | **Tier:** Dream ⭐⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Dream
 
 ---
 

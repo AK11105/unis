@@ -17,8 +17,66 @@ These documents are needed for **every** application:
 | 5 | Curriculum Vitae | Academic CV format |
 | 6 | Statement of Purpose | Tailor per university |
 
-!!! warning "India-specific: APS Certificate"
-    Required for **all 8 German universities**. Processing takes 4–8 weeks — apply early.
+---
+
+## Who Needs What
+
+### APS Certificate (8 universities)
+
+!!! warning "All German universities require APS. Apply early — 4–8 weeks processing."
+
+TUM · RWTH Aachen · KIT · Saarland · Tübingen · Bonn · TU Darmstadt · Freiburg
+
+---
+
+### GRE / GATE (6 universities)
+
+| University | Requirement | Minimums |
+|-----------|-------------|----------|
+| TUM | Required | Q 164, AW 4.0 |
+| RWTH Aachen | Data Science only | Q >75th pct, V >15th pct, AW ≥3.5 |
+| KIT | CS M.Sc. only | V 151, Q 164, AW 4.0 |
+| TU Delft | Required | V 154+, Q 163+, AW 4.0+ |
+| Saarland | Required | No minimum score |
+| Aalto | Macadamia (AG2) | Unverified minimums |
+
+!!! tip "Safe target: V 155+, Q 166+, AW 4.5"
+
+---
+
+### Recommendation Letters (5 universities)
+
+| University | Count | Notes |
+|-----------|-------|-------|
+| EPFL | **3** | Submitted via system |
+| ETH Zurich | 2 | Mandatory |
+| KTH | 2 | Required |
+| Saarland | 2 | University forms provided |
+| Paris-Saclay | 1 | Or internship evaluation |
+
+---
+
+### Module Descriptions (4 universities)
+
+TUM · RWTH Aachen · KIT · Aalto
+
+---
+
+### Grading System Explanation (4 universities)
+
+TUM · RWTH Aachen · KIT · TU Delft
+
+---
+
+### Application Fees
+
+| University | Fee |
+|-----------|-----|
+| ETH Zurich | CHF 150 |
+| EPFL | CHF 150 |
+| TU Delft | €100 |
+| Aalto | €100 |
+| KTH | SEK 900 (~€80) |
 
 ---
 
@@ -35,35 +93,6 @@ These documents are needed for **every** application:
 | Saarland | 7.0 | 95 | MOI NOT accepted |
 | Bonn | 7.0 | 95 | MOI NOT accepted |
 | Paris-Saclay | — | — | B2 minimum |
-
----
-
-## GRE Score Targets
-
-**Safe target: V 155+, Q 166+, AW 4.5** covers all competitive thresholds.
-
-| University | Verbal | Quant | AW | Notes |
-|-----------|--------|-------|-----|-------|
-| TUM | — | **164** | **4.0** | Hard minimums |
-| RWTH (DS only) | >15th pct | >75th pct | ≥3.5 | Hard minimums |
-| KIT (CS only) | 151 | 164 | 4.0 | Hard minimums |
-| TU Delft | 154+ | 163+ | 4.0+ | Benchmarks, not hard cutoffs |
-| Saarland | — | — | — | No minimum score |
-| Aalto (Macadamia) | — | — | — | Unverified minimums |
-
----
-
-## Who Needs What — Quick Reference
-
-| Document | TUM | RWTH | KIT | ETH | EPFL | Delft | KTH | Aalto | Saclay | IP Paris | Saar | Tüb | Bonn | Darm | Eind | Frei |
-|----------|:---:|:----:|:---:|:---:|:----:|:-----:|:---:|:-----:|:------:|:--------:|:----:|:---:|:----:|:----:|:----:|:----:|
-| APS Certificate | ✓ | ✓ | ✓ | — | — | — | — | — | — | — | ✓ | ✓ | ✓ | ✓ | — | ✓ |
-| GRE/GATE | ✓ | DS | CS | — | — | ✓ | — | Mac | — | — | ✓ | — | — | — | — | — |
-| Rec Letters | — | — | — | 2 | 3 | — | 2 | — | 1 | ? | 2 | — | — | — | — | — |
-| Module Descriptions | ✓ | ✓ | ✓ | — | — | — | — | ✓ | — | — | — | — | — | — | — | — |
-| Grading System | ✓ | ✓ | ✓ | — | — | ✓ | — | — | — | — | — | — | — | — | — | — |
-| High School Cert | — | — | — | ✓ | — | — | — | — | — | — | — | — | — | — | — | — |
-| Application Fee | — | — | — | CHF150 | CHF150 | €100 | SEK900 | €100 | — | — | — | — | — | — | — | — |
 
 ---
 
@@ -125,3 +154,22 @@ These documents are needed for **every** application:
     **Paris-Saclay** — 1 recommendation letter + programme questionnaire + self-evaluation form + course selection sheet.
 
     **IP Paris** — Recommendation letters if requested. GRE/GMAT only if programme requests.
+
+---
+
+## Full Matrix
+
+<details>
+<summary>Expand full document × university matrix</summary>
+
+| Document | TUM | RWTH | KIT | ETH | EPFL | Delft | KTH | Aalto | Saclay | IP Paris | Saar | Tüb | Bonn | Darm | Eind | Frei |
+|----------|:---:|:----:|:---:|:---:|:----:|:-----:|:---:|:-----:|:------:|:--------:|:----:|:---:|:----:|:----:|:----:|:----:|
+| APS Certificate | ✓ | ✓ | ✓ | — | — | — | — | — | — | — | ✓ | ✓ | ✓ | ✓ | — | ✓ |
+| GRE/GATE | ✓ | DS | CS | — | — | ✓ | — | Mac | — | — | ✓ | — | — | — | — | — |
+| Rec Letters | — | — | — | 2 | 3 | — | 2 | — | 1 | ? | 2 | — | — | — | — | — |
+| Module Descriptions | ✓ | ✓ | ✓ | — | — | — | — | ✓ | — | — | — | — | — | — | — | — |
+| Grading System | ✓ | ✓ | ✓ | — | — | ✓ | — | — | — | — | — | — | — | — | — | — |
+| High School Cert | — | — | — | ✓ | — | — | — | — | — | — | — | — | — | — | — | — |
+| Application Fee | — | — | — | CHF150 | CHF150 | €100 | SEK900 | €100 | — | — | — | — | — | — | — | — |
+
+</details>

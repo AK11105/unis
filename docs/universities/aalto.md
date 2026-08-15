@@ -1,6 +1,12 @@
+---
+tags:
+  - Finland
+  - Moderate
+---
+
 # Aalto University
 
-> **Country:** Finland | **Tier:** Moderate ⭐⭐⭐
+> **Country:** Finland | **Tier:** Moderate
 
 ---
 

@@ -1,6 +1,12 @@
+---
+tags:
+  - Germany
+  - Target
+---
+
 # Technical University Darmstadt (TU Darmstadt)
 
-> **Country:** Germany | **Tier:** Target ⭐⭐⭐⭐
+> **Country:** Germany | **Tier:** Target
 
 ---
 
