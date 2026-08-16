@@ -8,276 +8,293 @@ tags:
 
 > **Country:** Sweden | **Tier:** Target
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | ~€31K total · SEK 10–13K/mo |
+    | **Deadline** | 15 January |
+    | **GRE** | Not required |
+    | **English** | IELTS 6.5 |
+    | **Duration** | 4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** Scandinavia's leading tech university with strong ML, cybersecurity, and HPC research. The KTH India Scholarship covers full tuition + living — one of the best funding deals available anywhere on this list. Stockholm's tech ecosystem (Spotify, Ericsson) is thriving. No GRE needed.
 
-- One of Scandinavia's leading technical universities
-- Strong international reputation in Computer Science, Artificial Intelligence, Machine Learning, Cybersecurity, and Engineering
+    **Programmes:** Computer Science · Machine Learning · Cybersecurity
 
-### Tuition
+    **Watch out:** 8% CS acceptance, 6% ML acceptance — brutally competitive. Expensive without scholarship. Apply via UniversityAdmissions.se (can rank 4 programmes).
 
-- Tuition Fee: **SEK 360,000** (most two-year Master's programmes)
+=== "Detail"
 
-### Programme Duration
+    ## Overview
 
-- **2 years (120 ECTS)**
+    ### Rankings
 
-### Estimated Living Cost
+    - One of Scandinavia's leading technical universities
+    - Strong international reputation in Computer Science, Artificial Intelligence, Machine Learning, Cybersecurity, and Engineering
 
-- SEK 10,000–13,000/month
+    ### Tuition
 
-### Scholarships
+    - Tuition Fee: **SEK 360,000** (most two-year Master's programmes)
 
-- KTH Scholarship (full tuition waiver)
-- KTH India Scholarship (full tuition waiver + living allowance)
-- KTH One-Year Scholarship
-- KTH Joint Programme Scholarship
+    ### Programme Duration
 
-### Research Strengths
+    - **2 years (120 ECTS)**
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Cybersecurity
-- Distributed Systems
-- High Performance Computing
-- Computer Vision
-- Robotics
-- Software Engineering
-- Algorithms
+    ### Estimated Living Cost
 
-### Industry Connections
+    - SEK 10,000–13,000/month
 
-- Ericsson
-- Spotify
-- Saab
-- Volvo
-- Scania
-- Ericsson Research
-- AstraZeneca
-- Stockholm AI ecosystem
+    ### Scholarships
 
----
+    - KTH Scholarship (full tuition waiver)
+    - KTH India Scholarship (full tuition waiver + living allowance)
+    - KTH One-Year Scholarship
+    - KTH Joint Programme Scholarship
 
-## Target Programs
+    ### Research Strengths
 
-### Computer Science (M.Sc.)
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Cybersecurity
+    - Distributed Systems
+    - High Performance Computing
+    - Computer Vision
+    - Robotics
+    - Software Engineering
+    - Algorithms
 
-| Field | Detail |
-|-------|--------|
-| Duration | 2 years |
-| Credits | 120 ECTS |
-| Language | English |
-| Acceptance Rate (2026) | **8%** |
+    ### Industry Connections
 
-#### Core Courses
+    - Ericsson
+    - Spotify
+    - Saab
+    - Volvo
+    - Scania
+    - Ericsson Research
+    - AstraZeneca
+    - Stockholm AI ecosystem
 
-- Advanced Algorithms
-- Artificial Intelligence
-- Computer Security
-- Internet Protocols
-- Research Methodology
+    ---
 
-#### Specialisations
+    ## Target Programs
 
-- Data Science
-- Cognitive Systems
-- Parallel Computing
-- Software Technology
-- Theoretical Computer Science
-- Interaction Design
-- Visualisation & Interactive Graphics
+    ### Computer Science (M.Sc.)
 
-#### Highlights
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 2 years |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Acceptance Rate (2026) | **8%** |
 
-- 28 ECTS electives
-- Industry or research Master's thesis
-- Strong Systems focus
-- High Performance Computing
-- Quantum Computing
-- Computer Vision
-- AI
-- Software Engineering
+    #### Core Courses
 
----
+    - Advanced Algorithms
+    - Artificial Intelligence
+    - Computer Security
+    - Internet Protocols
+    - Research Methodology
 
-### Machine Learning (M.Sc.)
+    #### Specialisations
 
-| Field | Detail |
-|-------|--------|
-| Duration | 2 years |
-| Credits | 120 ECTS |
-| Language | English |
-| Acceptance Rate (2026) | **6%** |
+    - Data Science
+    - Cognitive Systems
+    - Parallel Computing
+    - Software Technology
+    - Theoretical Computer Science
+    - Interaction Design
+    - Visualisation & Interactive Graphics
 
-#### Core Areas
+    #### Highlights
 
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-- Statistical Modelling
-- Optimisation
+    - 28 ECTS electives
+    - Industry or research Master's thesis
+    - Strong Systems focus
+    - High Performance Computing
+    - Quantum Computing
+    - Computer Vision
+    - AI
+    - Software Engineering
 
-#### Application Domains
+    ---
 
-- Computer Vision
-- Speech Technology
-- Information Retrieval
-- Computational Biology
-- Robotics
+    ### Machine Learning (M.Sc.)
 
-#### Highlights
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 2 years |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Acceptance Rate (2026) | **6%** |
 
-- Strong mathematical foundation
-- Advanced ML theory
-- Generative AI
-- Industrial thesis opportunities
+    #### Core Areas
 
----
+    - Machine Learning
+    - Deep Learning
+    - Artificial Intelligence
+    - Statistical Modelling
+    - Optimisation
 
-### Cybersecurity (M.Sc.)
+    #### Application Domains
 
-| Field | Detail |
-|-------|--------|
-| Duration | 2 years |
-| Credits | 120 ECTS |
-| Language | English |
+    - Computer Vision
+    - Speech Technology
+    - Information Retrieval
+    - Computational Biology
+    - Robotics
 
-#### Core Areas
+    #### Highlights
 
-- Ethical Hacking
-- Cryptography
-- Privacy
-- Software Security
-- Network Security
-- Digital Forensics
-- Cyber Risk Analysis
-- Hardware Security
-- Cyber-Physical Security
+    - Strong mathematical foundation
+    - Advanced ML theory
+    - Generative AI
+    - Industrial thesis opportunities
 
-#### Highlights
+    ---
 
-- Ethical hacking lab
-- Capture-the-Flag competitions
-- Strong industry collaborations
-- Industrial Master's thesis
+    ### Cybersecurity (M.Sc.)
 
----
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 2 years |
+    | Credits | 120 ECTS |
+    | Language | English |
 
-## Admission Requirements
+    #### Core Areas
 
-### General Requirements
+    - Ethical Hacking
+    - Cryptography
+    - Privacy
+    - Software Security
+    - Network Security
+    - Digital Forensics
+    - Cyber Risk Analysis
+    - Hardware Security
+    - Cyber-Physical Security
 
-- Bachelor's degree equivalent to a Swedish Bachelor's degree
-- English proficiency
-- Programme-specific prerequisites
+    #### Highlights
 
-### English Requirement
+    - Ethical hacking lab
+    - Capture-the-Flag competitions
+    - Strong industry collaborations
+    - Industrial Master's thesis
 
-Equivalent to Swedish English 6 / English Level 2:
+    ---
 
-- IELTS Overall 6.5
-- TOEFL equivalent
+    ## Admission Requirements
 
----
+    ### General Requirements
 
-## Application
+    - Bachelor's degree equivalent to a Swedish Bachelor's degree
+    - English proficiency
+    - Programme-specific prerequisites
 
-### Application Timeline
+    ### English Requirement
 
-| Date | Milestone |
-|------|-----------|
-| 16 October | Applications Open |
-| 15 January | Application Deadline |
-| 1 February | Documents & Application Fee Deadline |
-| 1 April | Admission Results |
+    Equivalent to Swedish English 6 / English Level 2:
 
-### Application Platform
+    - IELTS Overall 6.5
+    - TOEFL equivalent
 
-- **[UniversityAdmissions.se](https://www.universityadmissions.se/)**
+    ---
 
+    ## Application
 
-### Application Process
+    ### Application Timeline
 
-1. Apply through [UniversityAdmissions.se](https://www.universityadmissions.se/)
-2. Rank up to four Master's programmes
-3. Submit all required documents
-4. Pay application fee (if applicable)
-5. Receive admission decision
-6. Complete enrollment
+    | Date | Milestone |
+    |------|-----------|
+    | 16 October | Applications Open |
+    | 15 January | Application Deadline |
+    | 1 February | Documents & Application Fee Deadline |
+    | 1 April | Admission Results |
 
-### Application Fee
+    ### Application Platform
 
-- SEK 900 (Non-EU applicants)
+    - **[UniversityAdmissions.se](https://www.universityadmissions.se/)**
 
-### Required Documents
 
-- Degree Certificate
-- Official Transcript
-- Proof of English Proficiency
-- Passport / Identification
-- CV
-- Letter of Motivation
-- Two Recommendation Letters
-- Programme Summary Sheet (where required)
+    ### Application Process
 
----
+    1. Apply through [UniversityAdmissions.se](https://www.universityadmissions.se/)
+    2. Rank up to four Master's programmes
+    3. Submit all required documents
+    4. Pay application fee (if applicable)
+    5. Receive admission decision
+    6. Complete enrollment
 
-## Scholarships
+    ### Application Fee
 
-### KTH Scholarship
+    - SEK 900 (Non-EU applicants)
 
-- Full tuition waiver
-- Based on academic excellence
-- Sustainable development motivation considered
+    ### Required Documents
 
-### KTH India Scholarship
+    - Degree Certificate
+    - Official Transcript
+    - Proof of English Proficiency
+    - Passport / Identification
+    - CV
+    - Letter of Motivation
+    - Two Recommendation Letters
+    - Programme Summary Sheet (where required)
 
-- Full tuition waiver
-- Monthly living allowance
-- Indian citizens only
-- First-priority programme required
+    ---
 
----
+    ## Scholarships
 
-## Research
+    ### KTH Scholarship
 
-### Major Research Areas
+    - Full tuition waiver
+    - Based on academic excellence
+    - Sustainable development motivation considered
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Cybersecurity
-- Computer Vision
-- Distributed Systems
-- High Performance Computing
-- Software Engineering
-- Quantum Computing
-- Robotics
+    ### KTH India Scholarship
 
----
+    - Full tuition waiver
+    - Monthly living allowance
+    - Indian citizens only
+    - First-priority programme required
 
-## Notes & Sources
+    ---
 
-=== "Notes"
+    ## Research
 
-    - KTH uses the Swedish central application system (UniversityAdmissions.se) — can rank up to 4 programmes.
-    - SEK 360,000 for 2 years (~€31,000) is expensive but slightly less than TU Delft.
-    - Both CS (8% acceptance) and ML (6% acceptance) are highly competitive.
-    - KTH India Scholarship is specifically for Indian citizens — full tuition + living allowance.
-    - 15 January deadline is the same as TU Delft — both require early planning.
-    - Stockholm has a strong tech ecosystem (Spotify, Ericsson, Saab, King).
-    - Application fee SEK 900 (~€80).
-    - English requirement is relatively modest (IELTS 6.5) compared to TU Delft (7.0) or ETH (7.0).
+    ### Major Research Areas
 
-=== "Sources"
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Cybersecurity
+    - Computer Vision
+    - Distributed Systems
+    - High Performance Computing
+    - Software Engineering
+    - Quantum Computing
+    - Robotics
 
-    - [KTH Master's programmes](https://www.kth.se/en/studies/master)
-    - [Application via UniversityAdmissions.se](https://www.universityadmissions.se/)
-    - [KTH Scholarships](https://www.kth.se/en/studies/master/scholarships)
-    - [Computer Science programme](https://www.kth.se/en/studies/master/computer-science)
-    - [Machine Learning programme](https://www.kth.se/en/studies/master/machine-learning)
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - KTH uses the Swedish central application system (UniversityAdmissions.se) — can rank up to 4 programmes.
+        - SEK 360,000 for 2 years (~€31,000) is expensive but slightly less than TU Delft.
+        - Both CS (8% acceptance) and ML (6% acceptance) are highly competitive.
+        - KTH India Scholarship is specifically for Indian citizens — full tuition + living allowance.
+        - 15 January deadline is the same as TU Delft — both require early planning.
+        - Stockholm has a strong tech ecosystem (Spotify, Ericsson, Saab, King).
+        - Application fee SEK 900 (~€80).
+        - English requirement is relatively modest (IELTS 6.5) compared to TU Delft (7.0) or ETH (7.0).
+
+    === "Sources"
+
+        - [KTH Master's programmes](https://www.kth.se/en/studies/master)
+        - [Application via UniversityAdmissions.se](https://www.universityadmissions.se/)
+        - [KTH Scholarships](https://www.kth.se/en/studies/master/scholarships)
+        - [Computer Science programme](https://www.kth.se/en/studies/master/computer-science)
+        - [Machine Learning programme](https://www.kth.se/en/studies/master/machine-learning)

@@ -8,184 +8,201 @@ tags:
 
 > **Country:** Germany | **Tier:** Target
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | Free tuition · €850–1,200/mo |
+    | **Deadline** | 1 June – 15 July |
+    | **GRE** | Not required |
+    | **English** | English required (verify scores) |
+    | **Duration** | 4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** Tuition-free with a dedicated AI & ML Master's programme — rare in Germany. The UKP Lab is world-class in NLP, and CYSEC is a national cybersecurity centre. The latest deadline on this list gives maximum prep time. Near Frankfurt for industry access.
 
-- One of Germany's leading technical universities (TU9 member)
-- Strong reputation in Computer Science, AI, Cybersecurity, and Engineering
-- Member of Rhine-Main Universities (RMU) alliance
+    **Programmes:** AI & ML · Computer Science
 
-### Tuition
+    **Watch out:** Less globally famous than TUM/ETH but research quality in NLP and security is genuinely top-tier. Verify English score requirements early.
 
-- **No tuition fees** for any students (Hessen state does not charge international tuition)
-- **Semester contribution:** ~€290–320/semester (includes public transport)
+=== "Detail"
 
-### Estimated Living Cost
+    ## Overview
 
-- €850–1,200/month (Darmstadt is moderately priced, near Frankfurt)
+    ### Rankings
 
-### Scholarships
+    - One of Germany's leading technical universities (TU9 member)
+    - Strong reputation in Computer Science, AI, Cybersecurity, and Engineering
+    - Member of Rhine-Main Universities (RMU) alliance
 
-- DAAD
-- Deutschlandstipendium (€300/month)
-- Research assistantships (HiWi)
-- External foundations
+    ### Tuition
 
-### Research Strengths
+    - **No tuition fees** for any students (Hessen state does not charge international tuition)
+    - **Semester contribution:** ~€290–320/semester (includes public transport)
 
-- Artificial Intelligence & Machine Learning
-- Cybersecurity (strong — TU Darmstadt is Germany's leading cybersecurity university)
-- Natural Language Processing
-- Computer Vision
-- Distributed Computing
-- Visual Computing
-- Data Science
+    ### Estimated Living Cost
 
-### Industry Connections
+    - €850–1,200/month (Darmstadt is moderately priced, near Frankfurt)
 
-- Deutsche Telekom
-- SAP
-- Continental
-- Merck
-- Software AG
-- Frankfurt financial sector
-- Numerous tech companies in Rhine-Main region
+    ### Scholarships
 
----
+    - DAAD
+    - Deutschlandstipendium (€300/month)
+    - Research assistantships (HiWi)
+    - External foundations
 
-## Target Programs
+    ### Research Strengths
 
-### Artificial Intelligence and Machine Learning (M.Sc.)
+    - Artificial Intelligence & Machine Learning
+    - Cybersecurity (strong — TU Darmstadt is Germany's leading cybersecurity university)
+    - Natural Language Processing
+    - Computer Vision
+    - Distributed Computing
+    - Visual Computing
+    - Data Science
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Winter and Summer Semester |
-| Thesis | 30 CP |
+    ### Industry Connections
 
-#### Highlights
+    - Deutsche Telekom
+    - SAP
+    - Continental
+    - Merck
+    - Software AG
+    - Frankfurt financial sector
+    - Numerous tech companies in Rhine-Main region
 
-- Dedicated AI/ML Master's programme (not just a specialisation)
-- Fully English-taught
-- Covers ML theory, deep learning, NLP, CV, AI systems
-- Strong research orientation
+    ---
 
----
+    ## Target Programs
 
-### Computer Science (M.Sc.)
+    ### Artificial Intelligence and Machine Learning (M.Sc.)
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Winter and Summer Semester |
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Winter and Summer Semester |
+    | Thesis | 30 CP |
 
-#### Specialisations
+    #### Highlights
 
-- Data Science & Engineering
-- Visual Computing
-- Distributed Computing
+    - Dedicated AI/ML Master's programme (not just a specialisation)
+    - Fully English-taught
+    - Covers ML theory, deep learning, NLP, CV, AI systems
+    - Strong research orientation
 
-#### Highlights
+    ---
 
-- English-taught international programme
-- Three clear specialisation tracks
-- Strong in systems + data
-- International career focus
+    ### Computer Science (M.Sc.)
 
----
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Winter and Summer Semester |
 
-## Admission Requirements
+    #### Specialisations
 
-### Academic Requirements
+    - Data Science & Engineering
+    - Visual Computing
+    - Distributed Computing
 
-- Bachelor's degree in Computer Science or closely related field
-- Strong CS and mathematics background
-- Programme-specific prerequisites
+    #### Highlights
 
-### English Language
+    - English-taught international programme
+    - Three clear specialisation tracks
+    - Strong in systems + data
+    - International career focus
 
-- English proficiency required (programme is English-taught)
+    ---
 
-### GRE
+    ## Admission Requirements
 
-- Not explicitly required
+    ### Academic Requirements
 
-### APS Certificate
+    - Bachelor's degree in Computer Science or closely related field
+    - Strong CS and mathematics background
+    - Programme-specific prerequisites
 
-- Required for Indian applicants
+    ### English Language
 
----
+    - English proficiency required (programme is English-taught)
 
-## Application
+    ### GRE
 
-### Application Deadlines
+    - Not explicitly required
 
-- **Winter Semester:** 1 June – **15 July**
-- **Summer Semester:** 1 December – **15 January**
+    ### APS Certificate
 
-### Application Platform
+    - Required for Indian applicants
 
-- **[TU Darmstadt TUCaN](https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_international/index.en.jsp)**
+    ---
+
+    ## Application
+
+    ### Application Deadlines
+
+    - **Winter Semester:** 1 June – **15 July**
+    - **Summer Semester:** 1 December – **15 January**
+
+    ### Application Platform
+
+    - **[TU Darmstadt TUCaN](https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_international/index.en.jsp)**
 
 
----
+    ---
 
-## Tuition & Costs
+    ## Tuition & Costs
 
-| Item | Amount |
-|------|--------|
-| Tuition | **€0** (no tuition fees) |
-| Semester contribution | ~€290–320/semester |
-| Living costs | €850–1,200/month |
-| Total fees (4 semesters) | ~€1,160–1,280 |
+    | Item | Amount |
+    |------|--------|
+    | Tuition | **€0** (no tuition fees) |
+    | Semester contribution | ~€290–320/semester |
+    | Living costs | €850–1,200/month |
+    | Total fees (4 semesters) | ~€1,160–1,280 |
 
----
+    ---
 
-## Research
+    ## Research
 
-### Key Research Areas
+    ### Key Research Areas
 
-- Artificial Intelligence
-- Machine Learning / Deep Learning
-- NLP / Computational Linguistics (UKP Lab — world-class)
-- Cybersecurity (CRISP, CYSEC cluster)
-- Visual Computing
-- Distributed Systems
-- Data Science
+    - Artificial Intelligence
+    - Machine Learning / Deep Learning
+    - NLP / Computational Linguistics (UKP Lab — world-class)
+    - Cybersecurity (CRISP, CYSEC cluster)
+    - Visual Computing
+    - Distributed Systems
+    - Data Science
 
-### Key Labs
+    ### Key Labs
 
-- **UKP Lab** (Ubiquitous Knowledge Processing) — top NLP lab in Germany
-- **CYSEC** — Profile Area Cybersecurity
-- **CRISP** — National Research Center for Applied Cybersecurity
-- **Visual Inference Lab**
-- **Artificial Intelligence and Machine Learning Lab**
+    - **UKP Lab** (Ubiquitous Knowledge Processing) — top NLP lab in Germany
+    - **CYSEC** — Profile Area Cybersecurity
+    - **CRISP** — National Research Center for Applied Cybersecurity
+    - **Visual Inference Lab**
+    - **Artificial Intelligence and Machine Learning Lab**
 
----
+    ---
 
-## Notes & Sources
+    ## Notes & Sources
 
-=== "Notes"
+    === "Notes"
 
-    - TU Darmstadt is tuition-free (Hessen) — same advantage as RWTH and Bonn.
-    - Has a DEDICATED AI & ML Master's programme (separate from CS) — rare in Germany.
-    - Computer Science M.Sc. has three clear English-taught specialisations.
-    - UKP Lab is one of Europe's strongest NLP research groups.
-    - Cybersecurity is a flagship area (CYSEC, CRISP) — if cybersecurity/AI safety interests you.
-    - Location near Frankfurt means good industry access (finance, tech).
-    - Both CS and AIML programmes can be started in WS or SS — flexible.
+        - TU Darmstadt is tuition-free (Hessen) — same advantage as RWTH and Bonn.
+        - Has a DEDICATED AI & ML Master's programme (separate from CS) — rare in Germany.
+        - Computer Science M.Sc. has three clear English-taught specialisations.
+        - UKP Lab is one of Europe's strongest NLP research groups.
+        - Cybersecurity is a flagship area (CYSEC, CRISP) — if cybersecurity/AI safety interests you.
+        - Location near Frankfurt means good industry access (finance, tech).
+        - Both CS and AIML programmes can be started in WS or SS — flexible.
 
-=== "Sources"
+    === "Sources"
 
-    - [AI & ML M.Sc.](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/)
-    - [Computer Science M.Sc.](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp)
-    - [TU Darmstadt](https://www.tu-darmstadt.de/)
-    - [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/)
+        - [AI & ML M.Sc.](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/)
+        - [Computer Science M.Sc.](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/computer_science_msc.de.jsp)
+        - [TU Darmstadt](https://www.tu-darmstadt.de/)
+        - [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/)

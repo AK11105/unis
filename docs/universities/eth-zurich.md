@@ -8,314 +8,331 @@ tags:
 
 > **Country:** Switzerland | **Tier:** Dream
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | ~€9.2K total · CHF 1,700–2,200/mo |
+    | **Deadline** | 1–30 November 2026 |
+    | **GRE** | Optional |
+    | **English** | IELTS 7.0 / TOEFL 94 (C1) |
+    | **Duration** | 3–4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** Top 10 globally and the best CS department in continental Europe — full stop. Extremely flexible curriculum, a world-class AI Center, and a direct PhD pipeline make this the ultimate destination. Google Zurich, IBM Research, and Disney Research are all in the backyard. ESOP scholarship covers everything if you can land it.
 
-- Consistently ranked among the top 10 universities globally
-- #1 in continental Europe for Computer Science, Engineering, and Mathematics
-- World-class reputation in AI, Machine Learning, Systems, and Robotics
+    **Programmes:** Computer Science · Data Science
 
-### Tuition
+    **Watch out:** Extremely early deadline (November 2026). Extremely competitive. Switzerland living costs are brutal. ESOP is key but only top 3–5% get it.
 
-- **CHF 730/semester** (historically for all students)
-- **From HS2025: CHF 2,190/semester** for international (non-Swiss) students
-- **Total estimated tuition (4 semesters):** CHF 8,760 (~€9,200)
+=== "Detail"
 
-### Estimated Living Cost
+    ## Overview
 
-- **CHF 20,000–26,000/year** (ETH official estimate)
-- Approximately CHF 1,700–2,200/month
+    ### Rankings
 
-### Scholarships
+    - Consistently ranked among the top 10 universities globally
+    - #1 in continental Europe for Computer Science, Engineering, and Mathematics
+    - World-class reputation in AI, Machine Learning, Systems, and Robotics
 
-- **Excellence Scholarship & Opportunity Programme (ESOP):** covers tuition + CHF 12,000 living grant/semester
-- **ETH-D Scholarship:** partial tuition waiver
-- **Swiss Government Excellence Scholarships:** for exceptional international students
-- External scholarships
+    ### Tuition
 
-### Research Strengths
+    - **CHF 730/semester** (historically for all students)
+    - **From HS2025: CHF 2,190/semester** for international (non-Swiss) students
+    - **Total estimated tuition (4 semesters):** CHF 8,760 (~€9,200)
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
-- Robotics
-- Distributed Systems
-- High Performance Computing
-- Algorithms
-- Cybersecurity
-- Applied Mathematics
-- Quantum Computing
+    ### Estimated Living Cost
 
-### Industry Connections
+    - **CHF 20,000–26,000/year** (ETH official estimate)
+    - Approximately CHF 1,700–2,200/month
 
-- Google Zurich (largest Google office outside US)
-- Microsoft Research
-- NVIDIA
-- IBM Research Zurich
-- Apple
-- ABB
-- Disney Research Zurich
-- Meta
-- Swiss AI/ML ecosystem
+    ### Scholarships
 
----
+    - **Excellence Scholarship & Opportunity Programme (ESOP):** covers tuition + CHF 12,000 living grant/semester
+    - **ETH-D Scholarship:** partial tuition waiver
+    - **Swiss Government Excellence Scholarships:** for exceptional international students
+    - External scholarships
 
-## Target Programs
+    ### Research Strengths
 
-### Computer Science (M.Sc.)
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Computer Vision
+    - Robotics
+    - Distributed Systems
+    - High Performance Computing
+    - Algorithms
+    - Cybersecurity
+    - Applied Mathematics
+    - Quantum Computing
 
-| Field | Detail |
-|-------|--------|
-| Duration | 3–4 semesters (90 + 30 ECTS) |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Autumn Semester |
-| Thesis | 30 ECTS |
+    ### Industry Connections
 
-#### Highlights
+    - Google Zurich (largest Google office outside US)
+    - Microsoft Research
+    - NVIDIA
+    - IBM Research Zurich
+    - Apple
+    - ABB
+    - Disney Research Zurich
+    - Meta
+    - Swiss AI/ML ecosystem
 
-- World-class AI and Systems research
-- Extremely flexible curriculum
-- Broad elective choices across CS
-- Strong theoretical foundation
-- Industry collaboration opportunities
-- Research-oriented with thesis at top labs
+    ---
 
-#### Admission
+    ## Target Programs
 
-- Bachelor's degree in Computer Science or closely related discipline
-- English C1
-- Strong Computer Science and Mathematics background
-- Additional coursework may be assigned if prerequisites not fully met
-- Admission is highly competitive
+    ### Computer Science (M.Sc.)
 
----
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 3–4 semesters (90 + 30 ECTS) |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Autumn Semester |
+    | Thesis | 30 ECTS |
 
-### Data Science (M.Sc.)
+    #### Highlights
 
-| Field | Detail |
-|-------|--------|
-| Duration | 3–4 semesters |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Autumn Semester |
+    - World-class AI and Systems research
+    - Extremely flexible curriculum
+    - Broad elective choices across CS
+    - Strong theoretical foundation
+    - Industry collaboration opportunities
+    - Research-oriented with thesis at top labs
 
-#### Highlights
+    #### Admission
 
-- Interdisciplinary curriculum (CS + Statistics + Domain)
-- Machine Learning, Statistical Learning, Data Analysis
-- Strong mathematics foundation required
-- Very good academic performance required
-- Up to 30 ECTS additional requirements may be assigned
+    - Bachelor's degree in Computer Science or closely related discipline
+    - English C1
+    - Strong Computer Science and Mathematics background
+    - Additional coursework may be assigned if prerequisites not fully met
+    - Admission is highly competitive
 
-#### Admission
+    ---
 
-- Bachelor's degree (≥180 ECTS) in a related discipline
-- Strong Mathematics and Computer Science background
-- English C1
-- Very good academic performance
+    ### Data Science (M.Sc.)
 
----
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 3–4 semesters |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Autumn Semester |
 
-## Admission Requirements
+    #### Highlights
 
-### Academic Requirements
+    - Interdisciplinary curriculum (CS + Statistics + Domain)
+    - Machine Learning, Statistical Learning, Data Analysis
+    - Strong mathematics foundation required
+    - Very good academic performance required
+    - Up to 30 ECTS additional requirements may be assigned
 
-- Bachelor's degree (≥180 ECTS) in Computer Science or closely related field
-- Very strong academic performance (top of class expected)
-- Strong background in Mathematics, Algorithms, Programming
+    #### Admission
 
-### English Language Requirement
+    - Bachelor's degree (≥180 ECTS) in a related discipline
+    - Strong Mathematics and Computer Science background
+    - English C1
+    - Very good academic performance
 
-- **CEFR C1** minimum
-- IELTS Academic: 7.0 overall
-- TOEFL iBT: **94**
-- Cambridge C1 Advanced or C2 Proficiency
+    ---
 
-### GRE
+    ## Admission Requirements
 
-- Not explicitly required for CS at ETH
-- However, standardized test scores are considered in evaluation
+    ### Academic Requirements
 
-### Evaluation Criteria
+    - Bachelor's degree (≥180 ECTS) in Computer Science or closely related field
+    - Very strong academic performance (top of class expected)
+    - Strong background in Mathematics, Algorithms, Programming
 
-- Performance in undergraduate programme
-- Ranking of university
-- Background in chosen field
-- Scores in standardized tests (if submitted)
-- Letter of motivation
-- Letters of recommendation
+    ### English Language Requirement
 
----
+    - **CEFR C1** minimum
+    - IELTS Academic: 7.0 overall
+    - TOEFL iBT: **94**
+    - Cambridge C1 Advanced or C2 Proficiency
 
-## Application
+    ### GRE
 
-### Application Period (International Applicants, Autumn Semester)
+    - Not explicitly required for CS at ETH
+    - However, standardized test scores are considered in evaluation
 
-- **1 November – 30 November** (strict deadline)
-- Admission decisions: by end of March
-- Registration deadline: mid-September
+    ### Evaluation Criteria
 
-!!! warning "Early deadline"
-    The November deadline is extremely early — plan accordingly. GRE, IELTS, transcripts all needed by then.
+    - Performance in undergraduate programme
+    - Ranking of university
+    - Background in chosen field
+    - Scores in standardized tests (if submitted)
+    - Letter of motivation
+    - Letters of recommendation
 
-### Application Platform
+    ---
 
-- **[ETH eApply](https://www.lehrbetrieb.ethz.ch/eApply/)**
+    ## Application
 
+    ### Application Period (International Applicants, Autumn Semester)
 
-### Application Process
+    - **1 November – 30 November** (strict deadline)
+    - Admission decisions: by end of March
+    - Registration deadline: mid-September
 
-1. Apply through ETH eApply portal
-2. Upload all required documents before 30 November
-3. Department evaluates the application
-4. Admission decision released (by March)
-5. Complete registration and enrollment
+    !!! warning "Early deadline"
+        The November deadline is extremely early — plan accordingly. GRE, IELTS, transcripts all needed by then.
 
-### Application Fee
+    ### Application Platform
 
-- **CHF 150** per programme (non-refundable, payable by credit card or PostFinance card at submission)
+    - **[ETH eApply](https://www.lehrbetrieb.ethz.ch/eApply/)**
 
-### Required Documents
 
-**Mandatory:**
+    ### Application Process
 
-- Official Transcripts of Records
-- Degree Certificate (or Provisional Certificate)
-- Diploma Supplement / HEAR (where applicable)
-- English Language Certificate (C1)
-- Curriculum Vitae (CV)
-- High School Certificate
-- Passport
-- Declaration of Consent
-- 2 Recommendation Letters
-- Motivation Letter
+    1. Apply through ETH eApply portal
+    2. Upload all required documents before 30 November
+    3. Department evaluates the application
+    4. Admission decision released (by March)
+    5. Complete registration and enrollment
 
-**Programme-specific (for ESOP):**
+    ### Application Fee
 
-- Pre-proposal for Master's thesis (if applying for Excellence Scholarship)
-- Additional documents as specified per programme
+    - **CHF 150** per programme (non-refundable, payable by credit card or PostFinance card at submission)
 
-### Key Deadlines
+    ### Required Documents
 
-| Item | Date |
-|------|------|
-| Application opens (Autumn 2027) | 1 November 2026 |
-| Application deadline (Autumn 2027) | **30 November 2026** (11:59 AM CET) |
-| Admission decisions | By end of March 2027 |
-| Registration deadline | Mid-September 2027 |
-| ESOP application | Same deadline (first window only) |
+    **Mandatory:**
 
----
+    - Official Transcripts of Records
+    - Degree Certificate (or Provisional Certificate)
+    - Diploma Supplement / HEAR (where applicable)
+    - English Language Certificate (C1)
+    - Curriculum Vitae (CV)
+    - High School Certificate
+    - Passport
+    - Declaration of Consent
+    - 2 Recommendation Letters
+    - Motivation Letter
 
-## Tuition & Costs
+    **Programme-specific (for ESOP):**
 
-| Item | Amount |
-|------|--------|
-| Tuition (from HS2025, international) | CHF 2,190/semester |
-| Tuition (Swiss/eligible residents) | CHF 730/semester |
-| Application fee | CHF 150 per programme |
-| Living costs (official estimate) | CHF 20,000–26,000/year |
-| Total tuition (4 semesters, international) | CHF 8,760 (~€9,200) |
-| Monthly budget needed | CHF 1,700–2,200 |
+    - Pre-proposal for Master's thesis (if applying for Excellence Scholarship)
+    - Additional documents as specified per programme
 
-!!! warning "High living costs"
-    Switzerland is expensive. The CHF is strong against EUR. Budget carefully.
+    ### Key Deadlines
 
----
+    | Item | Date |
+    |------|------|
+    | Application opens (Autumn 2027) | 1 November 2026 |
+    | Application deadline (Autumn 2027) | **30 November 2026** (11:59 AM CET) |
+    | Admission decisions | By end of March 2027 |
+    | Registration deadline | Mid-September 2027 |
+    | ESOP application | Same deadline (first window only) |
 
-## Scholarships
+    ---
 
-### Excellence Scholarship & Opportunity Programme (ESOP)
+    ## Tuition & Costs
 
-- **Full tuition waiver + CHF 12,000/semester living grant**
-- Highly competitive (top 3–5% of admitted students)
-- Requires: pre-proposal for Master's thesis, excellent academic record
-- Apply during **first application window only** (November deadline)
-- 2 recommendation letters specifically for ESOP
+    | Item | Amount |
+    |------|--------|
+    | Tuition (from HS2025, international) | CHF 2,190/semester |
+    | Tuition (Swiss/eligible residents) | CHF 730/semester |
+    | Application fee | CHF 150 per programme |
+    | Living costs (official estimate) | CHF 20,000–26,000/year |
+    | Total tuition (4 semesters, international) | CHF 8,760 (~€9,200) |
+    | Monthly budget needed | CHF 1,700–2,200 |
 
-### ETH-D Scholarship
+    !!! warning "High living costs"
+        Switzerland is expensive. The CHF is strong against EUR. Budget carefully.
 
-- Partial tuition waiver
-- For students with financial need + good academics
+    ---
 
-### Swiss Government Excellence Scholarships
+    ## Scholarships
 
-- Available for exceptional international students
-- Apply through Swiss embassy in home country
+    ### Excellence Scholarship & Opportunity Programme (ESOP)
 
----
+    - **Full tuition waiver + CHF 12,000/semester living grant**
+    - Highly competitive (top 3–5% of admitted students)
+    - Requires: pre-proposal for Master's thesis, excellent academic record
+    - Apply during **first application window only** (November deadline)
+    - 2 recommendation letters specifically for ESOP
 
-## Research
+    ### ETH-D Scholarship
 
-### Major Research Areas
+    - Partial tuition waiver
+    - For students with financial need + good academics
 
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Computer Vision
-- Robotics
-- Data Science
-- High Performance Computing
-- Algorithms
-- Distributed Systems
-- Cybersecurity
-- Quantum Computing
-- Applied Mathematics
-- Programming Languages & Systems
+    ### Swiss Government Excellence Scholarships
 
-### Key Research Labs & Groups
+    - Available for exceptional international students
+    - Apply through Swiss embassy in home country
 
-- AI Center (ETH AI Center)
-- Institute for Machine Learning (IML)
-- Computer Vision Lab (CVL)
-- Systems Group
-- Autonomous Systems Lab (ASL)
-- Robotic Systems Lab (RSL)
-- Secure, Reliable, and Intelligent Systems Lab (SRI)
-- Data Analytics Lab
-- Disney Research Zurich (collaboration)
+    ---
 
----
+    ## Research
 
-## Career
+    ### Major Research Areas
 
-### Industry Partners
+    - Artificial Intelligence
+    - Machine Learning & Deep Learning
+    - Computer Vision
+    - Robotics
+    - Data Science
+    - High Performance Computing
+    - Algorithms
+    - Distributed Systems
+    - Cybersecurity
+    - Quantum Computing
+    - Applied Mathematics
+    - Programming Languages & Systems
 
-- Google Zurich, Microsoft, NVIDIA, IBM Research, Apple, Meta
-- ABB, Disney Research, numerous Swiss startups
-- Switzerland's strong finance/pharma sectors
+    ### Key Research Labs & Groups
 
-### PhD Opportunities
+    - AI Center (ETH AI Center)
+    - Institute for Machine Learning (IML)
+    - Computer Vision Lab (CVL)
+    - Systems Group
+    - Autonomous Systems Lab (ASL)
+    - Robotic Systems Lab (RSL)
+    - Secure, Reliable, and Intelligent Systems Lab (SRI)
+    - Data Analytics Lab
+    - Disney Research Zurich (collaboration)
 
-- Excellent pathway — many Master's students transition to ETH PhD
-- Direct PhD programmes available
-- ETH doctoral school
+    ---
 
----
+    ## Career
 
-## Notes & Sources
+    ### Industry Partners
 
-=== "Notes"
+    - Google Zurich, Microsoft, NVIDIA, IBM Research, Apple, Meta
+    - ABB, Disney Research, numerous Swiss startups
+    - Switzerland's strong finance/pharma sectors
 
-    - ETH Zurich is one of the most competitive universities in the world for CS. Admission rate is very low.
-    - The November deadline is extremely early — plan accordingly (GRE, IELTS, transcripts all needed by then).
-    - From HS2025, international students pay CHF 2,190/semester (tripled from CHF 730). Still reasonable for a top-10 global university.
-    - ESOP is the key scholarship — very competitive but covers everything. Requires thesis pre-proposal.
-    - Switzerland living costs are high (CHF 2,000+/month). Factor this into financial planning.
-    - Strong Google/Microsoft/NVIDIA presence in Zurich = excellent industry thesis and job opportunities.
-    - ETH AI Center is one of Europe's premier AI research hubs.
+    ### PhD Opportunities
 
-=== "Sources"
+    - Excellent pathway — many Master's students transition to ETH PhD
+    - Direct PhD programmes available
+    - ETH doctoral school
 
-    - [Master Computer Science](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html)
-    - [CS admission](https://ethz.ch/en/studies/master/application/master-informatik.html)
-    - [Data Science profile](https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-DataScience-Appendix.pdf)
-    - [Tuition fees](https://ethz.ch/students/en/studies/financial/tuition-fees.html)
-    - [Financial information](https://ethz.ch/en/studies/financial.html)
-    - [Profile requirements](https://ethz.ch/en/studies/master/application/profile-requirements.html)
-    - [ESOP](https://ethz.ch/en/studies/master/application/international-bachelor/application-documents/programme-specific-documents.html)
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - ETH Zurich is one of the most competitive universities in the world for CS. Admission rate is very low.
+        - The November deadline is extremely early — plan accordingly (GRE, IELTS, transcripts all needed by then).
+        - From HS2025, international students pay CHF 2,190/semester (tripled from CHF 730). Still reasonable for a top-10 global university.
+        - ESOP is the key scholarship — very competitive but covers everything. Requires thesis pre-proposal.
+        - Switzerland living costs are high (CHF 2,000+/month). Factor this into financial planning.
+        - Strong Google/Microsoft/NVIDIA presence in Zurich = excellent industry thesis and job opportunities.
+        - ETH AI Center is one of Europe's premier AI research hubs.
+
+    === "Sources"
+
+        - [Master Computer Science](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html)
+        - [CS admission](https://ethz.ch/en/studies/master/application/master-informatik.html)
+        - [Data Science profile](https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-DataScience-Appendix.pdf)
+        - [Tuition fees](https://ethz.ch/students/en/studies/financial/tuition-fees.html)
+        - [Financial information](https://ethz.ch/en/studies/financial.html)
+        - [Profile requirements](https://ethz.ch/en/studies/master/application/profile-requirements.html)
+        - [ESOP](https://ethz.ch/en/studies/master/application/international-bachelor/application-documents/programme-specific-documents.html)

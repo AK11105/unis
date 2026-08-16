@@ -8,300 +8,317 @@ tags:
 
 > **Country:** Switzerland | **Tier:** Dream
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | ~CHF 9K total · CHF 1,700–2,500/mo |
+    | **Deadline** | 15 December (Round 1) / 31 March (Round 2) |
+    | **GRE** | Optional (welcome) |
+    | **English** | Excellent English required |
+    | **Duration** | 3–4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** Top 15 globally for CS with exceptional AI/ML, robotics, and cybersecurity research. The Excellence Fellowship is generous (CHF 40–60K) and the PhD pipeline is strong. Beautiful Lausanne campus, reformed curriculum since 2025. You only get one programme per year — choose wisely.
 
-- One of Europe's leading science and engineering universities
-- Top 15 globally for Computer Science
-- Globally recognized for AI, Machine Learning, Robotics, Mathematics, and Engineering
+    **Programmes:** Computer Science · Data Science · Cybersecurity
 
-### Tuition
+    **Watch out:** Round 1 strongly advised for visa. 3 referees mandatory (not 2). Only 1 programme per application cycle. Switzerland living costs.
 
-- **CHF 780/semester** for Swiss nationals and qualifying residents (CHF 730 tuition + CHF 50 fees)
-- **CHF 2,240/semester** for international students (from HS2025; CHF 2,190 tuition + CHF 50 fees)
-- **Total estimated tuition (4 semesters, international):** CHF 8,960 (~€9,400)
+=== "Detail"
 
-### Estimated Living Cost
+    ## Overview
 
-- CHF 1,700–2,500/month (Lausanne region)
+    ### Rankings
 
-### Scholarships
+    - One of Europe's leading science and engineering universities
+    - Top 15 globally for Computer Science
+    - Globally recognized for AI, Machine Learning, Robotics, Mathematics, and Engineering
 
-- **EPFL Excellence Fellowships** (CHF 40,000–60,000/year + tuition waiver)
-- **Swiss Government Excellence Scholarships**
-- External scholarships
+    ### Tuition
 
-### Research Strengths
+    - **CHF 780/semester** for Swiss nationals and qualifying residents (CHF 730 tuition + CHF 50 fees)
+    - **CHF 2,240/semester** for international students (from HS2025; CHF 2,190 tuition + CHF 50 fees)
+    - **Total estimated tuition (4 semesters, international):** CHF 8,960 (~€9,400)
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Robotics
-- Data Science
-- Cybersecurity
-- Distributed Systems
-- High Performance Computing
-- Statistics
-- Computational Science
+    ### Estimated Living Cost
 
-### Industry Connections
+    - CHF 1,700–2,500/month (Lausanne region)
 
-- Logitech
-- Nestlé
-- Swisscom
-- IBM
-- Google
-- NVIDIA
-- Numerous startups through EPFL Innovation Park
+    ### Scholarships
 
----
+    - **EPFL Excellence Fellowships** (CHF 40,000–60,000/year + tuition waiver)
+    - **Swiss Government Excellence Scholarships**
+    - External scholarships
 
-## Target Programs
+    ### Research Strengths
 
-### Computer Science (M.Sc.)
+    - Artificial Intelligence
+    - Machine Learning
+    - Computer Vision
+    - Robotics
+    - Data Science
+    - Cybersecurity
+    - Distributed Systems
+    - High Performance Computing
+    - Statistics
+    - Computational Science
 
-| Field | Detail |
-|-------|--------|
-| Duration | 3–4 semesters |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Autumn Semester (September) |
-| Thesis | Mandatory |
+    ### Industry Connections
 
-#### Specialisations (Reform since Autumn 2025)
+    - Logitech
+    - Nestlé
+    - Swisscom
+    - IBM
+    - Google
+    - NVIDIA
+    - Numerous startups through EPFL Innovation Park
 
-- Artificial Intelligence & Machine Learning (AIML)
-- Algorithms & Theoretical Computer Science (ATCS)
-- Computer Systems (CS)
-- Cybersecurity (CY)
-- Data Science (DS)
-- Signals, Images & Interfaces (SII)
-- Software Engineering (SE)
+    ---
 
-#### Core Courses (minimum 32 ECTS from 4+ domains)
+    ## Target Programs
 
-- Machine Learning (CS-433)
-- Optimization for Machine Learning (CS-439)
-- And many others across domains
+    ### Computer Science (M.Sc.)
 
-#### Highlights
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 3–4 semesters |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Autumn Semester (September) |
+    | Thesis | Mandatory |
 
-- Reformed curriculum from Autumn 2025
-- Flexible with strong core + specialisation structure
-- World-class AI and Systems faculty
-- Excellent research orientation
-- Industry collaboration opportunities
+    #### Specialisations (Reform since Autumn 2025)
 
-#### Admission
+    - Artificial Intelligence & Machine Learning (AIML)
+    - Algorithms & Theoretical Computer Science (ATCS)
+    - Computer Systems (CS)
+    - Cybersecurity (CY)
+    - Data Science (DS)
+    - Signals, Images & Interfaces (SII)
+    - Software Engineering (SE)
 
-- Bachelor's in CS or related field
-- Excellent academic record
-- Strong mathematics, algorithms, programming background
-- Competitive admission — only top applicants accepted
+    #### Core Courses (minimum 32 ECTS from 4+ domains)
 
----
+    - Machine Learning (CS-433)
+    - Optimization for Machine Learning (CS-439)
+    - And many others across domains
 
-### Data Science (M.Sc.)
+    #### Highlights
 
-| Field | Detail |
-|-------|--------|
-| Duration | 3–4 semesters |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Autumn Semester |
+    - Reformed curriculum from Autumn 2025
+    - Flexible with strong core + specialisation structure
+    - World-class AI and Systems faculty
+    - Excellent research orientation
+    - Industry collaboration opportunities
 
----
+    #### Admission
 
-### Cybersecurity (M.Sc.)
+    - Bachelor's in CS or related field
+    - Excellent academic record
+    - Strong mathematics, algorithms, programming background
+    - Competitive admission — only top applicants accepted
 
-| Field | Detail |
-|-------|--------|
-| Duration | 3–4 semesters |
-| Credits | 120 ECTS |
-| Language | English |
-| Start | Autumn Semester |
+    ---
 
----
+    ### Data Science (M.Sc.)
 
-## Admission Requirements
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 3–4 semesters |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Autumn Semester |
 
-### Academic Requirements
+    ---
 
-- Bachelor's degree (≥180 ECTS) from a university in a field related to EPFL curricula
-- Excellent academic records and references
-- Only one programme application per academic year
-- Cannot already hold a Master's in the same field
+    ### Cybersecurity (M.Sc.)
 
-### English Requirement
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 3–4 semesters |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | Start | Autumn Semester |
 
-- Excellent English proficiency required
-- Official language certificate recommended (exact requirements per programme)
+    ---
 
-### GRE
+    ## Admission Requirements
 
-- Optional (welcome but not compulsory)
-- Can strengthen application
+    ### Academic Requirements
 
-### Evaluation Criteria
+    - Bachelor's degree (≥180 ECTS) from a university in a field related to EPFL curricula
+    - Excellent academic records and references
+    - Only one programme application per academic year
+    - Cannot already hold a Master's in the same field
 
-- Quality of the application
-- Academic curriculum, grades, results
-- Research references
-- Area of specialisation
-- Compliance with export-control legislation
-- 3 academic referees (submit recommendation letters)
+    ### English Requirement
 
----
+    - Excellent English proficiency required
+    - Official language certificate recommended (exact requirements per programme)
 
-## Application
+    ### GRE
 
-### Application Deadlines
+    - Optional (welcome but not compulsory)
+    - Can strengthen application
 
-| Round | Period | Decision |
-|-------|--------|----------|
-| **Round 1** | Mid-November – **15 December** | Late March |
-| **Round 2** | 16 December – **31 March** | Mid-June |
+    ### Evaluation Criteria
 
-!!! tip "Visa applicants"
-    Strongly advised to apply by Round 1 (15 December) for enough time for visa procedure (up to 3 months).
+    - Quality of the application
+    - Academic curriculum, grades, results
+    - Research references
+    - Area of specialisation
+    - Compliance with export-control legislation
+    - 3 academic referees (submit recommendation letters)
 
-### Application Platform
+    ---
 
-- **[EPFL IS-Academia](https://master.epfl.ch/application)**
+    ## Application
 
+    ### Application Deadlines
 
-### Application Process
+    | Round | Period | Decision |
+    |-------|--------|----------|
+    | **Round 1** | Mid-November – **15 December** | Late March |
+    | **Round 2** | 16 December – **31 March** | Mid-June |
 
-1. Complete the online application (French or English)
-2. Upload all required documents
-3. Submit application and pay CHF 150 fee
-4. 3 academic referees submit recommendation letters
-5. Admission decision received
-6. Enrollment if accepted
+    !!! tip "Visa applicants"
+        Strongly advised to apply by Round 1 (15 December) for enough time for visa procedure (up to 3 months).
 
-### Application Fee
+    ### Application Platform
 
-- **CHF 150** (international applicants)
+    - **[EPFL IS-Academia](https://master.epfl.ch/application)**
 
-### Required Documents
 
-**Mandatory:**
+    ### Application Process
 
-- CV
-- Degree Certificate (or Provisional Certificate)
-- Official Transcripts
-- Statement of Purpose / Motivation Letter
-- Passport
-- 3 Academic Referees (submit recommendations)
-- English proficiency evidence
+    1. Complete the online application (French or English)
+    2. Upload all required documents
+    3. Submit application and pay CHF 150 fee
+    4. 3 academic referees submit recommendation letters
+    5. Admission decision received
+    6. Enrollment if accepted
 
-**Optional / Recommended:**
+    ### Application Fee
 
-- GRE scores
-- TOEFL/IELTS
-- Publications
-- Portfolio
+    - **CHF 150** (international applicants)
 
----
+    ### Required Documents
 
-## Tuition & Costs
+    **Mandatory:**
 
-| Item | Amount |
-|------|--------|
-| Tuition (international, from HS2025) | CHF 2,240/semester |
-| Tuition (Swiss/residents) | CHF 780/semester |
-| Application fee | CHF 150 |
-| Living costs | CHF 1,700–2,500/month |
-| Total tuition (4 semesters, international) | CHF 8,960 (~€9,400) |
+    - CV
+    - Degree Certificate (or Provisional Certificate)
+    - Official Transcripts
+    - Statement of Purpose / Motivation Letter
+    - Passport
+    - 3 Academic Referees (submit recommendations)
+    - English proficiency evidence
 
-!!! note
-    EPFL tuition tripled for international students effective HS2025 (same policy as ETH Zurich).
+    **Optional / Recommended:**
 
----
+    - GRE scores
+    - TOEFL/IELTS
+    - Publications
+    - Portfolio
 
-## Scholarships
+    ---
 
-### EPFL Excellence Fellowships
+    ## Tuition & Costs
 
-- **CHF 40,000–60,000** over the Master's programme (varies)
-- Covers tuition + living allowance
-- For outstanding international students
-- Extremely competitive
-- Applied during admission process
+    | Item | Amount |
+    |------|--------|
+    | Tuition (international, from HS2025) | CHF 2,240/semester |
+    | Tuition (Swiss/residents) | CHF 780/semester |
+    | Application fee | CHF 150 |
+    | Living costs | CHF 1,700–2,500/month |
+    | Total tuition (4 semesters, international) | CHF 8,960 (~€9,400) |
 
-### Swiss Government Excellence Scholarships
+    !!! note
+        EPFL tuition tripled for international students effective HS2025 (same policy as ETH Zurich).
 
-- Available for exceptional international students
-- Apply through Swiss embassy
+    ---
 
----
+    ## Scholarships
 
-## Research
+    ### EPFL Excellence Fellowships
 
-### Major Research Areas
+    - **CHF 40,000–60,000** over the Master's programme (varies)
+    - Covers tuition + living allowance
+    - For outstanding international students
+    - Extremely competitive
+    - Applied during admission process
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Image Processing
-- Robotics & Autonomous Systems
-- Distributed Systems
-- Cybersecurity & Privacy
-- Data Science & Analytics
-- High Performance Computing
-- Natural Language Processing
-- Signal Processing
-- Computational Science
+    ### Swiss Government Excellence Scholarships
 
-### Key Research Labs
+    - Available for exceptional international students
+    - Apply through Swiss embassy
 
-- EPFL AI Center
-- Machine Learning and Optimization Laboratory (MLO)
-- Computer Vision Laboratory (CVLab)
-- Data Science Lab
-- Distributed Computing Lab (DCL)
-- Systems Lab
-- Intelligent Global Health Lab
-- SPRING Lab (Security & Privacy)
-- Robotics Lab
+    ---
 
----
+    ## Research
 
-## Career
+    ### Major Research Areas
 
-### Industry Partners
+    - Artificial Intelligence & Machine Learning
+    - Computer Vision & Image Processing
+    - Robotics & Autonomous Systems
+    - Distributed Systems
+    - Cybersecurity & Privacy
+    - Data Science & Analytics
+    - High Performance Computing
+    - Natural Language Processing
+    - Signal Processing
+    - Computational Science
 
-- Logitech, Nestlé, Swisscom, IBM, Google, NVIDIA
-- EPFL Innovation Park (200+ startups)
-- Strong Swiss tech ecosystem
+    ### Key Research Labs
 
-### PhD Opportunities
+    - EPFL AI Center
+    - Machine Learning and Optimization Laboratory (MLO)
+    - Computer Vision Laboratory (CVLab)
+    - Data Science Lab
+    - Distributed Computing Lab (DCL)
+    - Systems Lab
+    - Intelligent Global Health Lab
+    - SPRING Lab (Security & Privacy)
+    - Robotics Lab
 
-- Excellent pathway — EPFL Doctoral School
-- Funded PhD positions
-- Direct PhD track available
+    ---
 
----
+    ## Career
 
-## Notes & Sources
+    ### Industry Partners
 
-=== "Notes"
+    - Logitech, Nestlé, Swisscom, IBM, Google, NVIDIA
+    - EPFL Innovation Park (200+ startups)
+    - Strong Swiss tech ecosystem
 
-    - EPFL is among the most competitive universities in Europe for CS.
-    - Round 1 (December 15) strongly recommended for visa applicants — gives early decision + time for visa.
-    - 3 recommendation letters required (not 2 like ETH) — start arranging early.
-    - Only ONE programme application per year — choose carefully.
-    - EPFL Excellence Fellowships are highly competitive but generous.
-    - Lausanne is expensive but slightly cheaper than Zurich.
-    - The CS curriculum was reformed in Autumn 2025 — new specialisation structure.
-    - Strong AI/ML focus with top faculty (Flammarion, Jaggi, etc. visible in curriculum).
+    ### PhD Opportunities
 
-=== "Sources"
+    - Excellent pathway — EPFL Doctoral School
+    - Funded PhD positions
+    - Direct PhD track available
 
-    - [Master admission criteria](http://master.epfl.ch/entryrequirements)
-    - [Online application](https://master.epfl.ch/application)
-    - [Computer Science Master](http://master.epfl.ch/computerscience)
-    - [CS study plan (reform 2026-27)](https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Study-Plan-reform-2026-2027.pdf)
-    - [Key points reform](https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Key-Points-Master-Studies-072026-5.pdf)
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - EPFL is among the most competitive universities in Europe for CS.
+        - Round 1 (December 15) strongly recommended for visa applicants — gives early decision + time for visa.
+        - 3 recommendation letters required (not 2 like ETH) — start arranging early.
+        - Only ONE programme application per year — choose carefully.
+        - EPFL Excellence Fellowships are highly competitive but generous.
+        - Lausanne is expensive but slightly cheaper than Zurich.
+        - The CS curriculum was reformed in Autumn 2025 — new specialisation structure.
+        - Strong AI/ML focus with top faculty (Flammarion, Jaggi, etc. visible in curriculum).
+
+    === "Sources"
+
+        - [Master admission criteria](http://master.epfl.ch/entryrequirements)
+        - [Online application](https://master.epfl.ch/application)
+        - [Computer Science Master](http://master.epfl.ch/computerscience)
+        - [CS study plan (reform 2026-27)](https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Study-Plan-reform-2026-2027.pdf)
+        - [Key points reform](https://www.epfl.ch/schools/ic/wp-content/uploads/2026/07/Computer-Science-Key-Points-Master-Studies-072026-5.pdf)

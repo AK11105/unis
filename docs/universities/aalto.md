@@ -8,286 +8,303 @@ tags:
 
 > **Country:** Finland | **Tier:** Moderate
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | €34–40K total · €900–1,300/mo |
+    | **Deadline** | ~7 December – 5 January |
+    | **GRE** | Required for Macadamia (AG2) |
+    | **English** | English cert required |
+    | **Duration** | 4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** FCAI (Finnish Center for AI) and ELLIS member with strong ML, HPC, and quantum research. The Macadamia programme is specifically designed for ML/DS/AI and offers an excellent PhD pipeline in the Nordics. LUMI supercomputer access is a bonus.
 
-- One of Finland's leading research universities
-- Internationally recognized for Computer Science, Artificial Intelligence, Machine Learning, Data Science, Engineering, and Design
+    **Programmes:** Computer Science · Macadamia (ML/DS/AI)
 
-### Tuition (Non-EU/EEA)
+    **Watch out:** Very short application window (Dec–Jan). Expensive (€17–20K/year). GRE required for Macadamia. Preferred GPA 8.0/10. Residence permit needs €9,600/yr proof.
 
-- Technology: **€17,000–€20,000/year** (verify for 2027 intake)
-- Programme duration: **2 years (120 ECTS)**
+=== "Detail"
 
-### Application Fee
+    ## Overview
 
-- **€100** (Non-EU/EEA applicants, paid through Studyinfo.fi)
+    ### Rankings
 
-### Estimated Living Cost
+    - One of Finland's leading research universities
+    - Internationally recognized for Computer Science, Artificial Intelligence, Machine Learning, Data Science, Engineering, and Design
 
-- €900–1,300/month
-- Students should budget **at least €800/month** for living expenses
+    ### Tuition (Non-EU/EEA)
 
-### Scholarships
+    - Technology: **€17,000–€20,000/year** (verify for 2027 intake)
+    - Programme duration: **2 years (120 ECTS)**
 
-- **Aalto University Excellence Scholarship** — merit-based tuition fee waiver (does not cover living expenses)
-- Scholarship applications submitted together with the programme application
+    ### Application Fee
 
-### Research Strengths
+    - **€100** (Non-EU/EEA applicants, paid through Studyinfo.fi)
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Large-Scale Computing
-- Distributed Systems
-- High Performance Computing
-- Algorithms
-- Security & Privacy
-- Software Engineering
-- Quantum Computing
+    ### Estimated Living Cost
 
-### Industry Connections
+    - €900–1,300/month
+    - Students should budget **at least €800/month** for living expenses
 
-- Nokia
-- Microsoft
-- Ericsson
-- Wolt
-- Reaktor
-- F-Secure
-- Palantir
-- Smartly.io
-- Finnish Center for Artificial Intelligence (FCAI)
+    ### Scholarships
 
----
+    - **Aalto University Excellence Scholarship** — merit-based tuition fee waiver (does not cover living expenses)
+    - Scholarship applications submitted together with the programme application
 
-## Target Programs
+    ### Research Strengths
 
-### Computer Science (M.Sc.)
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Large-Scale Computing
+    - Distributed Systems
+    - High Performance Computing
+    - Algorithms
+    - Security & Privacy
+    - Software Engineering
+    - Quantum Computing
 
-| Field | Detail |
-|-------|--------|
-| Duration | 2 years |
-| Credits | 120 ECTS |
-| Language | English |
-| School | School of Science |
+    ### Industry Connections
 
-#### Study Tracks
+    - Nokia
+    - Microsoft
+    - Ericsson
+    - Wolt
+    - Reaktor
+    - F-Secure
+    - Palantir
+    - Smartly.io
+    - Finnish Center for Artificial Intelligence (FCAI)
 
-- Algorithms, Logic & Computation
-- Big Data & Large-Scale Computing
-- Software Systems & Technologies
-- Secure Systems
-- Web Technologies
-- Cloud Computing
-- Quantum Computing
+    ---
 
-#### Highlights
+    ## Target Programs
 
-- Flexible curriculum
-- Company internship
-- Master's thesis
-- LUMI Supercomputer access
-- Research-driven education
-- Cloud-native software
-- Distributed systems
-- High Performance Computing
-- Security
-- Quantum Computing
+    ### Computer Science (M.Sc.)
 
-#### Evaluation Criteria
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 2 years |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | School | School of Science |
 
-Applicants are evaluated on:
+    #### Study Tracks
 
-- Academic Performance
-- Relevant Previous Studies
-- University Recognition
-- Motivation & Suitability
-- Other Achievements
+    - Algorithms, Logic & Computation
+    - Big Data & Large-Scale Computing
+    - Software Systems & Technologies
+    - Secure Systems
+    - Web Technologies
+    - Cloud Computing
+    - Quantum Computing
 
-Preferred GPA (Previous Years): India: **8.0/10 (≈75%)**
+    #### Highlights
 
-#### Expected Background
+    - Flexible curriculum
+    - Company internship
+    - Master's thesis
+    - LUMI Supercomputer access
+    - Research-driven education
+    - Cloud-native software
+    - Distributed systems
+    - High Performance Computing
+    - Security
+    - Quantum Computing
 
-- Calculus, Linear Algebra, Probability, Statistics, Discrete Mathematics
-- Programming, Algorithms, Databases
-- Theory of Computation, Operating Systems, Computer Networks
-- Distributed Systems, Software Engineering
+    #### Evaluation Criteria
 
----
+    Applicants are evaluated on:
 
-### Machine Learning, Data Science and Artificial Intelligence (Macadamia)
+    - Academic Performance
+    - Relevant Previous Studies
+    - University Recognition
+    - Motivation & Suitability
+    - Other Achievements
 
-| Field | Detail |
-|-------|--------|
-| Duration | 2 years |
-| Credits | 120 ECTS |
-| Language | English |
-| School | School of Science |
+    Preferred GPA (Previous Years): India: **8.0/10 (≈75%)**
 
-#### Core Areas
+    #### Expected Background
 
-- Machine Learning
-- Deep Learning
-- Probabilistic Machine Learning
-- Bayesian Data Analysis
-- Artificial Intelligence
-- Computer Vision
-- Federated Learning
-- Quantum Machine Learning
+    - Calculus, Linear Algebra, Probability, Statistics, Discrete Mathematics
+    - Programming, Algorithms, Databases
+    - Theory of Computation, Operating Systems, Computer Networks
+    - Distributed Systems, Software Engineering
 
-#### Highlights
+    ---
 
-- Strong mathematical foundation
-- Research-oriented
-- Hands-on projects
-- FCAI collaboration
-- ELLIS collaboration
-- Double Degree opportunities
-- Excellent PhD pathway
+    ### Machine Learning, Data Science and Artificial Intelligence (Macadamia)
 
-#### Evaluation Criteria (Admission Group 2 — Non-EU)
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 2 years |
+    | Credits | 120 ECTS |
+    | Language | English |
+    | School | School of Science |
 
-**Initial Evaluation:**
+    #### Core Areas
 
-- GRE
-- Academic Performance
-- Relevant Previous Studies
+    - Machine Learning
+    - Deep Learning
+    - Probabilistic Machine Learning
+    - Bayesian Data Analysis
+    - Artificial Intelligence
+    - Computer Vision
+    - Federated Learning
+    - Quantum Machine Learning
 
-**Final Evaluation:**
+    #### Highlights
 
-- University Quality
-- Motivation
-- Other Achievements
+    - Strong mathematical foundation
+    - Research-oriented
+    - Hands-on projects
+    - FCAI collaboration
+    - ELLIS collaboration
+    - Double Degree opportunities
+    - Excellent PhD pathway
 
-Preferred GPA: India: **8.0/10 (≈75%)**
+    #### Evaluation Criteria (Admission Group 2 — Non-EU)
 
-#### Expected Background
+    **Initial Evaluation:**
 
-- Mathematics, Statistics, Programming
-- Data Structures, Algorithms
-- Machine Learning, Artificial Intelligence
-- Data Mining, Software Engineering
+    - GRE
+    - Academic Performance
+    - Relevant Previous Studies
 
----
+    **Final Evaluation:**
 
-## Application
+    - University Quality
+    - Motivation
+    - Other Achievements
 
-### Application Period (2027 Intake)
+    Preferred GPA: India: **8.0/10 (≈75%)**
 
-- **7 December 2026** – Application Opens
-- **5 January 2027** – Application Closes
+    #### Expected Background
 
-### Application Platform
+    - Mathematics, Statistics, Programming
+    - Data Structures, Algorithms
+    - Machine Learning, Artificial Intelligence
+    - Data Mining, Software Engineering
 
-- **[Studyinfo.fi](https://studyinfo.fi/)**
+    ---
 
+    ## Application
 
-### Application Process
+    ### Application Period (2027 Intake)
 
-1. Apply through [Studyinfo.fi](https://studyinfo.fi/)
-2. Select up to **two** study options
-3. Pay the €100 application fee (if applicable)
-4. Upload all required documents
-5. Programme evaluation
-6. Admission decision
-7. Accept study place
-8. Submit certified educational documents
-9. Begin studies
+    - **7 December 2026** – Application Opens
+    - **5 January 2027** – Application Closes
 
-### Required Documents
+    ### Application Platform
 
-**Mandatory:**
+    - **[Studyinfo.fi](https://studyinfo.fi/)**
 
-- Bachelor's Degree Certificate
-- Official Transcript
-- Passport / Government ID
-- English Language Proof
-- Motivation Letter
-- Curriculum Vitae
-- Course Descriptions
-- Authorized Translations (if required)
 
-**Programme-specific:**
+    ### Application Process
 
-- GRE (Macadamia)
-- Recommendation Letter(s)
-- Work Certificates
-- Publications
+    1. Apply through [Studyinfo.fi](https://studyinfo.fi/)
+    2. Select up to **two** study options
+    3. Pay the €100 application fee (if applicable)
+    4. Upload all required documents
+    5. Programme evaluation
+    6. Admission decision
+    7. Accept study place
+    8. Submit certified educational documents
+    9. Begin studies
 
----
+    ### Required Documents
 
-## Research
+    **Mandatory:**
 
-### Major Research Areas
+    - Bachelor's Degree Certificate
+    - Official Transcript
+    - Passport / Government ID
+    - English Language Proof
+    - Motivation Letter
+    - Curriculum Vitae
+    - Course Descriptions
+    - Authorized Translations (if required)
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Large-Scale Computing
-- Distributed Systems
-- High Performance Computing
-- Security & Privacy
-- Quantum Computing
-- Algorithms
-- Software Engineering
+    **Programme-specific:**
 
-### Research Centers
+    - GRE (Macadamia)
+    - Recommendation Letter(s)
+    - Work Certificates
+    - Publications
 
-- Finnish Center for Artificial Intelligence (FCAI)
-- ELLIS collaborations
+    ---
 
----
+    ## Research
 
-## Career
+    ### Major Research Areas
 
-### Industry Partners
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Large-Scale Computing
+    - Distributed Systems
+    - High Performance Computing
+    - Security & Privacy
+    - Quantum Computing
+    - Algorithms
+    - Software Engineering
 
-- Nokia
-- Microsoft
-- Ericsson
-- Wolt
-- Reaktor
-- F-Secure
-- Palantir
-- Smartly.io
+    ### Research Centers
 
-### Internship Opportunities
+    - Finnish Center for Artificial Intelligence (FCAI)
+    - ELLIS collaborations
 
-- Company internship integrated into several programmes
-- Strong industry collaboration
+    ---
 
-### PhD Opportunities
+    ## Career
 
-- Excellent pathway into doctoral studies
-- Close collaboration with Aalto research groups
-- International research collaborations
+    ### Industry Partners
 
----
+    - Nokia
+    - Microsoft
+    - Ericsson
+    - Wolt
+    - Reaktor
+    - F-Secure
+    - Palantir
+    - Smartly.io
 
-## Notes & Sources
+    ### Internship Opportunities
 
-=== "Notes"
+    - Company internship integrated into several programmes
+    - Strong industry collaboration
 
-    - Aalto application period is very short: 7 December – 5 January (less than one month!).
-    - €17,000/year for non-EU technology programmes = €34,000 total. Same range as TU Delft.
-    - Macadamia (ML/DS/AI) requires GRE for Admission Group 2 (non-EU).
-    - FCAI (Finnish Center for AI) is a world-class research hub — direct collaboration with Aalto.
-    - ELLIS collaboration strengthens research connections.
-    - Preferred GPA: 8.0/10 (≈75%) for Indian students.
-    - €100 application fee via Studyinfo.fi.
-    - Only 2 study options can be selected per application round.
-    - Excellence Scholarship covers tuition but NOT living expenses.
-    - Finland residence permit requires proof of **€9,600/year** (€800/month) financial resources.
+    ### PhD Opportunities
 
-=== "Sources"
+    - Excellent pathway into doctoral studies
+    - Close collaboration with Aalto research groups
+    - International research collaborations
 
-    - [Aalto University admissions](https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes)
-    - [Studyinfo.fi](https://studyinfo.fi/)
-    - [Computer Science programme](https://www.aalto.fi/en/study-options/computer-communication-and-information-sciences-master-of-science-technology)
-    - [Macadamia (ML/DS/AI)](https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology)
-    - [Tuition fees](https://www.aalto.fi/en/study-at-aalto/tuition-fees-and-scholarships)
-    - [FCAI](https://fcai.fi/)
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - Aalto application period is very short: 7 December – 5 January (less than one month!).
+        - €17,000/year for non-EU technology programmes = €34,000 total. Same range as TU Delft.
+        - Macadamia (ML/DS/AI) requires GRE for Admission Group 2 (non-EU).
+        - FCAI (Finnish Center for AI) is a world-class research hub — direct collaboration with Aalto.
+        - ELLIS collaboration strengthens research connections.
+        - Preferred GPA: 8.0/10 (≈75%) for Indian students.
+        - €100 application fee via Studyinfo.fi.
+        - Only 2 study options can be selected per application round.
+        - Excellence Scholarship covers tuition but NOT living expenses.
+        - Finland residence permit requires proof of **€9,600/year** (€800/month) financial resources.
+
+    === "Sources"
+
+        - [Aalto University admissions](https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes)
+        - [Studyinfo.fi](https://studyinfo.fi/)
+        - [Computer Science programme](https://www.aalto.fi/en/study-options/computer-communication-and-information-sciences-master-of-science-technology)
+        - [Macadamia (ML/DS/AI)](https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology)
+        - [Tuition fees](https://www.aalto.fi/en/study-at-aalto/tuition-fees-and-scholarships)
+        - [FCAI](https://fcai.fi/)

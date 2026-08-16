@@ -8,342 +8,359 @@ tags:
 
 > **Country:** Germany | **Tier:** Dream
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | ~€6.7K total · €850–1,200/mo |
+    | **Deadline** | 15 June (CS) / 15 July (CDS) |
+    | **GRE** | Required for CS only (V≥151, Q≥164, AW≥4) |
+    | **English** | B2 English |
+    | **Duration** | 4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** Top-tier German CS with deep strength in algorithms, HPC, robotics, and security. The CS programme is highly selective (100 places/year) but CDS offers open admission as a smart backdoor. Late deadlines give maximum prep time — a luxury most Dream-tier schools don't offer.
 
-- One of Germany's leading technical universities (University of Excellence)
-- Member of Helmholtz Association (Germany's largest research organization)
-- Strong international reputation in Computer Science, Engineering, Mathematics, and AI
-- Member of TU9 alliance
+    **Programmes:** Computer Science · Computational & Data Science
 
-### Tuition (Non-EU International Students)
+    **Watch out:** CS has NC (numerus clausus) — only 100 places. €1,500/sem BW tuition. GRE required for CS only. APS needed.
 
-- **€1,500/semester** for international students (non-EU)
-- **Semester contribution:** ~€184/semester (€80 admin + €92 Studierendenwerk + €12 student body)
-- **Total estimated cost (4 semesters):** €6,000 tuition + ~€736 semester fees = ~€6,736
+=== "Detail"
 
-### Estimated Living Cost
+    ## Overview
 
-- €850–1,200/month (Karlsruhe is moderately affordable)
+    ### Rankings
 
-### Scholarships
+    - One of Germany's leading technical universities (University of Excellence)
+    - Member of Helmholtz Association (Germany's largest research organization)
+    - Strong international reputation in Computer Science, Engineering, Mathematics, and AI
+    - Member of TU9 alliance
 
-- DAAD
-- Deutschlandstipendium (€300/month)
-- KIT Scholarships
-- Baden-Württemberg Scholarship (BWSTIP)
-- External foundations and research funding
+    ### Tuition (Non-EU International Students)
 
-### Research Strengths
+    - **€1,500/semester** for international students (non-EU)
+    - **Semester contribution:** ~€184/semester (€80 admin + €92 Studierendenwerk + €12 student body)
+    - **Total estimated cost (4 semesters):** €6,000 tuition + ~€736 semester fees = ~€6,736
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- High Performance Computing
-- Robotics
-- Computer Vision
-- Algorithms
-- Cybersecurity
-- Software Engineering
-- Applied Mathematics
+    ### Estimated Living Cost
 
-### Industry Connections
+    - €850–1,200/month (Karlsruhe is moderately affordable)
 
-- SAP
-- Bosch
-- Mercedes-Benz
-- Porsche
-- BASF
-- Zeiss
-- IBM
-- Fraunhofer Institutes (IOSB, ISI)
-- Karlsruhe AI ecosystem
-- FZI Research Center for Information Technology
+    ### Scholarships
 
----
+    - DAAD
+    - Deutschlandstipendium (€300/month)
+    - KIT Scholarships
+    - Baden-Württemberg Scholarship (BWSTIP)
+    - External foundations and research funding
 
-## Target Programs
+    ### Research Strengths
 
-### Computer Science (M.Sc.) — English
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - High Performance Computing
+    - Robotics
+    - Computer Vision
+    - Algorithms
+    - Cybersecurity
+    - Software Engineering
+    - Applied Mathematics
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 ECTS |
-| Language | **English** |
-| Start | Winter or Summer Semester |
-| NC | Yes (restricted admission) |
-| Thesis | Mandatory |
+    ### Industry Connections
 
-#### Deadline
+    - SAP
+    - Bosch
+    - Mercedes-Benz
+    - Porsche
+    - BASF
+    - Zeiss
+    - IBM
+    - Fraunhofer Institutes (IOSB, ISI)
+    - Karlsruhe AI ecosystem
+    - FZI Research Center for Information Technology
 
-- **Winter Semester:** 15 June
-- **Summer Semester:** 15 January
+    ---
 
-#### Highlights
+    ## Target Programs
 
-- Fully English-taught international programme
-- Highly flexible curriculum — no compulsory courses
-- Nine specialisation areas
-- Company thesis possible
-- Optional internship
-- Strong research orientation
-- NC (restricted admission) — competitive
+    ### Computer Science (M.Sc.) — English
 
-#### Specialisations
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 ECTS |
+    | Language | **English** |
+    | Start | Winter or Summer Semester |
+    | NC | Yes (restricted admission) |
+    | Thesis | Mandatory |
 
-- Data Science
-- Human-centered Machine Intelligence
-- Robotics and Automation
-- Algorithm Engineering
-- Cryptography and Security
-- Software Engineering
-- Embedded Systems
-- Telematics
-- Theoretical Foundations
+    #### Deadline
 
-#### Admission
+    - **Winter Semester:** 15 June
+    - **Summer Semester:** 15 January
 
-- Bachelor's degree in Computer Science or equivalent
-- English B2
-- GRE or eligible GATE / equivalent qualification (depending on applicant background)
-- Subject background evaluation
+    #### Highlights
 
----
+    - Fully English-taught international programme
+    - Highly flexible curriculum — no compulsory courses
+    - Nine specialisation areas
+    - Company thesis possible
+    - Optional internship
+    - Strong research orientation
+    - NC (restricted admission) — competitive
 
-### Informatik (M.Sc.) — German
+    #### Specialisations
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 ECTS |
-| Language | **German** |
-| Start | Winter or Summer Semester |
-| NC | Yes (restricted admission) |
+    - Data Science
+    - Human-centered Machine Intelligence
+    - Robotics and Automation
+    - Algorithm Engineering
+    - Cryptography and Security
+    - Software Engineering
+    - Embedded Systems
+    - Telematics
+    - Theoretical Foundations
 
-#### Deadline
+    #### Admission
 
-- **Winter Semester:** 15 July
-- **Summer Semester:** 15 January
+    - Bachelor's degree in Computer Science or equivalent
+    - English B2
+    - GRE or eligible GATE / equivalent qualification (depending on applicant background)
+    - Subject background evaluation
 
-!!! note
-    This is the German-taught version. Same faculty and research groups as Computer Science M.Sc.
+    ---
 
----
+    ### Informatik (M.Sc.) — German
 
-### Computational and Data Science (M.Sc.)
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 ECTS |
+    | Language | **German** |
+    | Start | Winter or Summer Semester |
+    | NC | Yes (restricted admission) |
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 ECTS |
-| Language | **English** |
-| Start | Winter or Summer Semester |
-| NC | No (open admission) |
+    #### Deadline
 
-#### Deadline
+    - **Winter Semester:** 15 July
+    - **Summer Semester:** 15 January
 
-- **Winter Semester (EU):** 30 September
-- **Winter Semester (Non-EU):** **15 July**
-- **Summer Semester:** 31 March
+    !!! note
+        This is the German-taught version. Same faculty and research groups as Computer Science M.Sc.
 
-#### Focus Areas
+    ---
 
-- Data Science
-- Scientific Computing
-- High Performance Computing
-- Computational Methods
-- Mathematical Modelling
-- Simulation
+    ### Computational and Data Science (M.Sc.)
 
-#### Highlights
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 ECTS |
+    | Language | **English** |
+    | Start | Winter or Summer Semester |
+    | NC | No (open admission) |
 
-- Open admission (no NC) — easier entry than Computer Science
-- Interdisciplinary programme
-- Strong HPC focus
-- Good alternative if Computer Science M.Sc. is too competitive
+    #### Deadline
 
----
+    - **Winter Semester (EU):** 30 September
+    - **Winter Semester (Non-EU):** **15 July**
+    - **Summer Semester:** 31 March
 
-## Admission Requirements
+    #### Focus Areas
 
-### Academic Requirements
+    - Data Science
+    - Scientific Computing
+    - High Performance Computing
+    - Computational Methods
+    - Mathematical Modelling
+    - Simulation
 
-- Bachelor's degree (≥180 ECTS) in Computer Science or closely related field
-- Degree from a recognized university
-- Strong background in CS and Mathematics
+    #### Highlights
 
-### English Language Requirement
+    - Open admission (no NC) — easier entry than Computer Science
+    - Interdisciplinary programme
+    - Strong HPC focus
+    - Good alternative if Computer Science M.Sc. is too competitive
 
-- **B2 level** minimum for English-taught programmes
-- IELTS, TOEFL, or equivalent accepted
+    ---
 
-### GRE
+    ## Admission Requirements
 
-- GRE required for Computer Science M.Sc. for applicants whose degree is NOT from an EHEA or Lisbon Convention signatory state (includes India)
-- **Minimum scores:** Verbal ≥151, Quantitative ≥164, Analytical Writing ≥4.0
-- GATE (Computer Science & IT, or Data Science & AI) accepted as alternative — provides additional pathway benefits
-- Not required for Computational and Data Science M.Sc.
+    ### Academic Requirements
 
-### APS Certificate
+    - Bachelor's degree (≥180 ECTS) in Computer Science or closely related field
+    - Degree from a recognized university
+    - Strong background in CS and Mathematics
 
-- Required for Indian applicants (standard for German universities)
+    ### English Language Requirement
 
-### German Language
+    - **B2 level** minimum for English-taught programmes
+    - IELTS, TOEFL, or equivalent accepted
 
-- Not required for English-taught programmes (Computer Science, Computational and Data Science)
-- Required for Informatik M.Sc.
+    ### GRE
 
----
+    - GRE required for Computer Science M.Sc. for applicants whose degree is NOT from an EHEA or Lisbon Convention signatory state (includes India)
+    - **Minimum scores:** Verbal ≥151, Quantitative ≥164, Analytical Writing ≥4.0
+    - GATE (Computer Science & IT, or Data Science & AI) accepted as alternative — provides additional pathway benefits
+    - Not required for Computational and Data Science M.Sc.
 
-## Application
+    ### APS Certificate
 
-### Application Deadlines
+    - Required for Indian applicants (standard for German universities)
 
-| Programme | WS Deadline (Non-EU) | WS Deadline (EU) |
-|-----------|---------------------|------------------|
-| Computer Science M.Sc. (English) | **15 June** | **15 June** |
-| Computational & Data Science M.Sc. | **15 July** | **30 September** |
-| Informatik M.Sc. (German) | **15 July** | **15 July** |
+    ### German Language
 
-!!! note
-    Different deadlines for EU and non-EU for Computational & Data Science. Always verify on official KIT page.
+    - Not required for English-taught programmes (Computer Science, Computational and Data Science)
+    - Required for Informatik M.Sc.
 
-### Application Platform
+    ---
 
-- **[KIT Application Portal](https://www.sle.kit.edu/vorstudium/studiengaenge.php)**
+    ## Application
 
+    ### Application Deadlines
 
-### Application Process
+    | Programme | WS Deadline (Non-EU) | WS Deadline (EU) |
+    |-----------|---------------------|------------------|
+    | Computer Science M.Sc. (English) | **15 June** | **15 June** |
+    | Computational & Data Science M.Sc. | **15 July** | **30 September** |
+    | Informatik M.Sc. (German) | **15 July** | **15 July** |
 
-1. Apply through the KIT application portal
-2. Select the desired Master's programme
-3. Upload all required documents
-4. Complete the admission requirements check
-5. Await admission decision
-6. Complete enrollment
+    !!! note
+        Different deadlines for EU and non-EU for Computational & Data Science. Always verify on official KIT page.
 
-### Required Documents
+    ### Application Platform
 
-**Mandatory:**
+    - **[KIT Application Portal](https://www.sle.kit.edu/vorstudium/studiengaenge.php)**
 
-- Bachelor's Degree Certificate (or Provisional)
-- Official Transcript of Records
-- English Language Proficiency Certificate
-- Passport / ID
-- APS Certificate (Indian applicants)
-- Module Descriptions / Curriculum
-- University Grading System explanation
-- CV
 
-**Programme-dependent:**
+    ### Application Process
 
-- GRE / GATE scores (for Computer Science M.Sc.)
-- Statement of Purpose (if required)
-- Reference Letters (if required)
+    1. Apply through the KIT application portal
+    2. Select the desired Master's programme
+    3. Upload all required documents
+    4. Complete the admission requirements check
+    5. Await admission decision
+    6. Complete enrollment
 
----
+    ### Required Documents
 
-## Tuition & Costs
+    **Mandatory:**
 
-| Item | Amount |
-|------|--------|
-| Tuition (Non-EU) | €1,500/semester |
-| Semester contribution | ~€184/semester |
-| Living costs | €850–1,200/month |
-| Total tuition (4 semesters) | €6,000 |
-| Total fees (4 semesters) | ~€6,736 |
+    - Bachelor's Degree Certificate (or Provisional)
+    - Official Transcript of Records
+    - English Language Proficiency Certificate
+    - Passport / ID
+    - APS Certificate (Indian applicants)
+    - Module Descriptions / Curriculum
+    - University Grading System explanation
+    - CV
 
-!!! note
-    KIT is in Baden-Württemberg, which charges tuition for international students (unlike NRW where RWTH is located).
+    **Programme-dependent:**
 
----
+    - GRE / GATE scores (for Computer Science M.Sc.)
+    - Statement of Purpose (if required)
+    - Reference Letters (if required)
 
-## Scholarships
+    ---
 
-### Deutschlandstipendium
+    ## Tuition & Costs
 
-- €300/month
-- Merit-based + social engagement
+    | Item | Amount |
+    |------|--------|
+    | Tuition (Non-EU) | €1,500/semester |
+    | Semester contribution | ~€184/semester |
+    | Living costs | €850–1,200/month |
+    | Total tuition (4 semesters) | €6,000 |
+    | Total fees (4 semesters) | ~€6,736 |
 
-### Baden-Württemberg Scholarship (BWSTIP)
+    !!! note
+        KIT is in Baden-Württemberg, which charges tuition for international students (unlike NRW where RWTH is located).
 
-- For international exchange students (may have limited applicability for degree-seeking)
+    ---
 
-### DAAD Scholarships
+    ## Scholarships
 
-- Various programmes for international students
+    ### Deutschlandstipendium
 
-### Research Assistantships (HiWi)
+    - €300/month
+    - Merit-based + social engagement
 
-- Numerous positions at KIT institutes
-- FZI Research Center positions
+    ### Baden-Württemberg Scholarship (BWSTIP)
 
----
+    - For international exchange students (may have limited applicability for degree-seeking)
 
-## Research
+    ### DAAD Scholarships
 
-### Major Research Areas
+    - Various programmes for international students
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- High Performance Computing
-- Scientific Computing
-- Robotics
-- Computer Vision
-- Distributed Systems
-- Algorithms
-- Cybersecurity
+    ### Research Assistantships (HiWi)
 
-### Key Research Institutes
+    - Numerous positions at KIT institutes
+    - FZI Research Center positions
 
-- FZI Research Center for Information Technology
-- Karlsruhe Service Research Institute (KSRI)
-- Institute for Applied Informatics and Formal Description Methods (AIFB)
-- Institute for Information Security (KASTEL)
-- Steinbuch Centre for Computing (SCC) — HPC
-- Institute for Anthropomatics and Robotics (IAR)
-- Institute for Program Structures and Data Organisation (IPD)
+    ---
 
----
+    ## Research
 
-## Career
+    ### Major Research Areas
 
-### Industry Partners
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - High Performance Computing
+    - Scientific Computing
+    - Robotics
+    - Computer Vision
+    - Distributed Systems
+    - Algorithms
+    - Cybersecurity
 
-- SAP, Bosch, Mercedes-Benz, Porsche, BASF, Zeiss
-- IBM, Fraunhofer IOSB, FZI
-- Strong Karlsruhe tech ecosystem
+    ### Key Research Institutes
 
-### PhD Opportunities
+    - FZI Research Center for Information Technology
+    - Karlsruhe Service Research Institute (KSRI)
+    - Institute for Applied Informatics and Formal Description Methods (AIFB)
+    - Institute for Information Security (KASTEL)
+    - Steinbuch Centre for Computing (SCC) — HPC
+    - Institute for Anthropomatics and Robotics (IAR)
+    - Institute for Program Structures and Data Organisation (IPD)
 
-- Excellent pathway into doctoral studies
-- Close collaboration with Helmholtz research centres
-- Structured PhD programmes available
+    ---
 
----
+    ## Career
 
-## Notes & Sources
+    ### Industry Partners
 
-=== "Notes"
+    - SAP, Bosch, Mercedes-Benz, Porsche, BASF, Zeiss
+    - IBM, Fraunhofer IOSB, FZI
+    - Strong Karlsruhe tech ecosystem
 
-    - KIT has TWO relevant Computer Science Master's: the English-taught "Computer Science" and the German-taught "Informatik." Same faculty, different language.
-    - Computer Science M.Sc. has NC (restricted admission) — competitive. **100 places per year**, selection via ranked list. Deadline is 15 June.
-    - Computational and Data Science is open admission (no NC) but **non-EU deadline is 15 July** (not 30 September which is EU-only).
-    - Baden-Württemberg charges €1,500/semester for non-EU students. Cheaper than TUM but not free like RWTH.
-    - KIT is in Helmholtz Association — one of the strongest research infrastructures in Germany.
-    - Karlsruhe is more affordable than Munich and has a strong tech/startup scene (especially SAP ecosystem).
+    ### PhD Opportunities
 
-=== "Sources"
+    - Excellent pathway into doctoral studies
+    - Close collaboration with Helmholtz research centres
+    - Structured PhD programmes available
 
-    - [KIT study programmes list](https://www.sle.kit.edu/vorstudium/studiengaenge.php)
-    - [Computer Science M.Sc.](https://www.sle.kit.edu/vorstudium/master-computer-science.php)
-    - [Computational and Data Science](https://www.sle.kit.edu/vorstudium/master-computational-data-science.php)
-    - [Informatik M.Sc.](https://www.sle.kit.edu/vorstudium/master-informatik.php)
-    - [KIT International](https://www.intl.kit.edu/)
-    - [Faculty of Computer Science](https://www.informatik.kit.edu/)
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - KIT has TWO relevant Computer Science Master's: the English-taught "Computer Science" and the German-taught "Informatik." Same faculty, different language.
+        - Computer Science M.Sc. has NC (restricted admission) — competitive. **100 places per year**, selection via ranked list. Deadline is 15 June.
+        - Computational and Data Science is open admission (no NC) but **non-EU deadline is 15 July** (not 30 September which is EU-only).
+        - Baden-Württemberg charges €1,500/semester for non-EU students. Cheaper than TUM but not free like RWTH.
+        - KIT is in Helmholtz Association — one of the strongest research infrastructures in Germany.
+        - Karlsruhe is more affordable than Munich and has a strong tech/startup scene (especially SAP ecosystem).
+
+    === "Sources"
+
+        - [KIT study programmes list](https://www.sle.kit.edu/vorstudium/studiengaenge.php)
+        - [Computer Science M.Sc.](https://www.sle.kit.edu/vorstudium/master-computer-science.php)
+        - [Computational and Data Science](https://www.sle.kit.edu/vorstudium/master-computational-data-science.php)
+        - [Informatik M.Sc.](https://www.sle.kit.edu/vorstudium/master-informatik.php)
+        - [KIT International](https://www.intl.kit.edu/)
+        - [Faculty of Computer Science](https://www.informatik.kit.edu/)

@@ -8,311 +8,328 @@ tags:
 
 > **Country:** Netherlands | **Tier:** Dream
 
+=== "Crux"
 
----
+    | | |
+    |---|---|
+    | **Cost** | €48–51K total · €900–1,600/mo |
+    | **Deadline** | 15 January |
+    | **GRE** | Required (Q163+, V154+, AW4.0+) |
+    | **English** | IELTS 7.0 (6.5 each section) |
+    | **Duration** | 4 semesters · 120 ECTS · English-taught |
 
-## Overview
+    ---
 
-### Rankings
+    **Why it's here:** The Netherlands' top technical university with strong AI, distributed systems, quantum, and cybersecurity research. Well-structured programmes with excellent thesis opportunities and good industry connections (ASML, Booking.com, Philips). The DSAI programme has a strong AI engineering focus.
 
-- One of Europe's leading technical universities
-- Top 15 globally for Engineering and Technology
-- Strong international reputation in Computer Science, AI, Data Science, Engineering, and Robotics
+    **Programmes:** Computer Science · DSAI
 
-### Tuition
+    **Watch out:** Very expensive (€22–25K/year). Van Effen scholarship (full ride) is extremely competitive. GRE benchmarks are high. Min 75% CGPA enforced.
 
-- **Non-EU/EFTA (2025-2026):** €22,290/year (MSc institutional fee)
-- **Non-EU/EFTA (2026-2027):** €25,633/year
-- **EU/EFTA (2025-2026):** €2,601/year
-- **Total estimated cost (2 years, Non-EU, 2026-2027 start):** ~€51,266
+=== "Detail"
 
-### Programme Duration
+    ## Overview
 
-- All Master's programmes: **2 years (120 EC)**
+    ### Rankings
 
-### Estimated Living Cost
+    - One of Europe's leading technical universities
+    - Top 15 globally for Engineering and Technology
+    - Strong international reputation in Computer Science, AI, Data Science, Engineering, and Robotics
 
-- ~€909/month (student living on own, based on TU Delft survey)
-- €1,100–1,600/month (including all costs)
+    ### Tuition
 
-### Scholarships
+    - **Non-EU/EFTA (2025-2026):** €22,290/year (MSc institutional fee)
+    - **Non-EU/EFTA (2026-2027):** €25,633/year
+    - **EU/EFTA (2025-2026):** €2,601/year
+    - **Total estimated cost (2 years, Non-EU, 2026-2027 start):** ~€51,266
 
-- Justus & Louise van Effen Scholarship (full tuition + living)
-- Holland Scholarship (€5,000 one-time)
-- TU Delft Excellence Scholarships
-- External scholarships
+    ### Programme Duration
 
-### Research Strengths
+    - All Master's programmes: **2 years (120 EC)**
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Distributed Systems
-- Cybersecurity
-- Software Engineering
-- Quantum Computing
-- Robotics
-- Computer Graphics
-- Human-centred AI
+    ### Estimated Living Cost
 
-### Industry Connections
+    - ~€909/month (student living on own, based on TU Delft survey)
+    - €1,100–1,600/month (including all costs)
 
-- ASML
-- Philips
-- Shell
-- Booking.com
-- Microsoft
-- IBM
-- Google
-- Dutch AI ecosystem
+    ### Scholarships
 
----
+    - Justus & Louise van Effen Scholarship (full tuition + living)
+    - Holland Scholarship (€5,000 one-time)
+    - TU Delft Excellence Scholarships
+    - External scholarships
 
-## Target Programs
+    ### Research Strengths
 
-### Computer Science (M.Sc.)
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Distributed Systems
+    - Cybersecurity
+    - Software Engineering
+    - Quantum Computing
+    - Robotics
+    - Computer Graphics
+    - Human-centred AI
 
-| Field | Detail |
-|-------|--------|
-| Duration | 24 months |
-| Credits | 120 EC |
-| Language | English |
-| Start | September |
-| Thesis | Mandatory |
+    ### Industry Connections
 
-#### Themes / Tracks
+    - ASML
+    - Philips
+    - Shell
+    - Booking.com
+    - Microsoft
+    - IBM
+    - Google
+    - Dutch AI ecosystem
 
-- Algorithmics
-- Computer Graphics
-- Computer Systems
-- Cybersecurity
-- Distributed Systems Engineering
-- Information Management
-- Machine Learning Applications Engineering
-- Programming Languages
-- Quantum Computer Science
-- Software Engineering
+    ---
 
-#### Highlights
+    ## Target Programs
 
-- Flexible curriculum with tracks
-- Strong Systems focus
-- AI and ML electives
-- Cybersecurity
-- Distributed Systems
-- Research-oriented
+    ### Computer Science (M.Sc.)
 
----
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 24 months |
+    | Credits | 120 EC |
+    | Language | English |
+    | Start | September |
+    | Thesis | Mandatory |
 
-### Data Science and Artificial Intelligence Technology (M.Sc.)
+    #### Themes / Tracks
 
-| Field | Detail |
-|-------|--------|
-| Duration | 24 months |
-| Credits | 120 EC |
-| Language | English |
-| Start | September |
+    - Algorithmics
+    - Computer Graphics
+    - Computer Systems
+    - Cybersecurity
+    - Distributed Systems Engineering
+    - Information Management
+    - Machine Learning Applications Engineering
+    - Programming Languages
+    - Quantum Computer Science
+    - Software Engineering
 
-#### Themes
+    #### Highlights
 
-- Advanced Machine Learning
-- Human-centred AI
-- Probabilistic Decision Making
-- Visual Computing
-- Optimisation and Reasoning
-- Data Information Management
-- Bioinformatics
-- Language & Speech Technology
-- Software Engineering for AI
+    - Flexible curriculum with tracks
+    - Strong Systems focus
+    - AI and ML electives
+    - Cybersecurity
+    - Distributed Systems
+    - Research-oriented
 
-#### Highlights
+    ---
 
-- Strong AI engineering focus
-- Responsible AI
-- Machine Learning
-- Intelligent Systems
-- Software Engineering for AI
+    ### Data Science and Artificial Intelligence Technology (M.Sc.)
 
----
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 24 months |
+    | Credits | 120 EC |
+    | Language | English |
+    | Start | September |
 
-## Admission Requirements
+    #### Themes
 
-### Academic Requirements
+    - Advanced Machine Learning
+    - Human-centred AI
+    - Probabilistic Decision Making
+    - Visual Computing
+    - Optimisation and Reasoning
+    - Data Information Management
+    - Bioinformatics
+    - Language & Speech Technology
+    - Software Engineering for AI
 
-- Bachelor's degree from a **research university**
-- Minimum CGPA: **75%** (Indian grading system)
-- Degree closely related to the chosen MSc programme
-- Strong performance in key subjects
+    #### Highlights
 
-### English Language Requirement
+    - Strong AI engineering focus
+    - Responsible AI
+    - Machine Learning
+    - Intelligent Systems
+    - Software Engineering for AI
 
-- IELTS Academic: **7.0 overall** (minimum 6.5 each section)
-- TOEFL iBT: equivalent
-- Cambridge C1 Advanced / C2 Proficiency
-- Certificate must be less than two years old
+    ---
 
-### GRE
+    ## Admission Requirements
 
-**Required** for:
+    ### Academic Requirements
 
-- Computer Science
-- Data Science and Artificial Intelligence Technology
-- Computer & Embedded Systems Engineering
+    - Bachelor's degree from a **research university**
+    - Minimum CGPA: **75%** (Indian grading system)
+    - Degree closely related to the chosen MSc programme
+    - Strong performance in key subjects
 
-**Competitive scores (benchmarks, not hard minimums for CS/DSAI — applicants below may be rejected):**
+    ### English Language Requirement
 
-- Verbal: 154+
-- Quantitative: 163+
-- Analytical Writing: 4.0+
+    - IELTS Academic: **7.0 overall** (minimum 6.5 each section)
+    - TOEFL iBT: equivalent
+    - Cambridge C1 Advanced / C2 Proficiency
+    - Certificate must be less than two years old
 
-!!! note
-    For Aerospace Engineering these are strict minimums; for CS/DSAI they are competitive benchmarks.
+    ### GRE
 
----
+    **Required** for:
 
-## Application
+    - Computer Science
+    - Data Science and Artificial Intelligence Technology
+    - Computer & Embedded Systems Engineering
 
-### Application Period
+    **Competitive scores (benchmarks, not hard minimums for CS/DSAI — applicants below may be rejected):**
 
-- Applications open: **15 October**
-- **Non-EU/EFTA deadline: 15 January** (for CS, DSAI, and selected programmes)
-- Other programmes: 1 April
+    - Verbal: 154+
+    - Quantitative: 163+
+    - Analytical Writing: 4.0+
 
-### Application Platform
+    !!! note
+        For Aerospace Engineering these are strict minimums; for CS/DSAI they are competitive benchmarks.
 
-- **[TU Delft Application Portal](https://www.tudelft.nl/onderwijs/opleidingen/masters)**
+    ---
 
+    ## Application
 
-### Application Process
+    ### Application Period
 
-1. Apply through TU Delft online portal
-2. Upload all required documents
-3. Submit English language certificate
-4. Complete payment
-5. Receive admission decision
-6. Complete enrollment
+    - Applications open: **15 October**
+    - **Non-EU/EFTA deadline: 15 January** (for CS, DSAI, and selected programmes)
+    - Other programmes: 1 April
 
-### Application Fee
+    ### Application Platform
 
-- **€100**
+    - **[TU Delft Application Portal](https://www.tudelft.nl/onderwijs/opleidingen/masters)**
 
-### Required Documents
 
-**Mandatory:**
+    ### Application Process
 
-- Bachelor's Degree (or degree confirmation)
-- Official Transcript
-- English Language Certificate (IELTS 7.0 / TOEFL)
-- Passport / ID
-- Motivation Letter
-- Curriculum Vitae
-- University Grading System explanation
-- GRE scores (for CS, DSAI)
+    1. Apply through TU Delft online portal
+    2. Upload all required documents
+    3. Submit English language certificate
+    4. Complete payment
+    5. Receive admission decision
+    6. Complete enrollment
 
-**Programme-dependent:**
+    ### Application Fee
 
-- Reference Letters (if applicable)
-- Portfolio (if applicable)
+    - **€100**
 
----
+    ### Required Documents
 
-## Tuition & Costs
+    **Mandatory:**
 
-| Item | Amount |
-|------|--------|
-| Tuition (Non-EU, 2026-2027) | €25,633/year |
-| Tuition (EU, per year) | €2,601 |
-| Total tuition (2 years, Non-EU) | ~€48,000–51,000 |
-| Application fee | €100 |
-| Living costs | ~€909–1,600/month |
-| Textbooks | €250–750/year |
+    - Bachelor's Degree (or degree confirmation)
+    - Official Transcript
+    - English Language Certificate (IELTS 7.0 / TOEFL)
+    - Passport / ID
+    - Motivation Letter
+    - Curriculum Vitae
+    - University Grading System explanation
+    - GRE scores (for CS, DSAI)
 
-!!! warning "Cost"
-    TU Delft is one of the most expensive options for non-EU students. MSc fees are significantly higher than BSc fees.
+    **Programme-dependent:**
 
----
+    - Reference Letters (if applicable)
+    - Portfolio (if applicable)
 
-## Scholarships
+    ---
 
-### Justus & Louise van Effen Scholarship
+    ## Tuition & Costs
 
-- Full tuition fee waiver + monthly living allowance
-- For outstanding non-EU/EFTA students
-- Highly competitive
+    | Item | Amount |
+    |------|--------|
+    | Tuition (Non-EU, 2026-2027) | €25,633/year |
+    | Tuition (EU, per year) | €2,601 |
+    | Total tuition (2 years, Non-EU) | ~€48,000–51,000 |
+    | Application fee | €100 |
+    | Living costs | ~€909–1,600/month |
+    | Textbooks | €250–750/year |
 
-### Holland Scholarship
+    !!! warning "Cost"
+        TU Delft is one of the most expensive options for non-EU students. MSc fees are significantly higher than BSc fees.
 
-- €5,000 (one-time grant)
-- For non-EU/EFTA students
-- Apply during admission
+    ---
 
-### TU Delft Excellence Scholarships
+    ## Scholarships
 
-- Various programme-specific scholarships
-- Merit-based
+    ### Justus & Louise van Effen Scholarship
 
----
+    - Full tuition fee waiver + monthly living allowance
+    - For outstanding non-EU/EFTA students
+    - Highly competitive
 
-## Research
+    ### Holland Scholarship
 
-### Major Research Areas
+    - €5,000 (one-time grant)
+    - For non-EU/EFTA students
+    - Apply during admission
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Distributed Systems
-- Cybersecurity
-- Software Engineering
-- Computer Graphics
-- Quantum Computing
-- Robotics
-- Human-centred AI
+    ### TU Delft Excellence Scholarships
 
-### Key Research Groups
+    - Various programme-specific scholarships
+    - Merit-based
 
-- Web Information Systems (WIS)
-- Algorithm Design (AD)
-- Distributed Systems (DS)
-- Software Engineering Research Group (SERG)
-- Multimedia Computing Group
-- Cybersecurity Group
-- Intelligent Systems Department
-- Pattern Recognition & Bioinformatics
+    ---
 
----
+    ## Research
 
-## Career
+    ### Major Research Areas
 
-### Industry Partners
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Distributed Systems
+    - Cybersecurity
+    - Software Engineering
+    - Computer Graphics
+    - Quantum Computing
+    - Robotics
+    - Human-centred AI
 
-- ASML, Philips, Shell, Booking.com
-- Microsoft, IBM, Google
-- Dutch tech ecosystem (especially The Hague / Rotterdam / Amsterdam corridor)
+    ### Key Research Groups
 
-### PhD Opportunities
+    - Web Information Systems (WIS)
+    - Algorithm Design (AD)
+    - Distributed Systems (DS)
+    - Software Engineering Research Group (SERG)
+    - Multimedia Computing Group
+    - Cybersecurity Group
+    - Intelligent Systems Department
+    - Pattern Recognition & Bioinformatics
 
-- Strong pathway into doctoral studies
-- TU Delft Graduate School
-- Research assistant positions available
+    ---
 
----
+    ## Career
 
-## Notes & Sources
+    ### Industry Partners
 
-=== "Notes"
+    - ASML, Philips, Shell, Booking.com
+    - Microsoft, IBM, Google
+    - Dutch tech ecosystem (especially The Hague / Rotterdam / Amsterdam corridor)
 
-    - TU Delft is very expensive for non-EU students (€25,633/year for 2026-2027 — ~€50,000+ total).
-    - GRE is required and competitive scores expected (Q163+, V154+, AW4.0+) — these are benchmarks, not hard minimums.
-    - 15 January deadline is early — same window as KTH and Aalto.
-    - IELTS requirement is high (7.0 overall, 6.5 per section).
-    - The 75% CGPA minimum is explicitly stated — below this, application will be rejected.
-    - Van Effen Scholarship is the key full-ride option but extremely competitive.
-    - Strong Systems + AI programmes. Good if you want ML Engineering / Software Engineering for AI.
-    - Delft is affordable compared to Amsterdam but less lively.
+    ### PhD Opportunities
 
-=== "Sources"
+    - Strong pathway into doctoral studies
+    - TU Delft Graduate School
+    - Research assistant positions available
 
-    - [Tuition fees](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment/tuition-and-fees)
-    - [Master's admissions](https://www.tudelft.nl/onderwijs/opleidingen/masters)
-    - [Computer Science MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science)
-    - [DSAI MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait)
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - TU Delft is very expensive for non-EU students (€25,633/year for 2026-2027 — ~€50,000+ total).
+        - GRE is required and competitive scores expected (Q163+, V154+, AW4.0+) — these are benchmarks, not hard minimums.
+        - 15 January deadline is early — same window as KTH and Aalto.
+        - IELTS requirement is high (7.0 overall, 6.5 per section).
+        - The 75% CGPA minimum is explicitly stated — below this, application will be rejected.
+        - Van Effen Scholarship is the key full-ride option but extremely competitive.
+        - Strong Systems + AI programmes. Good if you want ML Engineering / Software Engineering for AI.
+        - Delft is affordable compared to Amsterdam but less lively.
+
+    === "Sources"
+
+        - [Tuition fees](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment/tuition-and-fees)
+        - [Master's admissions](https://www.tudelft.nl/onderwijs/opleidingen/masters)
+        - [Computer Science MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science)
+        - [DSAI MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait)

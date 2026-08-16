@@ -8,364 +8,381 @@ tags:
 
 > **Country:** Germany | **Tier:** Dream
 
+=== "Crux"
 
----
-
-## Overview
-
-### Rankings
-
-- One of Germany's leading technical universities (University of Excellence)
-- Strong international reputation in Engineering, Computer Science, Mathematics, and Data Science
-- Member of the TU9 alliance of leading German technical universities
-
-### Tuition
-
-- **No tuition fees** for any students (including non-EU international students)
-- **Semester contribution:** ~€340/semester (includes Deutschlandticket for public transport across Germany)
-- **No application fee**
+    | | |
+    |---|---|
+    | **Cost** | Free tuition · €850–1,200/mo |
+    | **Deadline** | 1 March |
+    | **GRE** | Required for Data Science only (Q>75th, V>15th, AW≥3.5) |
+    | **English** | English cert required (MOI not accepted) |
+    | **Duration** | 4 semesters · 120 ECTS · English-taught |
 
-### Estimated Living Cost
-
-- €850–1,200/month (Aachen is relatively affordable compared to Munich or Frankfurt)
+    ---
 
-### Scholarships
+    **Why it's here:** Tuition-free Dream-tier with Germany's largest technical university behind it. Strong HPC, distributed systems, and ML research, plus a direct partnership with Jülich Supercomputing Centre. Data Science has open admission and includes a Deutschlandticket. The best free option at this tier.
 
-- DAAD
-- Deutschlandstipendium (€300/month)
-- Heinrich Böll Foundation
-- External scholarships and research funding
-- Research assistantships (HiWi positions)
+    **Programmes:** Data Science · SSE · HCIS · Informatik
 
-### Research Strengths
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
-- Robotics
-- High Performance Computing
-- Distributed Systems
-- Optimization
-- Applied Mathematics
-- Software Engineering
+    **Watch out:** GRE strictly enforced for Data Science (75th percentile quantitative). MOI not accepted for English proof. APS required.
+
+=== "Detail"
+
+    ## Overview
+
+    ### Rankings
 
-### Industry Connections
+    - One of Germany's leading technical universities (University of Excellence)
+    - Strong international reputation in Engineering, Computer Science, Mathematics, and Data Science
+    - Member of the TU9 alliance of leading German technical universities
 
-- Ford Research Center Aachen
-- Bosch
-- Siemens
-- Ericsson
-- Microsoft
-- Fraunhofer Institutes (multiple in Aachen)
-- Forschungszentrum Jülich (supercomputing)
-- RWTH Innovation GmbH
+    ### Tuition
+
+    - **No tuition fees** for any students (including non-EU international students)
+    - **Semester contribution:** ~€340/semester (includes Deutschlandticket for public transport across Germany)
+    - **No application fee**
 
----
+    ### Estimated Living Cost
 
-## Target Programs
+    - €850–1,200/month (Aachen is relatively affordable compared to Munich or Frankfurt)
 
-### Data Science (M.Sc.)
+    ### Scholarships
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 CP |
-| Language | English |
-| Start | Winter or Summer Semester |
-| Thesis | 30 CP |
+    - DAAD
+    - Deutschlandstipendium (€300/month)
+    - Heinrich Böll Foundation
+    - External scholarships and research funding
+    - Research assistantships (HiWi positions)
 
-#### Structure
+    ### Research Strengths
 
-- **Foundational Area:** 44–64 CP
-    - Mandatory: Introduction to Data Science (6 CP), Mathematics of Data Science (9 CP)
-    - Mandatory: Ethics, Technology, and Data (4 CP)
-    - ≥18 CP core courses in Mathematics
-    - ≥18 CP core courses in Computer Science
-    - Elective core courses
-- **Specialisation Area:** 14–22 CP
-    - Computer Science, Mathematics, or Computer Science & Mathematics
-    - Application areas: Business Analytics, Computational Life Science, Physics
-- **Seminar:** 5 CP
-- **Practical Course:** 7 CP
-- **Additional Competences:** 0–12 CP (optional, non-technical or bridge courses)
-- **Master's Thesis:** 30 CP
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Computer Vision
+    - Robotics
+    - High Performance Computing
+    - Distributed Systems
+    - Optimization
+    - Applied Mathematics
+    - Software Engineering
 
-#### Highlights
+    ### Industry Connections
 
-- No pre-defined curriculum — students compose their own schedule
-- Strong mathematical foundation
-- Most elective modules offered in English
-- Thesis can be written in Computer Science, Mathematics, or application fields
-- Open admission (not restricted/NC)
-- Can start in both WS and SS
+    - Ford Research Center Aachen
+    - Bosch
+    - Siemens
+    - Ericsson
+    - Microsoft
+    - Fraunhofer Institutes (multiple in Aachen)
+    - Forschungszentrum Jülich (supercomputing)
+    - RWTH Innovation GmbH
 
-#### Admission (Data Science)
+    ---
 
-- Bachelor's in **Computer Science, Mathematics, Physics, or closely related area**
-- **GRE General Test required** (for non-EU/EEA applicants):
-    - Quantitative Reasoning: above 75th percentile
-    - Verbal Reasoning: above 15th percentile
-    - Analytical Writing: minimum 3.5
-- GRE NOT required for EU/EEA citizens or Bildungsinländer
-- English language certificate required (IELTS Academic, TOEFL, etc.)
-- MOI certificates **generally not accepted**
+    ## Target Programs
 
----
+    ### Data Science (M.Sc.)
 
-### Computer Science / Informatik (M.Sc.)
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 CP |
+    | Language | English |
+    | Start | Winter or Summer Semester |
+    | Thesis | 30 CP |
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 CP |
-| Language | German/English (mixed) |
-| Start | Winter or Summer Semester |
+    #### Structure
 
-#### Admission
+    - **Foundational Area:** 44–64 CP
+        - Mandatory: Introduction to Data Science (6 CP), Mathematics of Data Science (9 CP)
+        - Mandatory: Ethics, Technology, and Data (4 CP)
+        - ≥18 CP core courses in Mathematics
+        - ≥18 CP core courses in Computer Science
+        - Elective core courses
+    - **Specialisation Area:** 14–22 CP
+        - Computer Science, Mathematics, or Computer Science & Mathematics
+        - Application areas: Business Analytics, Computational Life Science, Physics
+    - **Seminar:** 5 CP
+    - **Practical Course:** 7 CP
+    - **Additional Competences:** 0–12 CP (optional, non-technical or bridge courses)
+    - **Master's Thesis:** 30 CP
 
-- Bachelor's in Computer Science or equivalent
-- Application via RWTHonline
-- Deadlines: July 15 (WS) / January 15 (SS) for EU applicants
+    #### Highlights
 
----
+    - No pre-defined curriculum — students compose their own schedule
+    - Strong mathematical foundation
+    - Most elective modules offered in English
+    - Thesis can be written in Computer Science, Mathematics, or application fields
+    - Open admission (not restricted/NC)
+    - Can start in both WS and SS
 
-### Software Systems Engineering (M.Sc.)
+    #### Admission (Data Science)
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 CP |
-| Language | English |
-| Start | Winter Semester |
+    - Bachelor's in **Computer Science, Mathematics, Physics, or closely related area**
+    - **GRE General Test required** (for non-EU/EEA applicants):
+        - Quantitative Reasoning: above 75th percentile
+        - Verbal Reasoning: above 15th percentile
+        - Analytical Writing: minimum 3.5
+    - GRE NOT required for EU/EEA citizens or Bildungsinländer
+    - English language certificate required (IELTS Academic, TOEFL, etc.)
+    - MOI certificates **generally not accepted**
 
-#### Highlights
+    ---
 
-- Fully English-taught
-- Focus on software engineering, systems design, distributed systems
-- No tuition fees
-- New PO 2025 examination regulations
+    ### Computer Science / Informatik (M.Sc.)
 
-#### Admission
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 CP |
+    | Language | German/English (mixed) |
+    | Start | Winter or Summer Semester |
 
-- Non-EU deadline: **1 March** for WS (same as Data Science)
-- GRE may be required (check programme-specific requirements)
-- SSE only starts in Winter Semester (no Summer Semester intake for 1st semester)
+    #### Admission
 
----
+    - Bachelor's in Computer Science or equivalent
+    - Application via RWTHonline
+    - Deadlines: July 15 (WS) / January 15 (SS) for EU applicants
 
-### Human-Centered Intelligent Systems (M.Sc.)
+    ---
 
-| Field | Detail |
-|-------|--------|
-| Duration | 4 semesters |
-| Credits | 120 CP |
-| Language | English |
-| Start | Winter Semester |
+    ### Software Systems Engineering (M.Sc.)
 
-#### Focus
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 CP |
+    | Language | English |
+    | Start | Winter Semester |
 
-- Human-AI interaction
-- Intelligent systems
-- User-centered design
-- AI applications
+    #### Highlights
 
----
+    - Fully English-taught
+    - Focus on software engineering, systems design, distributed systems
+    - No tuition fees
+    - New PO 2025 examination regulations
 
-## Admission Requirements
+    #### Admission
 
-### Academic Requirements
+    - Non-EU deadline: **1 March** for WS (same as Data Science)
+    - GRE may be required (check programme-specific requirements)
+    - SSE only starts in Winter Semester (no Summer Semester intake for 1st semester)
 
-- Bachelor's degree (≥180 ECTS) in Computer Science, Mathematics, Physics, or closely related field
-- Degree from an internationally recognised university-level institution
-- Programme-specific prerequisite profiles (CS, Maths, or Physics background)
+    ---
 
-### GRE (for Data Science — Non-EU/EEA applicants)
+    ### Human-Centered Intelligent Systems (M.Sc.)
 
-- **Quantitative Reasoning:** above 75th percentile
-- **Verbal Reasoning:** above 15th percentile
-- **Analytical Writing:** minimum 3.5
-- Must be submitted before application deadline
-- ETS code for RWTH: **8504**
+    | Field | Detail |
+    |-------|--------|
+    | Duration | 4 semesters |
+    | Credits | 120 CP |
+    | Language | English |
+    | Start | Winter Semester |
 
-### English Language
+    #### Focus
 
-- English language certificate required
-- IELTS Academic accepted
-- TOEFL accepted
-- MOI certificates generally NOT accepted
-- See RWTH language requirements page for accepted tests
+    - Human-AI interaction
+    - Intelligent systems
+    - User-centered design
+    - AI applications
 
-### APS Certificate
+    ---
 
-- Required for Indian applicants (standard for German universities)
+    ## Admission Requirements
 
-### German Language
+    ### Academic Requirements
 
-- Not required for English-taught programmes (Data Science, SSE, HCIS)
+    - Bachelor's degree (≥180 ECTS) in Computer Science, Mathematics, Physics, or closely related field
+    - Degree from an internationally recognised university-level institution
+    - Programme-specific prerequisite profiles (CS, Maths, or Physics background)
 
----
+    ### GRE (for Data Science — Non-EU/EEA applicants)
 
-## Application
+    - **Quantitative Reasoning:** above 75th percentile
+    - **Verbal Reasoning:** above 15th percentile
+    - **Analytical Writing:** minimum 3.5
+    - Must be submitted before application deadline
+    - ETS code for RWTH: **8504**
 
-### Application Period (Non-EU/EEA)
+    ### English Language
 
-| Semester | Opens | Deadline |
-|----------|-------|----------|
-| Winter Semester | December | **1 March** |
-| Summer Semester | June | **1 September** |
+    - English language certificate required
+    - IELTS Academic accepted
+    - TOEFL accepted
+    - MOI certificates generally NOT accepted
+    - See RWTH language requirements page for accepted tests
 
-### Application Period (EU/EEA)
+    ### APS Certificate
 
-| Semester | Period |
-|----------|--------|
-| Winter Semester | June – **15 July** |
-| Summer Semester | December – **15 January** |
+    - Required for Indian applicants (standard for German universities)
 
-!!! note "Planning assumption"
-    Expected to remain similar for 2027 intake. Always verify on official RWTH page.
+    ### German Language
 
-### Application Platform
+    - Not required for English-taught programmes (Data Science, SSE, HCIS)
 
-- **[RWTHonline](https://online.rwth-aachen.de)**
+    ---
 
+    ## Application
 
-### Application Process
+    ### Application Period (Non-EU/EEA)
 
-1. Register on RWTHonline
-2. Start Master's application
-3. Upload all required documents (including GRE)
-4. Submit before deadline (hard deadline — no extensions)
-5. Wait for admission decision (typically by May for March deadline)
-6. Enroll before enrollment deadline
+    | Semester | Opens | Deadline |
+    |----------|-------|----------|
+    | Winter Semester | December | **1 March** |
+    | Summer Semester | June | **1 September** |
 
-### Application Fee
+    ### Application Period (EU/EEA)
 
-- **None** (RWTH does not charge application fees)
+    | Semester | Period |
+    |----------|--------|
+    | Winter Semester | June – **15 July** |
+    | Summer Semester | December – **15 January** |
 
-### Required Documents
+    !!! note "Planning assumption"
+        Expected to remain similar for 2027 intake. Always verify on official RWTH page.
 
-**Mandatory:**
+    ### Application Platform
 
-- Bachelor's Degree Certificate (or provisional)
-- Official Transcript of Records
-- English Language Certificate
-- GRE General Test scores (non-EU/EEA, for Data Science)
-- Passport / ID
-- Module Descriptions document with cover sheet mapping courses to requirements
-- University Grading System explanation
+    - **[RWTHonline](https://online.rwth-aachen.de)**
 
-**Recommended:**
 
-- CV
-- Statement of Purpose / Motivation Letter (if required by programme)
-- APS Certificate (Indian applicants)
+    ### Application Process
 
----
+    1. Register on RWTHonline
+    2. Start Master's application
+    3. Upload all required documents (including GRE)
+    4. Submit before deadline (hard deadline — no extensions)
+    5. Wait for admission decision (typically by May for March deadline)
+    6. Enroll before enrollment deadline
 
-## Tuition & Costs
+    ### Application Fee
 
-| Item | Amount |
-|------|--------|
-| Tuition | **€0** (no tuition fees) |
-| Semester contribution | ~€340/semester |
-| Deutschlandticket | Included in semester contribution |
-| Living costs | €850–1,200/month |
-| Total semester fees (4 semesters) | ~€1,360 |
-| Application fee | €0 |
+    - **None** (RWTH does not charge application fees)
 
----
+    ### Required Documents
 
-## Scholarships
+    **Mandatory:**
 
-### Deutschlandstipendium
+    - Bachelor's Degree Certificate (or provisional)
+    - Official Transcript of Records
+    - English Language Certificate
+    - GRE General Test scores (non-EU/EEA, for Data Science)
+    - Passport / ID
+    - Module Descriptions document with cover sheet mapping courses to requirements
+    - University Grading System explanation
 
-- €300/month
-- Merit-based + social engagement
+    **Recommended:**
 
-### DAAD Scholarships
+    - CV
+    - Statement of Purpose / Motivation Letter (if required by programme)
+    - APS Certificate (Indian applicants)
 
-- Various programmes for international students
+    ---
 
-### Research Assistantships (HiWi)
+    ## Tuition & Costs
 
-- Numerous positions at RWTH chairs/institutes
-- Typically €12–15/hour, up to 19 hours/week
+    | Item | Amount |
+    |------|--------|
+    | Tuition | **€0** (no tuition fees) |
+    | Semester contribution | ~€340/semester |
+    | Deutschlandticket | Included in semester contribution |
+    | Living costs | €850–1,200/month |
+    | Total semester fees (4 semesters) | ~€1,360 |
+    | Application fee | €0 |
 
-### External Foundations
+    ---
 
-- Heinrich Böll Foundation
-- Friedrich Ebert Foundation
-- Konrad Adenauer Foundation
-- Other German foundations via Stiftungsindex
+    ## Scholarships
 
----
+    ### Deutschlandstipendium
 
-## Research
+    - €300/month
+    - Merit-based + social engagement
 
-### Major Research Areas
+    ### DAAD Scholarships
 
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Computer Vision
-- High Performance Computing
-- Optimization
-- Statistical Learning
-- Distributed Systems
-- Software Engineering
-- Robotics
+    - Various programmes for international students
 
-### Key Research Institutes
+    ### Research Assistantships (HiWi)
 
-- RWTH Center for Artificial Intelligence
-- Fraunhofer Institute for Applied Information Technology (FIT)
-- Fraunhofer Institute for Production Technology (IPT)
-- IT Center (computing infrastructure)
-- Forschungszentrum Jülich (partnership — supercomputing, AI)
-- JARA (Jülich-Aachen Research Alliance)
+    - Numerous positions at RWTH chairs/institutes
+    - Typically €12–15/hour, up to 19 hours/week
 
----
+    ### External Foundations
 
-## Career
+    - Heinrich Böll Foundation
+    - Friedrich Ebert Foundation
+    - Konrad Adenauer Foundation
+    - Other German foundations via Stiftungsindex
 
-### Industry Partners
+    ---
 
-- Ford Research Center
-- Bosch
-- Siemens
-- Ericsson
-- Microsoft
-- Fraunhofer Institutes
-- Forschungszentrum Jülich
-- Numerous tech companies in NRW region
+    ## Research
 
-### PhD Opportunities
+    ### Major Research Areas
 
-- Excellent pathway into doctoral studies
-- Structured PhD programmes available
-- Close collaboration with Forschungszentrum Jülich
+    - Machine Learning
+    - Artificial Intelligence
+    - Data Science
+    - Computer Vision
+    - High Performance Computing
+    - Optimization
+    - Statistical Learning
+    - Distributed Systems
+    - Software Engineering
+    - Robotics
 
----
+    ### Key Research Institutes
 
-## Notes & Sources
+    - RWTH Center for Artificial Intelligence
+    - Fraunhofer Institute for Applied Information Technology (FIT)
+    - Fraunhofer Institute for Production Technology (IPT)
+    - IT Center (computing infrastructure)
+    - Forschungszentrum Jülich (partnership — supercomputing, AI)
+    - JARA (Jülich-Aachen Research Alliance)
 
-=== "Notes"
+    ---
 
-    - RWTH is tuition-free — major advantage over TUM for non-EU students.
-    - GRE requirements are strict for Data Science (75th percentile quantitative).
-    - Aachen is significantly cheaper than Munich for living costs.
-    - Semester contribution includes the Deutschlandticket (nationwide public transport).
-    - Data Science programme is "open admission" — not restricted by NC.
-    - Strong partnership with Forschungszentrum Jülich for HPC/AI research.
-    - Multiple relevant Master's programmes: Data Science, SSE, HCIS, and Informatik.
+    ## Career
 
-=== "Sources"
+    ### Industry Partners
 
-    - [Data Science admission](https://sc.informatik.rwth-aachen.de/de/studium/master/master-data-science/application-for-admission/)
-    - [Data Science programme structure](https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/program-structure/)
-    - [Data Science FAQ](https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/faq/)
-    - [SSE programme](https://sc.informatik.rwth-aachen.de/en/studium/master/sse/)
-    - [HCIS programme](https://sc.informatik.rwth-aachen.de/en/studium/master/master-hcis/)
-    - [Master Computer Science](https://sc.informatik.rwth-aachen.de/en/studium/master/informatik/)
-    - [International applications](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Bewerbung-um-einen-Studienplatz/Master-Bewerbung/~dqml/Bewerbung-Master-Internationale/?lidx=1)
+    - Ford Research Center
+    - Bosch
+    - Siemens
+    - Ericsson
+    - Microsoft
+    - Fraunhofer Institutes
+    - Forschungszentrum Jülich
+    - Numerous tech companies in NRW region
+
+    ### PhD Opportunities
+
+    - Excellent pathway into doctoral studies
+    - Structured PhD programmes available
+    - Close collaboration with Forschungszentrum Jülich
+
+    ---
+
+    ## Notes & Sources
+
+    === "Notes"
+
+        - RWTH is tuition-free — major advantage over TUM for non-EU students.
+        - GRE requirements are strict for Data Science (75th percentile quantitative).
+        - Aachen is significantly cheaper than Munich for living costs.
+        - Semester contribution includes the Deutschlandticket (nationwide public transport).
+        - Data Science programme is "open admission" — not restricted by NC.
+        - Strong partnership with Forschungszentrum Jülich for HPC/AI research.
+        - Multiple relevant Master's programmes: Data Science, SSE, HCIS, and Informatik.
+
+    === "Sources"
+
+        - [Data Science admission](https://sc.informatik.rwth-aachen.de/de/studium/master/master-data-science/application-for-admission/)
+        - [Data Science programme structure](https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/program-structure/)
+        - [Data Science FAQ](https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/faq/)
+        - [SSE programme](https://sc.informatik.rwth-aachen.de/en/studium/master/sse/)
+        - [HCIS programme](https://sc.informatik.rwth-aachen.de/en/studium/master/master-hcis/)
+        - [Master Computer Science](https://sc.informatik.rwth-aachen.de/en/studium/master/informatik/)
+        - [International applications](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Bewerbung-um-einen-Studienplatz/Master-Bewerbung/~dqml/Bewerbung-Master-Internationale/?lidx=1)
