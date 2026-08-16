@@ -13,9 +13,44 @@
   font-weight: 600;
 }
 
-/* Cards grid spacing */
+/* Cards grid — subtle border with teal tint */
 .md-typeset .grid.cards > ul > li,
 .md-typeset .grid.cards > ol > li,
 .md-typeset .grid.cards > div {
-  border: 1px solid var(--md-default-fg-color--lightest);
+  border: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 20%, transparent);
+}
+
+/* Card hover — lift with teal glow */
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  border-color: color-mix(in srgb, var(--md-primary-fg-color) 50%, transparent);
+  box-shadow: 0 2px 12px color-mix(in srgb, var(--md-primary-fg-color) 10%, transparent);
+}
+
+/* Tabs — active tab underline pop */
+.md-typeset .tabbed-labels > label.tabbed-alternate--active {
+  border-color: var(--md-accent-fg-color);
+}
+
+/* Admonition accent tweaks — subtle left border glow */
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-width: 3px;
+}
+
+/* Blockquote styling — university header accent */
+.md-typeset blockquote {
+  border-left: 3px solid var(--md-primary-fg-color);
+  padding-left: 1rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Links — slightly brighter on hover */
+.md-typeset a:hover {
+  opacity: 0.85;
+}
+
+/* Navigation tabs — subtle bottom border */
+.md-tabs {
+  border-bottom: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 15%, transparent);
 }
