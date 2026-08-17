@@ -5,7 +5,7 @@ hide:
 
 # Documents & Requirements
 
-> Indian national, CS background · Autumn 2027 intake
+> Indian national, CS background · Autumn 2027 intake · 10 active applications
 
 ---
 
@@ -24,32 +24,29 @@ These documents are needed for **every** application:
 
 ---
 
-## Who Needs What
+## Who Needs What (Active 10)
 
-### APS Certificate (8 universities)
+### APS Certificate (5 universities)
 
 !!! warning "All German universities require APS. Apply early — 4–8 weeks processing."
 
-TUM · RWTH Aachen · KIT · Saarland · Tübingen · Bonn · TU Darmstadt · Freiburg
+Saarland · RWTH Aachen · TU Darmstadt · Tübingen · KIT
 
 ---
 
-### GRE / GATE (6 universities)
+### GRE / GATE (3 universities)
 
 | University | Requirement | Minimums |
 |-----------|-------------|----------|
-| TUM | Required | Q 164, AW 4.0 |
 | RWTH Aachen | Data Science only | Q >75th pct, V >15th pct, AW ≥3.5 |
-| KIT | CS M.Sc. only | V 151, Q 164, AW 4.0 |
-| TU Delft | Required | V 154+, Q 163+, AW 4.0+ |
 | Saarland | Required | No minimum score |
-| Aalto | Macadamia (AG2) | Unverified minimums |
+| KIT | CS M.Sc. only | V 151, Q 164, AW 4.0 |
 
-!!! tip "Safe target: V 155+, Q 166+, AW 4.5"
+!!! tip "Safe target: V 155+, Q 166+, AW 4.5 — one sitting covers all three"
 
 ---
 
-### Recommendation Letters (5 universities)
+### Recommendation Letters (4 universities)
 
 | University | Count | Notes |
 |-----------|-------|-------|
@@ -57,19 +54,18 @@ TUM · RWTH Aachen · KIT · Saarland · Tübingen · Bonn · TU Darmstadt · Fr
 | ETH Zurich | 2 | Mandatory |
 | KTH | 2 | Required |
 | Saarland | 2 | University forms provided |
-| Paris-Saclay | 1 | Or internship evaluation |
 
 ---
 
-### Module Descriptions (4 universities)
+### Module Descriptions (3 universities)
 
-TUM · RWTH Aachen · KIT · Aalto
+RWTH Aachen · KIT · (Aalto if reconsidered)
 
 ---
 
-### Grading System Explanation (4 universities)
+### Grading System Explanation (2 universities)
 
-TUM · RWTH Aachen · KIT · TU Delft
+RWTH Aachen · KIT
 
 ---
 
@@ -79,25 +75,24 @@ TUM · RWTH Aachen · KIT · TU Delft
 |-----------|-----|
 | ETH Zurich | CHF 150 |
 | EPFL | CHF 150 |
-| TU Delft | €100 |
-| Aalto | €100 |
 | KTH | SEK 900 (~€80) |
+
+All German and French universities: **no application fee**.
 
 ---
 
-## English Score Requirements
+## English Score Requirements (Active 10)
 
 **Safe target: IELTS 7.0 or TOEFL 95+** covers all universities.
 
 | University | IELTS | TOEFL iBT | Notes |
 |-----------|-------|-----------|-------|
-| TUM | 6.5 | 88 | MyBest NOT accepted |
 | ETH Zurich | 7.0 | 94 | C1 level |
-| TU Delft | 7.0 (6.5 each) | — | Strict per-section minimums |
-| KTH | 6.5 | — | Relatively lenient |
 | Saarland | 7.0 | 95 | MOI NOT accepted |
-| Bonn | 7.0 | 95 | MOI NOT accepted |
+| KTH | 6.5 | — | Lenient |
+| RWTH Aachen | — | — | English cert, MOI not accepted |
 | Paris-Saclay | — | — | B2 minimum |
+| Others | — | — | English cert required (verify scores) |
 
 ---
 
@@ -105,14 +100,14 @@ TUM · RWTH Aachen · KIT · TU Delft
 
 !!! tip "Start NOW (long lead time)"
     1. **APS Certificate** — 4–8 weeks processing
-    2. **GRE** — study + test + score delivery
+    2. **GRE** — study + test + score delivery (covers RWTH, Saarland, KIT)
     3. **IELTS/TOEFL** — study + test + score delivery
-    4. **Recommendation letters** — approach professors early
+    4. **Recommendation letters** — approach professors early (ETH, EPFL, KTH, Saarland)
 
 !!! info "By October 2026"
     - Transcripts (sealed copies)
     - CV (academic format)
-    - Module descriptions document
+    - Module descriptions document (for RWTH, KIT)
     - Grading system explanation
 
 !!! warning "By November 2026 (earliest deadlines)"
@@ -124,57 +119,49 @@ TUM · RWTH Aachen · KIT · TU Delft
 
 ## Per-University Specifics
 
-=== "Germany"
+=== "Germany (5)"
 
-    **TUM** — GRE/GATE required (QR 164, AW 4.0). IIT grads exempt from GATE. Module descriptions + grading system needed.
+    **Saarland** — GRE required (no minimum score). 2 recommendation letters mandatory (university forms). APS needed. MOI not accepted.
 
-    **RWTH Aachen** — GRE required for Data Science only (Q>75th, V>15th, AW≥3.5). ETS code: 8504. MOI not accepted for English proof.
+    **RWTH Aachen** — GRE for Data Science only (Q>75th, V>15th, AW≥3.5). ETS code: 8504. MOI not accepted. Module descriptions + grading system needed. APS needed.
 
-    **KIT** — GRE required for CS M.Sc. only (V≥151, Q≥164, AW≥4). Not required for CDS.
+    **TU Darmstadt** — No GRE, no recs. APS needed. Lowest friction German application.
 
-    **Saarland** — GRE required (no minimum score). 2 recommendation letters mandatory (university forms provided).
+    **Tübingen** — No GRE, no recs. APS needed. Verify English score requirements.
 
-    **Tübingen, Bonn, TU Darmstadt, Freiburg** — No GRE, no recs explicitly required. APS needed.
+    **KIT** — GRE for CS only (V≥151, Q≥164, AW≥4). Not required for CDS. Module descriptions + grading system. APS needed.
 
-=== "Switzerland"
+=== "Switzerland (2)"
 
     **ETH Zurich** — 2 recommendation letters mandatory. High school certificate required (unique to ETH). CHF 150 fee. ESOP pre-proposal if applying for scholarship.
 
     **EPFL** — 3 academic referees mandatory (submitted via system). GRE optional but welcome. CHF 150 fee. Only 1 programme per year.
 
-=== "Netherlands"
+=== "France (2)"
 
-    **TU Delft** — GRE required (Q163+, V154+, AW4.0+). Grading system explanation required. €100 fee.
+    **Paris-Saclay** — 1 recommendation letter + programme questionnaire + self-evaluation form + course selection sheet. Apply via INCEPTION.
 
-    **TU Eindhoven** — No GRE, no recs. Two-step registration: Studielink + TU/e portal.
+    **IP Paris** — Recommendation letters if requested by programme. No fee.
 
-=== "Sweden & Finland"
+=== "Sweden (1)"
 
     **KTH** — 2 recommendation letters + Programme Summary Sheet. SEK 900 fee. Apply via UniversityAdmissions.se.
 
-    **Aalto** — GRE required for Macadamia (AG2). Course descriptions required. Very short application window (Dec–Jan). €100 fee.
-
-=== "France"
-
-    **Paris-Saclay** — 1 recommendation letter + programme questionnaire + self-evaluation form + course selection sheet.
-
-    **IP Paris** — Recommendation letters if requested. GRE/GMAT only if programme requests.
-
 ---
 
-## Full Matrix
+## Full Matrix (Active 10)
 
 <details markdown>
 <summary>Expand full document x university matrix</summary>
 
-| Document | TUM | RWTH | KIT | ETH | EPFL | Delft | KTH | Aalto | Saclay | IP Paris | Saar | Tüb | Bonn | Darm | Eind | Frei |
-|----------|:---:|:----:|:---:|:---:|:----:|:-----:|:---:|:-----:|:------:|:--------:|:----:|:---:|:----:|:----:|:----:|:----:|
-| APS Certificate | ✓ | ✓ | ✓ | — | — | — | — | — | — | — | ✓ | ✓ | ✓ | ✓ | — | ✓ |
-| GRE/GATE | ✓ | DS | CS | — | — | ✓ | — | Mac | — | — | ✓ | — | — | — | — | — |
-| Rec Letters | — | — | — | 2 | 3 | — | 2 | — | 1 | ? | 2 | — | — | — | — | — |
-| Module Descriptions | ✓ | ✓ | ✓ | — | — | — | — | ✓ | — | — | — | — | — | — | — | — |
-| Grading System | ✓ | ✓ | ✓ | — | — | ✓ | — | — | — | — | — | — | — | — | — | — |
-| High School Cert | — | — | — | ✓ | — | — | — | — | — | — | — | — | — | — | — | — |
-| Application Fee | — | — | — | CHF150 | CHF150 | €100 | SEK900 | €100 | — | — | — | — | — | — | — | — |
+| Document | Saarland | RWTH | Darmstadt | Saclay | Tübingen | IP Paris | ETH | KTH | KIT | EPFL |
+|----------|:--------:|:----:|:---------:|:------:|:--------:|:--------:|:---:|:---:|:---:|:----:|
+| APS Certificate | ✓ | ✓ | ✓ | — | ✓ | — | — | — | ✓ | — |
+| GRE/GATE | ✓ | DS | — | — | — | — | — | — | CS | — |
+| Rec Letters | 2 | — | — | 1 | — | ? | 2 | 2 | — | 3 |
+| Module Descriptions | — | ✓ | — | — | — | — | — | — | ✓ | — |
+| Grading System | — | ✓ | — | — | — | — | — | — | ✓ | — |
+| High School Cert | — | — | — | — | — | — | ✓ | — | — | — |
+| Application Fee | — | — | — | — | — | — | CHF150 | SEK900 | — | CHF150 |
 
 </details>

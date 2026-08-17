@@ -5,7 +5,7 @@ hide:
 
 # Masters Research — Europe 2027
 
-A curated research portfolio for AI/ML Master's programmes in Europe — prepared for advisor review.
+A curated research portfolio for AI/ML Master's programmes in Europe — narrowed to 10 target universities based on scholarship viability, research fit, and admission feasibility.
 
 <div class="grid cards" markdown>
 
@@ -19,7 +19,7 @@ A curated research portfolio for AI/ML Master's programmes in Europe — prepare
 
     ---
 
-    Tiered overview with side-by-side comparison tables
+    10 active targets with cost, deadlines, and strategy
 
 -   **[Documents](documents.md)**
 
@@ -37,7 +37,7 @@ A curated research portfolio for AI/ML Master's programmes in Europe — prepare
 
     ---
 
-    16 detailed profiles — programmes, deadlines, costs, research
+    Detailed profiles — 8 primary + 2 secondary + 6 deprioritised
 
 </div>
 
@@ -47,9 +47,10 @@ A curated research portfolio for AI/ML Master's programmes in Europe — prepare
 
 | | |
 |---|---|
-| **Universities** | 16 across 6 countries |
-| **Tiers** | Dream (6) · Target (6) · Moderate (4) |
-| **Focus** | Research-oriented programmes leading toward a PhD in AI/ML/Systems |
+| **Active applications** | 10 (8 primary + 2 secondary) |
+| **Countries** | Germany (5) · France (2) · Switzerland (2) · Sweden (1) |
+| **Strategy** | 4 near-free + 1 moderate + 2 moonshots + 2 secondaries |
+| **Focus** | Research-oriented, PhD pipeline, funded or affordable |
 | **Intake** | Winter Semester 2027/28 |
 | **Earliest deadline** | ETH Zurich — 30 November 2026 |
 
@@ -57,7 +58,7 @@ A curated research portfolio for AI/ML Master's programmes in Europe — prepare
 
 ## Feedback requested
 
-- Whether the tier assignments make sense given my profile
-- Any programmes I should prioritise or reconsider
-- Faculty or research groups worth reaching out to
-- Anything I'm missing or underweighting
+- Does the narrowed list make sense given scholarship constraints?
+- Any of the deprioritised universities worth reconsidering?
+- Faculty or research groups worth reaching out to at the 10 targets
+- Anything missing from the application strategy

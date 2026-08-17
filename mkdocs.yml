@@ -83,22 +83,22 @@ nav:
   - Faculty: faculty.md
   - Universities:
     - universities/index.md
-    - Dream:
-      - TUM: universities/tum.md
-      - RWTH Aachen: universities/rwth-aachen.md
-      - KIT: universities/kit.md
-      - ETH Zurich: universities/eth-zurich.md
-      - EPFL: universities/epfl.md
-      - TU Delft: universities/tu-delft.md
-    - Target:
-      - KTH: universities/kth.md
+    - Primary:
       - Saarland: universities/saarland.md
-      - Tübingen: universities/tuebingen.md
-      - Bonn: universities/bonn.md
+      - RWTH Aachen: universities/rwth-aachen.md
       - TU Darmstadt: universities/tu-darmstadt.md
-      - Eindhoven: universities/eindhoven.md
-    - Moderate:
-      - Aalto: universities/aalto.md
       - Paris-Saclay: universities/paris-saclay.md
+      - Tübingen: universities/tuebingen.md
       - IP Paris: universities/ip-paris.md
+      - ETH Zurich: universities/eth-zurich.md
+      - KTH: universities/kth.md
+    - Secondary:
+      - KIT: universities/kit.md
+      - EPFL: universities/epfl.md
+    - Deprioritised:
+      - TUM: universities/tum.md
+      - TU Delft: universities/tu-delft.md
+      - Bonn: universities/bonn.md
+      - Eindhoven: universities/eindhoven.md
+      - Aalto: universities/aalto.md
       - Freiburg: universities/freiburg.md

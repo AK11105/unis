@@ -5,146 +5,123 @@ hide:
 
 # Shortlist Overview
 
-## Tier Distribution
+Narrowed to **10 universities** based on scholarship viability, research fit, and realistic admission odds. Optimising for: strong research in AI/ML/Systems, PhD pipeline, and affordable or fully-funded paths.
 
-=== "Dream"
+---
 
-    World-class universities. Apply regardless of competitiveness.
+## Active Applications
 
-    **[TUM](universities/tum.md)** · Germany
-    :   Informatics / DEA / CSE · €16–24K total · Deadline Feb–May · GRE required
+=== "Primary (8)"
 
-    **[RWTH Aachen](universities/rwth-aachen.md)** · Germany
-    :   Data Science / SSE / HCIS · **Tuition-free** · Deadline 1 March · GRE for DS only
-
-    **[KIT](universities/kit.md)** · Germany
-    :   Computer Science / CDS · ~€6.7K total · Deadline 15 Jun/Jul · GRE for CS only
-
-    **[ETH Zurich](universities/eth-zurich.md)** · Switzerland
-    :   Computer Science / Data Science · ~€9.2K total · Deadline **1–30 Nov 2026** · No GRE
-
-    **[EPFL](universities/epfl.md)** · Switzerland
-    :   CS / Data Science / Cybersecurity · ~CHF 9K total · Deadline **15 Dec** / 31 Mar · GRE optional
-
-    **[TU Delft](universities/tu-delft.md)** · Netherlands
-    :   Computer Science / DSAI · €48–51K total · Deadline 15 January · GRE required
-
-=== "Target"
-
-    Excellent research universities — strong fit, comparatively more attainable.
-
-    **[KTH](universities/kth.md)** · Sweden
-    :   CS / ML / Cybersecurity · ~€31K total · Deadline 15 January · No GRE
+    Core list. Strong scholarship support, attainable with effort, excellent research fit.
 
     **[Saarland](universities/saarland.md)** · Germany
-    :   CS / Data Science & AI · **Tuition-free** · Deadline 15 May · GRE required (no min)
+    :   Free tuition · €700–1,000/mo · HiWi at Max Planck/CISPA/DFKI · AI, ML, Security, NLP
 
-    **[Tübingen](universities/tuebingen.md)** · Germany
-    :   Machine Learning · ~€6.7K total · Deadline 30 April · No GRE
-
-    **[Bonn](universities/bonn.md)** · Germany
-    :   Computer Science · **Tuition-free** · Deadline ~Apr–May · No GRE
+    **[RWTH Aachen](universities/rwth-aachen.md)** · Germany
+    :   Free tuition · €850–1,200/mo · Deutschlandstipendium + HiWi · ML, HPC, Distributed Systems
 
     **[TU Darmstadt](universities/tu-darmstadt.md)** · Germany
-    :   AI & ML / Computer Science · **Tuition-free** · Deadline Jun–Jul · No GRE
-
-    **[Eindhoven](universities/eindhoven.md)** · Netherlands
-    :   Data Science & AI / CS & Engineering · ~€43–44K total · Deadline 1 May · No GRE
-
-=== "Moderate"
-
-    Strong programmes with good research — safer options with excellent value.
-
-    **[Aalto](universities/aalto.md)** · Finland
-    :   CS / Macadamia (ML/DS/AI) · €34–40K total · Deadline Dec–Jan · GRE for Macadamia
+    :   Free tuition · €850–1,200/mo · No GRE, no recs, latest deadline · AI/ML, NLP, Security
 
     **[Paris-Saclay](universities/paris-saclay.md)** · France
-    :   M.Sc. CS (AI Track) · **~€508 total** · Deadline Jan–Mar · No GRE
+    :   €254/year · €10K/yr scholarship attainable · CNRS/INRIA · Only 25 students · AI, RL, NLP
+
+    **[Tübingen](universities/tuebingen.md)** · Germany
+    :   ~€6.7K total · Cyber Valley grants · Best ML ecosystem in Europe · No GRE
 
     **[IP Paris](universities/ip-paris.md)** · France
-    :   AI / CS / Math for AI · **~€508 total** · Deadline Autumn–Mar · No GRE
+    :   €254/year · PhD Track = guaranteed doctoral funding · Polytechnique + Télécom Paris
 
-    **[Freiburg](universities/freiburg.md)** · Germany
-    :   Computer Science · ~€6.8K total · Deadline 31 May · No GRE
+    **[ETH Zurich](universities/eth-zurich.md)** · Switzerland
+    :   ~€9.2K or fully funded (ESOP) · Top 10 globally · Moonshot but ESOP changes everything
+
+    **[KTH](universities/kth.md)** · Sweden
+    :   India Scholarship = full tuition + living · No GRE · ML, Cybersecurity, HPC
+
+=== "Secondary (2)"
+
+    Strong options kept in play. Apply if bandwidth allows.
+
+    **[KIT](universities/kit.md)** · Germany
+    :   ~€6.7K total · Late deadline (Jun/Jul) · CDS open admission · AI, ML, HPC, Robotics
+
+    **[EPFL](universities/epfl.md)** · Switzerland
+    :   ~CHF 9K total · Excellence Fellowship CHF 40–60K · High risk/high reward · AI/ML, Robotics
+
+=== "Deprioritised"
+
+    Not deleted — still good universities. Deprioritised due to cost, rejection odds, or weaker scholarship paths.
+
+    | University | Reason |
+    |-----------|--------|
+    | TU Delft | €48–51K total, Van Effen nearly impossible |
+    | Eindhoven | €43–44K total, scholarships partial at best |
+    | Aalto | €34–40K, scholarship covers tuition only, short window |
+    | Bonn | >99% rejection for Indian applicants |
+    | TUM | €16–24K + Munich costs, scholarship minimal (€500–1800/sem) |
+    | Freiburg | Nothing exceptional that Tübingen/Darmstadt don't cover better |
 
 ---
 
-## Cost Overview
+## Cost Overview (Active 10)
 
-| University | Tuition (2 yr total) | Living Cost/mo | Key Scholarship |
-|-----------|---------------------|----------------|-----------------|
-| RWTH Aachen | **€0** | €850–1,200 | Deutschlandstipendium |
-| Saarland | **€0** | €700–1,000 | HiWi at Max Planck/CISPA |
-| Bonn | **€0** | €800–1,100 | Deutschlandstipendium |
-| TU Darmstadt | **€0** | €850–1,200 | Deutschlandstipendium |
-| Paris-Saclay | ~€508 | €900–1,300 | €10K/yr + travel |
-| IP Paris | ~€508 | €900–1,300 | PhD Track + Eiffel |
-| KIT | ~€6.7K | €850–1,200 | Deutschlandstipendium |
-| Tübingen | ~€6.7K | €800–1,100 | Cyber Valley grants |
-| Freiburg | ~€6.8K | €800–1,100 | BW Scholarship |
-| ETH Zurich | ~€9.2K | CHF 1,700–2,200 | ESOP (full + CHF 12K/sem) |
-| EPFL | ~CHF 9K | CHF 1,700–2,500 | Excellence Fellowship 40–60K |
-| TUM | €16–24K | €1,300–2,000 | TUM Intl Scholarship |
-| KTH | ~€31K | SEK 10–13K | KTH India (full + living) |
-| Aalto | €34–40K | €900–1,300 | Excellence (tuition waiver) |
-| Eindhoven | ~€43–44K | €900–1,300 | TU/e + Holland + ASML |
-| TU Delft | €48–51K | €900–1,600 | Van Effen (full) |
+| University | Net Cost (realistic) | Scholarship Story |
+|-----------|---------------------|-------------------|
+| Paris-Saclay | ~€508 total | €10K/yr scholarship attainable |
+| IP Paris | ~€508 total | PhD Track funding |
+| Saarland | ~€1.6K fees only | Free + HiWi income |
+| RWTH Aachen | ~€1.4K fees only | Free + HiWi income |
+| TU Darmstadt | ~€1.2K fees only | Free + HiWi income |
+| Tübingen | ~€6.7K total | Cyber Valley grants |
+| KIT | ~€6.7K total | Deutschlandstipendium + HiWi |
+| EPFL | ~CHF 9K or free | Excellence Fellowship (competitive) |
+| ETH Zurich | ~€9.2K or free | ESOP = full ride (top 3–5%) |
+| KTH | Free if India Scholarship | Full tuition + living allowance |
 
 ---
 
-## Deadlines & Admissions
+## Deadlines (Active 10, chronological)
 
 | University | Deadline | GRE | English |
 |-----------|----------|-----|---------|
 | ETH Zurich | **1–30 Nov 2026** | Optional | IELTS 7.0 / TOEFL 94 |
 | EPFL | **15 Dec** / 31 Mar | Optional | Excellent English |
-| Aalto | Dec–Jan | Yes (Macadamia) | English cert |
-| TU Delft | 15 January | Yes (Q163+) | IELTS 7.0 |
 | KTH | 15 January | No | IELTS 6.5 |
-| TUM | Feb–May | Yes (Q164, AW4.0) | TOEFL 88 / IELTS 6.5 |
-| RWTH Aachen | 1 March | Yes (DS only) | English cert |
-| IP Paris | Autumn–Mar | Optional | English cert |
 | Paris-Saclay | Jan–Mar | Optional | B2 English |
+| IP Paris | Autumn–Mar | Optional | English cert |
 | Tübingen | 30 April | No | English cert |
-| Bonn | ~Apr–May | No | IELTS 7.0 / TOEFL 95 |
 | Saarland | 15 May | Yes (no min) | IELTS 7.0 / TOEFL 95 |
-| Eindhoven | 1 May | No | IELTS 6.5–7.0 |
-| Freiburg | 31 May | No | English cert |
-| KIT | 15 Jun/Jul | Yes (CS) | B2 English |
+| KIT | 15 Jun/Jul | Yes (CS only) | B2 English |
 | TU Darmstadt | Jun–Jul | No | English cert |
+| RWTH Aachen | 1 March | Yes (DS only) | English cert |
 
 ---
 
-## Research Strengths
+## Research Fit (Active 10)
 
 | University | Key Areas |
 |-----------|-----------|
-| TUM | AI, ML, CV, Robotics, HPC, Data Science |
+| Saarland | AI, ML, Cybersecurity (CISPA), NLP, CV, Formal Methods |
 | RWTH Aachen | ML, AI, HPC, Distributed Systems |
-| KIT | AI, ML, HPC, Robotics, Security, Algorithms |
-| ETH Zurich | AI, ML, CV, Systems, Algorithms, Quantum |
-| EPFL | AI/ML, CV, Robotics, Cybersecurity, Systems |
-| TU Delft | AI, ML, Distributed Systems, Quantum |
-| KTH | AI, ML, Cybersecurity, HPC |
-| Saarland | AI, ML, Cybersecurity (CISPA), NLP, CV |
-| Tübingen | ML (world-class), Deep Learning, Causal Inference, RL |
-| Bonn | CV, ML, Robotics, Autonomous Systems |
-| TU Darmstadt | AI/ML, NLP (UKP Lab), Cybersecurity |
-| Eindhoven | Data Science, Process Mining, ML |
-| Aalto | AI, ML, HPC, Security, Quantum |
+| TU Darmstadt | AI/ML, NLP (UKP Lab), Cybersecurity (CYSEC) |
 | Paris-Saclay | AI, ML, DL, RL, NLP, Generative AI |
+| Tübingen | ML (world-class), Deep Learning, Causal Inference, RL, CV |
 | IP Paris | AI, ML, Optimization, Mathematics |
-| Freiburg | Robotics, RL, AutoML, CV |
+| ETH Zurich | AI, ML, CV, Systems, Algorithms, Quantum |
+| KTH | AI, ML, Cybersecurity, HPC, Distributed Systems |
+| KIT | AI, ML, HPC, Robotics, Security, Algorithms |
+| EPFL | AI/ML, CV, Robotics, Cybersecurity, Systems |
 
 ---
 
 ## Key Observations
 
-!!! note "Best value"
-    **Saarland** and **RWTH Aachen** — world-class research with zero tuition and cheap living. Paris-Saclay and IP Paris at ~€254/year are remarkably affordable.
+!!! note "Strategy"
+    4 near-free German/French options with zero financial risk, 1 moderately priced with Europe's best ML ecosystem, 2 moonshots with life-changing scholarships, and 2 secondaries if bandwidth allows.
 
 !!! warning "Early deadlines"
-    **ETH Zurich** (November 2026) and **EPFL** (December Round 1) require applications months before others. Plan accordingly.
+    **ETH Zurich** (November 2026) and **EPFL** (December) require applications months before others. Prepare these first even though they're moonshots.
 
-!!! info "GRE strategy"
-    Required for TUM, RWTH (DS), KIT (CS), TU Delft, Saarland, and Aalto. A strong GRE covers most Dream-tier applications.
+!!! info "GRE"
+    Only needed for Saarland (no min), RWTH (DS only), and KIT (CS only). A single GRE sitting covers all three.
