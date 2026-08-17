@@ -3,43 +3,27 @@ hide:
   - toc
 ---
 
-# Masters Research — Europe 2027
+# Masters Shortlist — Europe 2027/28
 
-A curated research portfolio for AI/ML Master's programmes in Europe — narrowed to 10 target universities based on scholarship viability, research fit, and admission feasibility.
+## Primary (8)
 
-<div class="grid cards" markdown>
+| University | Country | Tuition | Deadline | Top Faculty | Strategy/Notes |
+|---|---|---|---|---|---|
+| [Saarland](universities/saarland.md) | Germany | Free | 15 May | Schiele, Lenssen | HiWi at MPI/CISPA/DFKI |
+| [RWTH Aachen](universities/rwth-aachen.md) | Germany | Free | 1 March | Geffner | HiWi income |
+| [TU Darmstadt](universities/tu-darmstadt.md) | Germany | Free | Jun-Jul | Peters, Chalvatzaki, Roth | No GRE, no recs, latest deadline |
+| [KIT](universities/kit.md) | Germany | EUR1500/sem | 15 Jun/Jul | Neumann, Zollner | Late deadline, CDS open admission |
+| [Tubingen](universities/tuebingen.md) | Germany | EUR1500/sem | 30 April | Brendel, Geiger, Butz, Martius | Best ML ecosystem in Europe |
+| [IP Paris](universities/ip-paris.md) | France | EUR254/yr | Autumn-Mar | Messaoud, Kalogeiton, Um | PhD Track = doctoral funding |
+| [ETH Zurich](universities/eth-zurich.md) | Switzerland | CHF 2190/sem | 1-30 Nov 2026 | Yu, Krause | ESOP moonshot |
+| [KTH](universities/kth.md) | Sweden | SEK 155K/yr (free if scholarship) | 15 January | Kragic, Azizpour | India Scholarship = full ride |
 
--   **[Profile](profile.md)**
+## Secondary (2)
 
-    ---
-
-    Research interests, academic goals, selection criteria
-
--   **[Shortlist](shortlist.md)**
-
-    ---
-
-    10 active targets with cost, deadlines, and strategy
-
--   **[Documents](documents.md)**
-
-    ---
-
-    Tests, recs, fees, timelines — what's needed per university
-
--   **[Faculty](faculty.md)**
-
-    ---
-
-    Research group and advisor matching *(in progress)*
-
--   **[Universities](universities/index.md)**
-
-    ---
-
-    Detailed profiles — 8 primary + 2 secondary + 6 deprioritised
-
-</div>
+| University | Country | Tuition | Deadline | Top Faculty | Strategy/Notes |
+|---|---|---|---|---|---|
+| [Paris-Saclay](universities/paris-saclay.md) | France | EUR254/yr | Jan-Mar | Tami | Only 25 spots globally |
+| [EPFL](universities/epfl.md) | Switzerland | CHF 780/sem | 15 Dec / 31 Mar | Alahi, Zamir | Excellence Fellowship moonshot |
 
 ---
 
@@ -48,17 +32,8 @@ A curated research portfolio for AI/ML Master's programmes in Europe — narrowe
 | | |
 |---|---|
 | **Active applications** | 10 (8 primary + 2 secondary) |
-| **Countries** | Germany (5) · France (2) · Switzerland (2) · Sweden (1) |
-| **Strategy** | 4 near-free + 1 moderate + 2 moonshots + 2 secondaries |
+| **Countries** | Germany (6), France (2), Switzerland (2), Sweden (1) |
+| **Strategy** | 5 near-free + 1 moderate + 1 moonshot + 2 secondaries |
 | **Focus** | Research-oriented, PhD pipeline, funded or affordable |
 | **Intake** | Winter Semester 2027/28 |
-| **Earliest deadline** | ETH Zurich — 30 November 2026 |
-
----
-
-## Feedback requested
-
-- Does the narrowed list make sense given scholarship constraints?
-- Any of the deprioritised universities worth reconsidering?
-- Faculty or research groups worth reaching out to at the 10 targets
-- Anything missing from the application strategy
+| **Earliest deadline** | ETH Zurich - 30 November 2026 |

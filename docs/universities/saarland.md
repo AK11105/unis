@@ -20,11 +20,107 @@ tags:
 
     ---
 
-    **Why it's here:** The best value-to-research ratio on this entire list. Zero tuition in Germany's cheapest university city, with direct access to Max Planck, CISPA, and DFKI — all co-located on one campus. World-class in AI, ML, cybersecurity, and NLP. Purpose-built for PhD-bound students who prioritize research over city life.
+    **Faculty fit:**
 
-    **Programmes:** CS · Data Science & AI · Math & CS
+    - **Bernt Schiele** (Tier 1) - Self-supervised visual representation learning, VLMs, generative models (MPI-INF)
+    - **Jan Eric Lenssen** (Tier 1) - Geometric & 3D representation learning, variational latent models (MPI-INF)
+    - **Isabel Valera** (Tier 2) - Latent-variable models, variational inference, probabilistic ML
 
-    **Watch out:** C1 English strict (MOI not accepted). CGPA ≥75% + top 10% required. 2 recommendation letters mandatory.
+    ---
+
+    **Verdict:** Best value-to-research ratio. Zero tuition, world-class labs (MPI + CISPA + DFKI), strong representation learning faculty.
+
+    **Watch out:** IELTS 7.0 strict (MOI not accepted). CGPA 75% + top 10% required.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | HiWi (research assistant) | EUR 400-500/mo | Living | Realistic | Part-time at MPI/CISPA/DFKI; high demand for ML students |
+    | Deutschlandstipendium | EUR 300/mo (12 months) | Living | Realistic | Merit-based; strong profile needed |
+    | CISPA Excellence Program | ~EUR 1,000/mo (12+ months) | Living | Competitive | Standout opportunity for security/ML intersection |
+    | DAAD GSSP | EUR 992/mo | Living | Competitive | National-level competition |
+    | Heinrich Boll Foundation | EUR 934/mo | Living | Competitive | No German required; accessible for Indians |
+    | Saarland Merit Award | Varies | Living | Realistic | Automatic consideration upon admission |
+
+    ---
+
+    **Best strategy:** HiWi at MPI/CISPA is the most reliable income source - positions are abundant on campus and nearly cover full living costs in tuition-free Saarland.
+
+    **Sources:** [Saarland University Scholarships](https://www.uni-saarland.de/en/study/funding.html), [DAAD Scholarship Database](https://www.daad.de/en/study-and-research-in-germany/scholarships/), [CISPA Careers](https://cispa.de/en/jobs), [Deutschlandstipendium](https://www.deutschlandstipendium.de/en/)
+
+=== "Faculty"
+
+    ### [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/)
+
+    **Tier 1** | Computer Vision and Machine Learning (D2), MPI-INF
+
+    Self-supervised visual representation learning, vision-language models, and generative models. Co-Director of VIA Center (Google partnership). Active on zero-shot learning via learned visual representations.
+
+    ---
+
+    ### [Jan Eric Lenssen](https://geometric-rl.mpi-inf.mpg.de/)
+
+    **Tier 1** | Geometric Representation Learning, MPI-INF
+
+    3D representation learning, variational latent models, implicit neural fields. Emmy Noether group (EUR1.9M) on spatial modeling. Recent work on latentSplat - learning variational 3D representations from views.
+
+    ---
+
+    ### [Isabel Valera](https://machinelearning.uni-saarland.de/)
+
+    **Tier 2** | Probabilistic Machine Learning Group
+
+    Latent-variable models, variational inference, probabilistic generative models. Recent work on Temporal Variational Implicit Neural Representations.
+
+    ---
+
+    ### [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)
+
+    **Tier 2** | Visual Computing and AI (D6), MPI-INF
+
+    Neural scene representations, neural rendering, learned visual synthesis. Founding Director of VIA Center.
+
+    ---
+
+    ### [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/)
+
+    **Tier 2** | Real Virtual Humans, MPI-INF
+
+    Neural implicit representations of humans, 3D generative body models, human motion generation. Note: primary affiliation may have shifted to Tubingen.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 350–500 |
+    | Food / groceries | EUR 200–280 |
+    | Health insurance | EUR 150 |
+    | Transport | Included (Deutschlandticket in semester fee) |
+    | Miscellaneous | EUR 100–150 |
+    | **Monthly total** | **EUR 800–1,080** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | EUR 0 |
+    | Semester fees | EUR 412/semester |
+    | **Total fees (2 years)** | **EUR 1,648** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 19,200 | EUR 25,920 |
+    | Tuition + fees | EUR 1,648 | EUR 1,648 |
+    | **Grand total** | **EUR 20,848** | **EUR 27,568** |
+
+    ---
+
+    **Sources:** Studierendenwerk Saarland, MLP Studentenwohnreport 2025, Numbeo Saarbrucken, TK/AOK statutory insurance rates 2025, Saarland University semester fee schedule.
 
 === "Detail"
 

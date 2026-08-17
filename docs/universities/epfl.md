@@ -20,11 +20,104 @@ tags:
 
     ---
 
-    **Why it's here:** Top 15 globally for CS with exceptional AI/ML, robotics, and cybersecurity research. The Excellence Fellowship is generous (CHF 40–60K) and the PhD pipeline is strong. Beautiful Lausanne campus, reformed curriculum since 2025. You only get one programme per year — choose wisely.
+    **Faculty fit:**
 
-    **Programmes:** Computer Science · Data Science · Cybersecurity
+    - **Alexandre Alahi** (Tier 1) - Driving world models (CVPR 2026), 'AI must learn to imagine and simulate futures'
+    - **Amir Zamir** (Tier 1) - Multimodal representation learning, 4M/4M-21, video tokenization (ICML 2026)
+    - **Pascal Fua** (Tier 2) - Neural implicit 3D representations, self-supervised shape modeling
 
-    **Watch out:** Round 1 strongly advised for visa. 3 referees mandatory (not 2). Only 1 programme per application cycle. Switzerland living costs.
+    ---
+
+    **Verdict:** Two world-class Tier 1 researchers. Excellence Fellowship (CHF 40-60K) if competitive. Strong PhD pipeline.
+
+    **Watch out:** December deadline (second earliest). Fellowship is highly competitive. Swiss costs without funding.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | Excellence Fellowship | CHF 1,680/mo + tuition waiver (2 years) | Both | Long-shot | ~50-80 awards; top applicants only; reserved housing included |
+    | Master Fellowship | Smaller amounts | Living | Competitive | Various criteria |
+    | ESKAS (Swiss Government) | Varies | Both | Competitive | For students from developing countries |
+
+    ---
+
+    **Best strategy:** Excellence Fellowship is the make-or-break. Without it, Lausanne living costs are brutal (CHF 38-57K total). Apply with strongest possible profile - the fellowship transforms EPFL from unaffordable to fully supported.
+
+    **Sources:** [EPFL Excellence Fellowship](https://www.epfl.ch/education/studies/en/financing-your-studies/scholarships-grants/master-excellence-fellowships/), [EPFL Financial Aid](https://www.epfl.ch/education/studies/en/financing-your-studies/), [ESKAS](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html)
+
+=== "Faculty"
+
+    ### [Alexandre Alahi](https://www.epfl.ch/labs/vita/)
+
+    **Tier 1** | Visual Intelligence for Transportation (VITA)
+
+    Driving world models (MAD, CVPR 2026). Research vision: "AI must learn to imagine, anticipate, and simulate possible futures." Trajectory prediction, video prediction, learned simulators.
+
+    ---
+
+    ### [Amir Zamir](https://vilab.epfl.ch/)
+
+    **Tier 1** | Visual Intelligence and Learning Lab (VILAB)
+
+    Multimodal representation learning (4M/4M-21), self-supervised learning, video tokenization (VideoFlexTok, ICML 2026 Spotlight), embodied/active vision.
+
+    ---
+
+    ### [Pascal Fua](https://cvlab.epfl.ch/)
+
+    **Tier 2** | Computer Vision Laboratory (CVLab)
+
+    Neural implicit 3D representations, self-supervised shape modeling, learned 3D parametrization. Part-based implicit neural representations for shapes.
+
+    ---
+
+    ### [Volkan Cevher](https://www.epfl.ch/labs/lions/)
+
+    **Tier 3** | Laboratory for Information and Inference Systems (LIONS)
+
+    RL theory, optimization for deep learning, adversarial robustness. Relevant theoretical foundations but more general.
+
+    ---
+
+    ### [Martin Jaggi](https://github.com/epfml/OptML_course)
+
+    **Tier 3** | Machine Learning and Optimization (MLO)
+
+    Large-scale ML, distributed optimization, foundation model training. Scalable methods for representation learning.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | CHF 600–1,000 / EUR 560–930 |
+    | Food / groceries | CHF 300–450 / EUR 280–420 |
+    | Health insurance | CHF 110–290 / EUR 100–270 |
+    | Transport (Mobilis zone pass) | CHF 50–85 / EUR 47–79 |
+    | Miscellaneous | CHF 100–200 / EUR 93–185 |
+    | **Monthly total** | **CHF 1,200–2,000 / EUR 1,115–1,860** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | CHF 2,190/semester (EUR 2,040/semester) |
+    | Other fees | CHF 74/semester (EUR 69/semester) |
+    | **Total fees (2 years)** | **CHF 9,056 / EUR 8,430** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | CHF 28,800 / EUR 26,785 | CHF 48,000 / EUR 44,640 |
+    | Tuition + fees | CHF 9,056 / EUR 8,430 | CHF 9,056 / EUR 8,430 |
+    | **Grand total** | **CHF 37,856 / EUR 35,215** | **CHF 57,056 / EUR 53,070** |
+
+    ---
+
+    **Sources:** EPFL official cost estimate, FMEL student housing listings (CHF 500-700/month), Swisscare/KVSG student insurance plans, Mobilis TL zone tariffs, Summer@EPFL budget reference (CHF 1,800/month).
 
 === "Detail"
 

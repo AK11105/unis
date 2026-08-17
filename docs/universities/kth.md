@@ -20,11 +20,106 @@ tags:
 
     ---
 
-    **Why it's here:** Scandinavia's leading tech university with strong ML, cybersecurity, and HPC research. The KTH India Scholarship covers full tuition + living — one of the best funding deals available anywhere on this list. Stockholm's tech ecosystem (Spotify, Ericsson) is thriving. No GRE needed.
+    **Faculty fit:**
 
-    **Programmes:** Computer Science · Machine Learning · Cybersecurity
+    - **Danica Kragic** (Tier 1) - Representation learning for embodied interaction, multimodal contrastive representations (ERC Advanced Grant)
+    - **Hossein Azizpour** (Tier 1) - Deep visual representation learning, transfer learning, self-supervised learning
+    - **Hedvig Kjellstrom** (Tier 2) - Latent variable models, VAEs for human motion prediction
 
-    **Watch out:** 8% CS acceptance, 6% ML acceptance — brutally competitive. Expensive without scholarship. Apply via UniversityAdmissions.se (can rank 4 programmes).
+    ---
+
+    **Verdict:** India Scholarship = full tuition + living. Two strong Tier 1 in representation learning for robotics/vision. RPL division is excellent.
+
+    **Watch out:** India Scholarship is competitive. Without it, tuition is ~SEK 310K (~EUR27K).
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | KTH India Scholarship | Full tuition + SEK 10,000/mo living | Both | Competitive | India-specific; few spots; separate application |
+    | Swedish Institute SISGP | Full tuition + SEK 10,000/mo living | Both | Long-shot | Very competitive globally |
+    | KTH fee waiver | Partial tuition waiver | Tuition | Competitive | Does not cover living costs |
+
+    ---
+
+    **Best strategy:** KTH India Scholarship is the only viable path for an Indian student. Without a scholarship, tuition is prohibitive (~EUR 27K total). Apply early and treat scholarship application as make-or-break.
+
+    **Sources:** [KTH Scholarships](https://www.kth.se/en/studies/fees-and-scholarships/scholarships), [KTH India Scholarship](https://www.kth.se/en/studies/fees-and-scholarships/scholarships/kth-scholarship-1.72827), [Swedish Institute SISGP](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/)
+
+=== "Faculty"
+
+    ### [Danica Kragic](http://www.csc.kth.se/~danik)
+
+    **Tier 1** | Robotics, Perception and Learning (RPL)
+
+    Representation learning for embodied interaction, geometric multimodal contrastive representations for robotics. ERC Advanced Grant. NeurIPS 2024 invited talk.
+
+    ---
+
+    ### [Hossein Azizpour](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11865.pdf)
+
+    **Tier 1** | RPL / CVAP
+
+    Deep visual representation learning, transfer learning, self-supervised learning. Pioneering work on CNN representation transferability. Active ECCV 2024, WACV 2025.
+
+    ---
+
+    ### [Hedvig Kjellstrom](https://people.kth.se/~hedvig/CV_Hedvig_Kjellstrom_2025.pdf)
+
+    **Tier 2** | RPL, Head of Department
+
+    Latent variable models, VAEs for human motion prediction, deep generative models for behavior. Connects representation learning with predictive models of human dynamics.
+
+    ---
+
+    ### [Atsuto Maki](https://www.kth.se/profile/atsuto)
+
+    **Tier 2** | RPL
+
+    Object-centric representation learning, self-supervised visual learning. "Efficient Object-Centric Learning for Videos" (2024).
+
+    ---
+
+    ### [Florian T. Pokorny](https://www.kth.se/is/rpl/research/research-at-rpl-1.689292)
+
+    **Tier 3** | RPL
+
+    Learned representations for robotics, topological methods, geometric representations for manipulation. WASP funded.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | SEK 5,000–8,000 / EUR 445–715 |
+    | Food / groceries | SEK 2,500–3,500 / EUR 225–310 |
+    | Health insurance | SEK 0 (covered by Swedish state for students registered >1 year) |
+    | Transport (SL student pass) | SEK 600–930 / EUR 54–83 |
+    | Miscellaneous | SEK 1,000–1,500 / EUR 89–134 |
+    | **Monthly total** | **SEK 9,500–13,500 / EUR 850–1,200** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition (non-EU, fee-paying) | SEK 155,000/year (EUR 13,840/year) |
+    | Tuition (with scholarship) | SEK 0 |
+    | **Total fees (2 years, fee-paying)** | **SEK 310,000 / EUR 27,680** |
+    | **Total fees (2 years, with scholarship)** | **SEK 0 / EUR 0** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | SEK 228,000 / EUR 20,360 | SEK 324,000 / EUR 28,930 |
+    | Tuition (fee-paying) | SEK 310,000 / EUR 27,680 | SEK 310,000 / EUR 27,680 |
+    | **Grand total (fee-paying)** | **SEK 538,000 / EUR 48,040** | **SEK 634,000 / EUR 56,610** |
+    | **Grand total (with scholarship)** | **SEK 228,000 / EUR 20,360** | **SEK 324,000 / EUR 28,930** |
+
+    ---
+
+    **Sources:** KTH tuition fees 2025/2026, Swedish Migration Agency maintenance requirement (SEK 9,450/month), KTH student housing (KTH Accommodation), SL monthly student pass pricing, KTH India Scholarship details.
 
 === "Detail"
 

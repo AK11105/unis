@@ -20,11 +20,104 @@ tags:
 
     ---
 
-    **Why it's here:** Top 10 globally and the best CS department in continental Europe — full stop. Extremely flexible curriculum, a world-class AI Center, and a direct PhD pipeline make this the ultimate destination. Google Zurich, IBM Research, and Disney Research are all in the backyard. ESOP scholarship covers everything if you can land it.
+    **Faculty fit:**
 
-    **Programmes:** Computer Science · Data Science
+    - **Fisher Yu** (Tier 1) - World models for autonomous driving, TrafficBots, learned simulators
+    - **Andreas Krause** (Tier 1) - Model-based RL with learned dynamics, Bayesian world models, safe exploration
+    - **Siyu Tang** (Tier 2) - Generative models for 3D humans, neural implicit representations
 
-    **Watch out:** Extremely early deadline (November 2026). Extremely competitive. Switzerland living costs are brutal. ESOP is key but only top 3–5% get it.
+    ---
+
+    **Verdict:** Top 10 globally. Two direct world models researchers. ESOP scholarship makes it free if you land top 3-5%.
+
+    **Watch out:** November 2026 deadline (earliest). Extremely competitive. Switzerland living costs brutal without ESOP.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | ESOP (Excellence Scholarship) | CHF 12,000/sem + tuition waiver | Both | Long-shot | Top 3-5% of applicants; ~50-60 awards total; life-changing |
+    | ETH-D Scholarship | CHF 12,000/yr + tuition waiver | Both | Competitive | ~50-60 awards; applied with admission |
+    | External foundations | Varies | Living | Competitive | Various Swiss and international sources |
+
+    ---
+
+    **Best strategy:** Apply for ESOP with the application (no separate deadline). Without it, ETH is extremely expensive (CHF 45-64K total). ESOP transforms ETH from unaffordable to fully funded.
+
+    **Sources:** [ETH Excellence Scholarship (ESOP)](https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html), [ETH Financial Aid](https://ethz.ch/students/en/studies/financial.html), [ETH-D Scholarship](https://ethz.ch/students/en/studies/financial/scholarships.html)
+
+=== "Faculty"
+
+    ### [Fisher Yu](https://github.com/SysCV/TrafficBots)
+
+    **Tier 1** | Computer Vision Lab, D-ITET
+
+    World models for autonomous driving (TrafficBots, ICRA 2023), learned simulators, end-to-end driving with latent representations for planning.
+
+    ---
+
+    ### [Andreas Krause](https://las.inf.ethz.ch/)
+
+    **Tier 1** | Learning and Adaptive Systems (LAS)
+
+    Model-based RL with learned dynamics (world models), Bayesian world models for safe exploration, scalable MBRL. Elected SATW 2026.
+
+    ---
+
+    ### [Siyu Tang](https://vlg.inf.ethz.ch/)
+
+    **Tier 2** | Computer Vision and Learning Group (VLG)
+
+    Generative models for 3D humans, neural implicit representations, learned latent representations for human motion and shape.
+
+    ---
+
+    ### [Marc Pollefeys](https://cvg.ethz.ch/)
+
+    **Tier 2** | Computer Vision and Geometry (CVG)
+
+    Visual representations for autonomous systems, 3D reconstruction, visual SLAM. Also Director of Microsoft Mixed Reality and AI Lab Zurich.
+
+    ---
+
+    ### [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/)
+
+    **Tier 3** | Statistical Machine Learning (SML)
+
+    Theoretical foundations of representation learning, understanding transferability, robustness under distribution shifts. Tenured 2026.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | CHF 700–1,200 / EUR 650–1,115 |
+    | Food / groceries | CHF 400–600 / EUR 370–560 |
+    | Health insurance | CHF 110–290 / EUR 100–270 |
+    | Transport | CHF 50–90 / EUR 47–84 |
+    | Miscellaneous | CHF 140–200 / EUR 130–185 |
+    | **Monthly total** | **CHF 1,500–2,300 / EUR 1,395–2,140** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | CHF 2,190/semester (EUR 2,040/semester) |
+    | Other fees | CHF 74/semester (EUR 69/semester) |
+    | **Total fees (2 years)** | **CHF 9,056 / EUR 8,430** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | CHF 36,000 / EUR 33,480 | CHF 55,200 / EUR 51,336 |
+    | Tuition + fees | CHF 9,056 / EUR 8,430 | CHF 9,056 / EUR 8,430 |
+    | **Grand total** | **CHF 45,056 / EUR 41,910** | **CHF 64,256 / EUR 59,766** |
+
+    ---
+
+    **Sources:** ETH Zurich official cost estimate (CHF 22,100/year living), ETH student services budget breakdown 2024, WOKO/Juwo student housing listings, Swisscare/KVSG student insurance plans, ZVV public transport tariffs.
 
 === "Detail"
 

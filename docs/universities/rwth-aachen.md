@@ -20,11 +20,98 @@ tags:
 
     ---
 
-    **Why it's here:** Tuition-free Dream-tier with Germany's largest technical university behind it. Strong HPC, distributed systems, and ML research, plus a direct partnership with Jülich Supercomputing Centre. Data Science has open admission and includes a Deutschlandticket. The best free option at this tier.
+    **Faculty fit:**
 
-    **Programmes:** Data Science · SSE · HCIS · Informatik
+    - **Hector Geffner** (Tier 1) - World models, learned representations for planning, model-based intelligence (RLeap lab)
+    - **Bastian Leibe** (Tier 2) - Self-supervised 3D representation learning, scene understanding
+    - **Christopher Morris** (Tier 2) - Graph representation learning, GNN expressivity
 
-    **Watch out:** GRE strictly enforced for Data Science (75th percentile quantitative). MOI not accepted for English proof. APS required.
+    ---
+
+    **Verdict:** Geffner alone makes this worth applying to - his lab is the single closest match to world models + representation learning on this list.
+
+    **Watch out:** No scholarship beyond HiWi. GRE required for DS track.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | Deutschlandstipendium | EUR 300/mo (12 months) | Living | Realistic | Merit-based; strong academic profile needed |
+    | HiWi (research assistant) | EUR 400-500/mo | Living | Realistic | Various departments; strong industry ecosystem |
+    | DAAD GSSP | EUR 992/mo | Living | Competitive | National-level competition |
+    | Heinrich Boll Foundation | EUR 934/mo | Living | Competitive | No German required; accessible for Indians |
+    | RWTH Scholarship Programs | Varies | Living | Competitive | Check international office for current offerings |
+
+    ---
+
+    **Best strategy:** Deutschlandstipendium + HiWi combination covers living costs in a free-tuition setup. RWTH's strong industry ties make HiWi positions readily available.
+
+    **Sources:** [RWTH International Office Funding](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~ejm/Stipendien-Foerderung/), [DAAD Scholarship Database](https://www.daad.de/en/study-and-research-in-germany/scholarships/), [Deutschlandstipendium](https://www.deutschlandstipendium.de/en/)
+
+=== "Faculty"
+
+    ### [Hector Geffner](https://ml.rwth-aachen.de/)
+
+    **Tier 1** | Representation, Learning, and Planning Lab (RLeap)
+
+    Learned world models, representations for planning, model-based intelligence. Humboldt Professor + ERC Advanced Grant. 2025/2026 paper: "From Next Token Prediction to World Models." The single closest faculty match on this entire list.
+
+    ---
+
+    ### [Bastian Leibe](https://www.vision.rwth-aachen.de/)
+
+    **Tier 2** | Computer Vision Group
+
+    Self-supervised 3D representation learning (point2vec), novel view synthesis, 4D panoptic segmentation with learned spatio-temporal queries.
+
+    ---
+
+    ### [Christopher Morris](https://chrsmrrs.github.io/)
+
+    **Tier 2** | Learning on Graphs (LoG)
+
+    Graph representation learning, GNN expressivity, equivariant architectures. Emmy Noether Fellow. Theoretical foundations of what representations GNNs can learn.
+
+    ---
+
+    ### [Holger Hoos](https://www.aim.rwth-aachen.de/)
+
+    **Tier 3** | AI Methodology (AIM)
+
+    AutoML, neural architecture search, algorithm configuration. Humboldt Professor. More meta-level (automating ML design) than directly on world models.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 350–500 |
+    | Food / groceries | EUR 200–300 |
+    | Health insurance | EUR 150 |
+    | Transport | Included (Deutschlandticket in semester fee) |
+    | Miscellaneous | EUR 100–150 |
+    | **Monthly total** | **EUR 850–1,100** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | EUR 0 |
+    | Semester fees | EUR 340/semester |
+    | **Total fees (2 years)** | **EUR 1,360** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 20,400 | EUR 26,400 |
+    | Tuition + fees | EUR 1,360 | EUR 1,360 |
+    | **Grand total** | **EUR 21,760** | **EUR 27,760** |
+
+    ---
+
+    **Sources:** Studierendenwerk Aachen, RWTH semester contribution schedule 2025, WG-gesucht Aachen market data, TK/AOK statutory insurance rates 2025.
 
 === "Detail"
 

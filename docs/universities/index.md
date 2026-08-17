@@ -2,10 +2,6 @@
 
 10 active applications, prioritised by scholarship viability and research fit. 6 others retained for reference but deprioritised.
 
-Filter by tag to view by **country** or **tier**:
-
-<!-- material/tags { include: [Germany, Switzerland, Sweden, France] } -->
-
 ---
 
 ## Primary (8)
@@ -15,7 +11,7 @@ Filter by tag to view by **country** or **tier**:
 | [Saarland](saarland.md) | Germany | Free + HiWi income |
 | [RWTH Aachen](rwth-aachen.md) | Germany | Free + HiWi income |
 | [TU Darmstadt](tu-darmstadt.md) | Germany | Free, lowest friction |
-| [Paris-Saclay](paris-saclay.md) | France | €254/yr + scholarship |
+| [KIT](kit.md) | Germany | Late deadline, CDS open admission |
 | [Tübingen](tuebingen.md) | Germany | Best ML ecosystem |
 | [IP Paris](ip-paris.md) | France | PhD Track funding |
 | [ETH Zurich](eth-zurich.md) | Switzerland | ESOP moonshot |
@@ -25,7 +21,7 @@ Filter by tag to view by **country** or **tier**:
 
 | University | Country | Strategy |
 |-----------|---------|----------|
-| [KIT](kit.md) | Germany | Late deadline, CDS open admission |
+| [Paris-Saclay](paris-saclay.md) | France | Only 25 spots globally |
 | [EPFL](epfl.md) | Switzerland | Excellence Fellowship moonshot |
 
 ## Deprioritised
@@ -35,8 +31,8 @@ Still accessible for reference. Not applying unless circumstances change.
 | University | Country | Reason |
 |-----------|---------|--------|
 | [TUM](tum.md) | Germany | Expensive + weak scholarship |
-| [TU Delft](tu-delft.md) | Netherlands | €48–51K, no realistic funding |
+| [TU Delft](tu-delft.md) | Netherlands | No realistic funding |
 | [Bonn](bonn.md) | Germany | >99% rejection for Indians |
-| [Eindhoven](eindhoven.md) | Netherlands | €43–44K, partial scholarships |
-| [Aalto](aalto.md) | Finland | €34–40K, tuition-only scholarship |
+| [Eindhoven](eindhoven.md) | Netherlands | Partial scholarships at best |
+| [Aalto](aalto.md) | Finland | Tuition-only scholarship |
 | [Freiburg](freiburg.md) | Germany | Covered better by Tübingen/Darmstadt |

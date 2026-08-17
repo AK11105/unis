@@ -20,11 +20,106 @@ tags:
 
     ---
 
-    **Why it's here:** Absurdly cheap (~€254/year) with world-class AI research backed by the CNRS/INRIA ecosystem. Only 25 students per cohort means an intimate environment with direct faculty access. Strong in deep learning, RL, NLP, and generative AI. Full fee exemption for internationals makes this the best cost-to-quality ratio in Europe.
+    **Faculty fit:**
 
-    **Programmes:** M.Sc. Computer Science (AI Track)
+    - **Myriam Tami** (Tier 1) - Causal representation learning, disentangled causal factors (NeurIPS 2024)
+    - **Guillaume Charpiat** (Tier 2) - Learning dynamical systems, neural representations for physical prediction
+    - **Bertrand Thirion** (Tier 2) - Representation learning methods, dictionary learning (French Academy of Sciences)
 
-    **Watch out:** Only 25 students (very selective). Application via INCEPTION platform. Information can be fragmented across departments. Scholarship (€10K/yr) not guaranteed.
+    ---
+
+    **Verdict:** Cheapest option (EUR254/yr), strong causal representation learning via Tami, CNRS/Inria ecosystem.
+
+    **Watch out:** Small cohort (25 students). French bureaucracy. Less established in world models specifically.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | IDEX International Master Scholarship | EUR 10,000/yr | Both | Competitive | Separate application; primary target |
+    | Eiffel Excellence Scholarship | EUR 1,181/mo | Living | Competitive | Nominated by university; separate process |
+    | Charpak Scholarship | EUR 700/mo | Living | Competitive | India-specific; Campus France application |
+    | CROUS housing aid | EUR 100-400/mo | Living | Realistic | Need-based |
+    | Ile-de-France regional aid | Varies | Living | Competitive | Various regional programs |
+
+    ---
+
+    **Best strategy:** IDEX scholarship is the primary target. With near-free tuition (EUR 254/yr), even partial funding goes far. Charpak (India-specific) and Eiffel provide additional living cost coverage.
+
+    **Sources:** [Paris-Saclay IDEX Scholarship](https://www.universite-paris-saclay.fr/en/admission/scholarships-and-financial-aid/international-master-scholarships), [Campus France Eiffel](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence), [Charpak Scholarship](https://www.inde.campusfrance.org/charpak-master-s-scholarship), [CROUS](https://www.crous-versailles.fr/)
+
+=== "Faculty"
+
+    ### [Myriam Tami](https://myriamtami.github.io/)
+
+    **Tier 1** | MICS Laboratory, CentraleSupelec
+
+    Causal representation learning, disentangled causal factors from high-dimensional data. NeurIPS 2024 on causal contrastive learning. ECML-PKDD 2025 on counterfactual robustness.
+
+    ---
+
+    ### [Guillaume Charpiat](https://www.lri.fr/~gcharpia/index.en.html)
+
+    **Tier 2** | TAU team, Inria Saclay / LISN
+
+    Learning dynamical systems, neural models for physical dynamics prediction. 2024-2026 work on Neural Delay Differential Equations for partially observed systems.
+
+    ---
+
+    ### [Bertrand Thirion](https://inria.fr/fr/bertrand-thirion-elu-membre-academie-sciences)
+
+    **Tier 2** | MIND team, Inria Saclay
+
+    Representation learning methods (dictionary learning, OT-based alignment). French Academy of Sciences 2025. MIND team explicitly covers "Learning coordinated representations."
+
+    ---
+
+    ### [Francois Landes](https://www.lri.fr/~flandes/index.html)
+
+    **Tier 2** | LISN / TAU team
+
+    Learned structural representations via GNNs for physical systems. Rotation-equivariant representations for complex dynamical systems.
+
+    ---
+
+    ### [Remi Flamary](http://www.remi.flamary.com/)
+
+    **Tier 2** | CMAP / cross-affiliated with Saclay
+
+    Optimal transport for representation alignment and domain adaptation. Foundational tools for learning domain-invariant representations.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 400–650 |
+    | Food / groceries | EUR 250–350 |
+    | Health insurance | EUR 12–30 (Securite Sociale covers 70%; complementary mutuelle for remainder) |
+    | Transport (Navigo Imagine-R) | EUR 40–50 |
+    | Miscellaneous | EUR 100–150 |
+    | **Monthly total** | **EUR 800–1,200** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | EUR 254/year |
+    | CVEC contribution | EUR 105/year |
+    | **Total fees (2 years)** | **EUR 718** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 19,200 | EUR 28,800 |
+    | Tuition + fees | EUR 718 | EUR 718 |
+    | **Grand total** | **EUR 19,918** | **EUR 29,518** |
+
+    ---
+
+    **Sources:** Universite Paris-Saclay international admissions, CROUS Versailles housing rates (EUR 266-541/month), Campus France cost of living, Navigo Imagine-R student pass, CAF APL eligibility (can reduce rent by EUR 100-200/month).
 
 === "Detail"
 

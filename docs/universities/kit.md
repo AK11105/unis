@@ -20,11 +20,107 @@ tags:
 
     ---
 
-    **Why it's here:** Top-tier German CS with deep strength in algorithms, HPC, robotics, and security. The CS programme is highly selective (100 places/year) but CDS offers open admission as a smart backdoor. Late deadlines give maximum prep time — a luxury most Dream-tier schools don't offer.
+    **Faculty fit:**
 
-    **Programmes:** Computer Science · Computational & Data Science
+    - **Gerhard Neumann** (Tier 1) - Learning dynamics in latent spaces, ERC Consolidator 2024 (SMARTI3), neural contractive dynamics
+    - **J. Marius Zollner** (Tier 1) - World models for autonomous driving (MUVO), multimodal latent representations
+    - **Christoph Stiller** (Tier 2) - Learned environment representations for motion prediction (RedMotion)
 
-    **Watch out:** CS has NC (numerus clausus) — only 100 places. €1,500/sem BW tuition. GRE required for CS only. APS needed.
+    ---
+
+    **Verdict:** Two Tier 1 world models researchers. Late deadline (Jun/Jul) means you can apply after seeing other results. CDS has open admission.
+
+    **Watch out:** EUR1500/sem BW tuition. Secondary priority - apply if bandwidth allows.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | BW tuition fee waiver | EUR 1,500/sem saved | Tuition | Long-shot | Limited spots for "highly gifted" international students |
+    | Deutschlandstipendium | EUR 300/mo (12 months) | Living | Realistic | Merit-based |
+    | HiWi (research assistant) | EUR 400-500/mo | Living | Realistic | Various departments |
+    | KIT Scholarship for International Students | Varies | Living | Competitive | Check international office |
+    | DAAD GSSP | EUR 992/mo | Living | Competitive | National-level competition |
+    | Heinrich Boll Foundation | EUR 934/mo | Living | Competitive | No German required; accessible for Indians |
+
+    ---
+
+    **Best strategy:** HiWi + Deutschlandstipendium to offset BW tuition (EUR 1,500/sem). Apply for tuition fee waiver as a priority - if granted, financial picture matches tuition-free German unis.
+
+    **Sources:** [KIT International Students Office](https://www.intl.kit.edu/istudies/9626.php), [KIT Scholarships](https://www.intl.kit.edu/istudies/9190.php), [DAAD Scholarship Database](https://www.daad.de/en/study-and-research-in-germany/scholarships/), [Deutschlandstipendium](https://www.deutschlandstipendium.de/en/)
+
+=== "Faculty"
+
+    ### [Gerhard Neumann](https://alr.iar.kit.edu/)
+
+    **Tier 1** | Autonomous Learning Robots Lab (ALR)
+
+    Learning dynamics in latent representation spaces, neural contractive dynamical systems (ICLR 2024). ERC Consolidator Grant 2024 (SMARTI3) for learning robot manipulation.
+
+    ---
+
+    ### [J. Marius Zollner](https://www.aifb.kit.edu/21_88.php)
+
+    **Tier 1** | Institute of Applied Informatics (AIFB) / FZI
+
+    World models for autonomous driving (MUVO), multimodal latent spatial representations, generative world models for anomaly detection. Active 2024-2025.
+
+    ---
+
+    ### [Christoph Stiller](https://www.mrt.kit.edu/)
+
+    **Tier 2** | Institute of Measurement and Control (MRT)
+
+    Learned environment representations for motion prediction (RedMotion, JointMotion). Self-supervised pre-training for compact scene representations.
+
+    ---
+
+    ### [Tamim Asfour](https://www.humanoids.kit.edu/)
+
+    **Tier 2** | High Performance Humanoid Technologies (H2T)
+
+    Visual imitation learning, affordance-based representations, learning spatial models from demonstrations for bimanual manipulation.
+
+    ---
+
+    ### [Rainer Stiefelhagen](https://cvhci.iar.kit.edu/)
+
+    **Tier 3** | Computer Vision for HCI (cv:hci)
+
+    Deep learning for CV, action recognition, generalizable visual representations. Teaches Deep Learning for Computer Vision at KIT.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 350–550 |
+    | Food / groceries | EUR 200–300 |
+    | Health insurance | EUR 150 |
+    | Transport | EUR 0–63 (semester Studikarte partial; full Deutschlandticket may require separate purchase) |
+    | Miscellaneous | EUR 100–150 |
+    | **Monthly total** | **EUR 850–1,150** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition (non-EU) | EUR 1,500/semester |
+    | Semester fees | EUR 184/semester |
+    | **Total fees (2 years)** | **EUR 6,736** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 20,400 | EUR 27,600 |
+    | Tuition + fees | EUR 6,736 | EUR 6,736 |
+    | **Grand total** | **EUR 27,136** | **EUR 34,336** |
+
+    ---
+
+    **Sources:** KIT International Students Office, Studierendenwerk Karlsruhe, Baden-Wurttemberg non-EU tuition policy, KIT semester fee breakdown 2025.
 
 === "Detail"
 

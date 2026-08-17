@@ -20,11 +20,108 @@ tags:
 
     ---
 
-    **Why it's here:** Arguably the single strongest ML location in continental Europe. The Cluster of Excellence in ML, Cyber Valley, Max Planck Institute for Intelligent Systems, and ELLIS unit are all here. Amazon Research and Bosch Center for AI are nearby. This programme exists specifically to produce ML researchers — if that's your path, nowhere else comes close.
+    **Faculty fit:**
 
-    **Programmes:** Machine Learning
+    - **Wieland Brendel** (Tier 1) - World models for multi-modal reasoning, visual representation learning via nonlinear ICA
+    - **Andreas Geiger** (Tier 1) - Learned simulators, generative 3D world models, disentangled representations
+    - **Martin V. Butz** (Tier 1) - Hierarchical world models, latent dynamics, predictive processing
+    - **Georg Martius** (Tier 1) - Autonomous learning, model-based RL, ERC Consolidator Grant on learning dynamics
 
-    **Watch out:** €1,500/sem BW tuition. Small city (focused research environment, not a metropolis). ML M.Sc. is the English option — Informatik is German-taught.
+    ---
+
+    **Verdict:** The single strongest world models concentration in Europe. Four Tier 1 faculty. Cluster of Excellence + Cyber Valley + MPI-IS.
+
+    **Watch out:** EUR1500/sem BW tuition. Small city. ML MSc is competitive.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | BW tuition fee waiver | EUR 1,500/sem saved | Tuition | Long-shot | Limited spots for exceptional students |
+    | HiWi at MPI-IS | EUR 400-500/mo | Living | Realistic | Many ML positions; Cyber Valley ecosystem |
+    | Deutschlandstipendium | EUR 300/mo (12 months) | Living | Realistic | Merit-based |
+    | Cyber Valley grants/positions | Varies | Living | Competitive | Available specifically for ML students |
+    | DAAD GSSP | EUR 992/mo | Living | Competitive | National-level competition |
+    | Heinrich Boll Foundation | EUR 934/mo | Living | Competitive | No German required; accessible for Indians |
+
+    ---
+
+    **Best strategy:** HiWi at MPI-IS/Cyber Valley is abundant for ML students and offsets BW tuition. Apply for fee waiver to eliminate the EUR 1,500/sem barrier.
+
+    **Sources:** [University of Tubingen International Office](https://uni-tuebingen.de/en/international/studying-in-tuebingen/financing-your-studies/), [MPI-IS Careers](https://is.mpg.de/jobs), [Cyber Valley](https://cyber-valley.de/en), [DAAD Scholarship Database](https://www.daad.de/en/study-and-research-in-germany/scholarships/)
+
+=== "Faculty"
+
+    ### [Wieland Brendel](https://brendel-group.github.io/)
+
+    **Tier 1** | Brendel Lab, ELLIS Institute Tubingen
+
+    World models for multi-modal reasoning, visual representation learning via nonlinear ICA, disentanglement. Studies how AI systems build and use internal world models.
+
+    ---
+
+    ### [Andreas Geiger](http://www.cvlibs.net/)
+
+    **Tier 1** | Autonomous Vision Group (AVG), MPI-IS
+
+    Learned simulators, generative 3D scene models, disentangled representations, neural radiance fields. Probabilistic generative models that decompose and reconstruct 3D scenes.
+
+    ---
+
+    ### [Martin V. Butz](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/)
+
+    **Tier 1** | Neuro-Cognitive Modeling Group
+
+    Hierarchical world models, latent dynamics, event-predictive cognition. Published "Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics" (2023).
+
+    ---
+
+    ### [Georg Martius](https://is.mpg.de/~gmartius)
+
+    **Tier 1** | Autonomous Learning Group, MPI-IS / ELLIS
+
+    Autonomous world model learning, model-based RL, sparse latent dynamics. ERC Consolidator Grant 2023 (EUR2M) on autonomous learning in robotics.
+
+    ---
+
+    ### [Hilde Kuehne](https://cvml.tuebingen.ai/)
+
+    **Tier 2** | Computer Vision and Multimodal Learning (CVML)
+
+    Self-supervised video representation learning, multimodal learning without labels, temporal representations. Also affiliated with MIT-IBM Watson AI Lab.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 400–600 |
+    | Food / groceries | EUR 200–300 |
+    | Health insurance | EUR 150 |
+    | Transport | Included (Deutschlandticket in semester fee) |
+    | Miscellaneous | EUR 100–170 |
+    | **Monthly total** | **EUR 900–1,200** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition (non-EU) | EUR 1,500/semester |
+    | Semester fees | EUR 150/semester |
+    | **Total fees (2 years)** | **EUR 6,600** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 21,600 | EUR 28,800 |
+    | Tuition + fees | EUR 6,600 | EUR 6,600 |
+    | **Grand total** | **EUR 28,200** | **EUR 35,400** |
+
+    ---
+
+    **Sources:** University of Tubingen International Office, Studierendenwerk Tubingen-Hohenheim, Baden-Wurttemberg non-EU tuition policy, Numbeo Tubingen, WG-gesucht market data.
 
 === "Detail"
 

@@ -67,7 +67,7 @@ markdown_extensions:
   - abbr
   - pymdownx.snippets:
       auto_append:
-        - docs/includes/abbreviations.md
+        - includes/abbreviations.md
   - toc:
       permalink: true
 
@@ -76,29 +76,19 @@ plugins:
   - tags
 
 nav:
-  - Home: index.md
-  - Profile: profile.md
-  - Shortlist: shortlist.md
-  - Documents: documents.md
-  - Faculty: faculty.md
+  - Shortlist: index.md
   - Universities:
     - universities/index.md
     - Primary:
       - Saarland: universities/saarland.md
       - RWTH Aachen: universities/rwth-aachen.md
       - TU Darmstadt: universities/tu-darmstadt.md
-      - Paris-Saclay: universities/paris-saclay.md
-      - Tübingen: universities/tuebingen.md
+      - KIT: universities/kit.md
+      - Tubingen: universities/tuebingen.md
       - IP Paris: universities/ip-paris.md
       - ETH Zurich: universities/eth-zurich.md
       - KTH: universities/kth.md
     - Secondary:
-      - KIT: universities/kit.md
+      - Paris-Saclay: universities/paris-saclay.md
       - EPFL: universities/epfl.md
-    - Deprioritised:
-      - TUM: universities/tum.md
-      - TU Delft: universities/tu-delft.md
-      - Bonn: universities/bonn.md
-      - Eindhoven: universities/eindhoven.md
-      - Aalto: universities/aalto.md
-      - Freiburg: universities/freiburg.md
+  - Documents: documents.md

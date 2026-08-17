@@ -20,11 +20,106 @@ tags:
 
     ---
 
-    **Why it's here:** €254/year buys access to 6 elite French schools (Polytechnique, Télécom Paris, ENSTA, ENSAE, ENPC, Télécom SudParis). The PhD Track offers guaranteed doctoral funding — a rare and powerful differentiator. Exceptional mathematics + AI training at minimal cost, with a clear research career path built in.
+    **Faculty fit:**
 
-    **Programmes:** AI · Computer Science · Math for AI
+    - **Kaouther Messaoud** (Tier 1) - Self-supervised representation learning, motion prediction as world modeling (CVPR/NeurIPS 2025)
+    - **Vicky Kalogeiton** (Tier 1) - Self-supervised visual representations, generative video models (CNRS Bronze Medal 2026)
+    - **Kiwon Um** (Tier 1) - Learned simulators, physical latent spaces, differentiable physics
 
-    **Watch out:** Information fragmented across constituent schools. PhD Track is the key differentiator — apply for it specifically. Application timeline varies by programme.
+    ---
+
+    **Verdict:** Three Tier 1 faculty, EUR254/yr cost, PhD Track guarantees doctoral funding. Surprisingly strong emerging world models group.
+
+    **Watch out:** Less established reputation than German flagships. Newer faculty (less track record of student outcomes).
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | PhD Track funding | Guaranteed doctoral salary (~EUR 82,800 over 3 yrs) | Both | Long-shot | Admission is competitive but funding automatic if accepted |
+    | Eiffel Excellence Scholarship | EUR 1,181/mo | Living | Competitive | Nominated by university; separate application |
+    | Charpak Scholarship | EUR 700/mo | Living | Competitive | India-specific; Campus France application |
+    | IP Paris merit scholarships | Tuition reduction or waiver | Tuition | Competitive | Based on application strength |
+    | CROUS housing aid | EUR 100-400/mo | Living | Realistic | Need-based; apply via CROUS portal |
+
+    ---
+
+    **Best strategy:** PhD Track admission = guaranteed funding from year 2 (EUR 10K/yr scholarship + doctoral salary). Eiffel and Charpak (India-specific) are the external options for M1/M2 years.
+
+    **Sources:** [IP Paris Admissions](https://www.ip-paris.fr/en/education/masters/funding), [Campus France Eiffel](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence), [Charpak Scholarship](https://www.inde.campusfrance.org/charpak-master-s-scholarship), [CROUS](https://www.crous-versailles.fr/)
+
+=== "Faculty"
+
+    ### [Kaouther Messaoud](https://kaoutherm.github.io/)
+
+    **Tier 1** | Multimedia Lab, Telecom Paris
+
+    Self-supervised representation learning, motion prediction as world modeling, video generation for dynamic scenes. CVPR 2025 on dual-level representation learning. NeurIPS 2025 OSKAR.
+
+    ---
+
+    ### [Vicky Kalogeiton](https://vicky.kalogeiton.info/)
+
+    **Tier 1** | VISTA team, LIX, Ecole Polytechnique
+
+    Self-supervised visual representations, generative video models, diffusion-based generation. CNRS Bronze Medal 2026. NeurIPS 2025 T-REGS, ICML 2026 IDES T.
+
+    ---
+
+    ### [Kiwon Um](https://perso.telecom-paristech.fr/kum/)
+
+    **Tier 1** | LTCI, Telecom Paris
+
+    Learned simulators, physical latent spaces for neural networks, differentiable physics. Trains neural nets coupled with physical simulations using simulated DoF as latent space.
+
+    ---
+
+    ### [Luiz Chamon](https://luizchamon.com/)
+
+    **Tier 2** | CMAP, Ecole Polytechnique
+
+    Structured/equivariant representation learning via constrained optimization. NeurIPS 2025 on learning approximately equivariant networks.
+
+    ---
+
+    ### [Florence d'Alche-Buc](https://perso.telecom-paristech.fr/fdalche/)
+
+    **Tier 3** | LTCI, Telecom Paris
+
+    Structured prediction, operator-valued kernels, Bayesian deep learning. Foundational methodology for structured representation learning.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 550–750 |
+    | Food / groceries | EUR 250–350 |
+    | Health insurance | EUR 12–30 (Securite Sociale covers 70%; complementary mutuelle for remainder) |
+    | Transport (Navigo Imagine-R) | EUR 40–50 |
+    | Miscellaneous | EUR 100–150 |
+    | **Monthly total** | **EUR 950–1,300** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | EUR 254/year |
+    | CVEC contribution | EUR 105/year |
+    | **Total fees (2 years)** | **EUR 718** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 22,800 | EUR 31,200 |
+    | Tuition + fees | EUR 718 | EUR 718 |
+    | **Grand total** | **EUR 23,518** | **EUR 31,918** |
+
+    ---
+
+    **Sources:** IP Paris admissions office, CROUS Ile-de-France housing rates, Campus France cost of living estimates, Navigo Imagine-R student annual pass pricing, CAF APL eligibility (can reduce rent by EUR 100-200/month).
 
 === "Detail"
 

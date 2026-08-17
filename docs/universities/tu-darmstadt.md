@@ -20,11 +20,106 @@ tags:
 
     ---
 
-    **Why it's here:** Tuition-free with a dedicated AI & ML Master's programme — rare in Germany. The UKP Lab is world-class in NLP, and CYSEC is a national cybersecurity centre. The latest deadline on this list gives maximum prep time. Near Frankfurt for industry access.
+    **Faculty fit:**
 
-    **Programmes:** AI & ML · Computer Science
+    - **Jan Peters** (Tier 1) - Model-based RL, learning environment dynamics, latent state-space models
+    - **Georgia Chalvatzaki** (Tier 1) - Embodied world models, latent dynamics, ERC Starting Grant 2024
+    - **Stefan Roth** (Tier 1) - Object-centric representation learning, GLASS (CVPR 2025)
 
-    **Watch out:** Less globally famous than TUM/ETH but research quality in NLP and security is genuinely top-tier. Verify English score requirements early.
+    ---
+
+    **Verdict:** Three Tier 1 faculty, zero GRE, zero recs, latest deadline. Lowest friction application with excellent research fit.
+
+    **Watch out:** Less brand prestige than ETH/EPFL. Fewer scholarship options beyond HiWi.
+
+=== "Scholarships"
+
+    | Scholarship | Amount | Covers | Odds | Notes |
+    |---|---|---|---|---|
+    | Deutschlandstipendium | EUR 300/mo (12 months) | Living | Realistic | Merit-based; no German required |
+    | HiWi (research assistant) | EUR 400-500/mo | Living | Realistic | Multiple departments hiring ML students |
+    | DAAD EPOS/Study Scholarship | EUR 992/mo | Living | Competitive | Some TU Darmstadt programmes eligible for EPOS |
+    | Heinrich Boll Foundation | EUR 934/mo | Living | Competitive | No German required; accessible for Indians |
+    | Hessen state programs | Varies | Living | Long-shot | Limited availability |
+
+    ---
+
+    **Best strategy:** Zero tuition means HiWi alone nearly covers monthly costs. Lowest financial barrier of all 10 universities.
+
+    **Sources:** [TU Darmstadt Scholarships](https://www.tu-darmstadt.de/studieren/finanzierung/stipendien/index.en.jsp), [DAAD Scholarship Database](https://www.daad.de/en/study-and-research-in-germany/scholarships/), [Deutschlandstipendium](https://www.deutschlandstipendium.de/en/)
+
+=== "Faculty"
+
+    ### [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/)
+
+    **Tier 1** | Intelligent Autonomous Systems (IAS)
+
+    Model-based RL, learning environment dynamics for robot control, latent state-space models. IEEE Fellow. Bridges physically consistent dynamic models with deep learning.
+
+    ---
+
+    ### [Georgia Chalvatzaki](https://hessian.ai/alfried-krupp-award-for-hessian-ai-computer-scientist-georgia-chalvatzaki/)
+
+    **Tier 1** | Interactive Robot Perception and Learning
+
+    Embodied world models, latent dynamics for human-robot interaction, learned neural scene representations. ERC Starting Grant 2024, Alfried Krupp Award 2025.
+
+    ---
+
+    ### [Stefan Roth](https://www.visinf.tu-darmstadt.de/)
+
+    **Tier 1** | Visual Inference Lab
+
+    Object-centric representation learning (GLASS, CVPR 2025), latent slot diffusion, disentangled scene decomposition. Dean of CS.
+
+    ---
+
+    ### [Kristian Kersting](https://ml-research.github.io/people/kkersting/index.html)
+
+    **Tier 2** | AI and Machine Learning Lab (AIML)
+
+    Probabilistic/neurosymbolic ML, combining learning and reasoning, generative models. AAAI Fellow. Founding Director of hessian.AI.
+
+    ---
+
+    ### [Justus Thies](https://justusthies.github.io/)
+
+    **Tier 2** | 3D Graphics and Vision (GraVis)
+
+    Neural rendering, neural scene representations, deferred neural rendering (neural textures). Eurographics Young Researcher Award 2024.
+
+=== "Cost"
+
+    ## Monthly Breakdown
+
+    | Item | Estimate |
+    |------|----------|
+    | Rent (shared flat) | EUR 400–600 |
+    | Food / groceries | EUR 200–300 |
+    | Health insurance | EUR 150 |
+    | Transport | Included (Deutschlandticket in semester fee) |
+    | Miscellaneous | EUR 100–170 |
+    | **Monthly total** | **EUR 900–1,200** |
+
+    ## Fixed Costs
+
+    | Item | Amount |
+    |------|--------|
+    | Tuition | EUR 0 |
+    | Semester fees | EUR 305/semester |
+    | **Total fees (2 years)** | **EUR 1,220** |
+
+    ## 2-Year Total Estimate
+
+    | | Low | High |
+    |---|---|---|
+    | Living (24 months) | EUR 21,600 | EUR 28,800 |
+    | Tuition + fees | EUR 1,220 | EUR 1,220 |
+    | **Grand total** | **EUR 22,820** | **EUR 30,020** |
+
+    ---
+
+    **Sources:** Studierendenwerk Darmstadt, TU Darmstadt semester fee schedule, Livingcost.org Darmstadt, TK/AOK statutory insurance rates 2025.
 
 === "Detail"
 
