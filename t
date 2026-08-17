@@ -1,1 +1,0 @@
-kiro-cli --resume-id b2d85b32-824f-44fd-ae81-b3e09ba323b0
